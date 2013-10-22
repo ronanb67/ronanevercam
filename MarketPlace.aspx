@@ -20,14 +20,15 @@
             </div>
             <!-- /.col-lg-4 -->
             <div class="col-lg-4">
-                <i class="icon-eye-close icon-4x"></i>
+                <i class="icon-eye-close icon-4x icon-align-center"></i>
                 <h2>Blur Faces </h2>
-                <p>Blur faces and license plates for anonymity.</p>
+                <p>Blur faces and license plates for anonymity.
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
             <!-- /.col-lg-4 -->
             <div class="col-lg-4">
-                <i class="icon-signal icon-4x"></i>
+                <i class="icon-signal icon-4x" ></i>
                 <h2>Broadcaster </h2>
                 <p>Multicasts your stream so that any number of people can watch it without using up your broadband.</p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
@@ -40,7 +41,8 @@
             <div class="col-lg-4">
                 <i class="icon-file-text icon-4x"></i>
                 <h2>Transcribe </h2>
-                <p>Transcribe audio to text using this app.</p>
+                <p>Transcribe audio to text using this app.
+                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
             <!-- /.col-lg-4 -->
@@ -54,7 +56,9 @@
             <div class="col-lg-4">
                 <i class="icon-film icon-4x"></i>
                 <h2>Watermark </h2>
-                <p>Add watermarks like company logos to your videos.</p>
+                <p>Add watermarks like company logos to your videos.
+                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
             <!-- /.col-lg-4 -->
@@ -65,21 +69,29 @@
             <div class="col-lg-4">
                 <i class="icon-android icon-4x"></i>
                 <h2>Android App Generator </h2>
-                <p>Create Android apps without coding.</p>
+                <p>Create Android apps without coding.
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
             <!-- /.col-lg-4 -->
             <div class="col-lg-4">
                 <i class="icon-question-sign icon-4x"></i>
                 <h2>Can't find your App?</h2>
-                <p>Tell us what you want and we will build it for you.</p>
+                <p>Tell us what you want and we will build it for you.
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
             <!-- /.col-lg-4 -->
             <div class="col-lg-4">
                 <i class="icon-heart icon-4x"></i>
                 <h2>Heartbeat </h2>
-                <p>Sends an alert if your camera goes offline.</p>
+                <p>Sends an alert if your camera goes offline.
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
             <!-- /.col-lg-4 -->
@@ -89,21 +101,28 @@
             <div class="col-lg-4">
                 <i class="icon-warning-sign icon-4x"></i>
                 <h2>Motion Detection </h2>
-                <p>Sends an Email or sms when motion occurs.</p>
+                <p>Sends an Email or sms when motion occurs.
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
             <!-- /.col-lg-4 -->
             <div class="col-lg-4">
                 <i class="icon-facebook icon-4x"></i>
                 <h2>Facebook Cam</h2>
-                <p>Connect live stream to Facebook.</p>
+                <p>Connect live stream to Facebook.
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
             <!-- /.col-lg-4 -->
             <div class="col-lg-4">
                 <img src="http://www.melbourneseoservices.com/wp-content/uploads/2012/11/xero-logo.jpg" width="80" height="60" alt="Xero Logo" />
                 <h2>XeroCam </h2>
-                <p>Link your camera footage to your Xero Accounts.</p>
+                <p>Link your camera footage to your Xero Accounts.
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
             <!-- /.col-lg-4 -->
@@ -120,14 +139,18 @@
             <div class="col-lg-4">
                 <i class="icon-volume-up icon-4x"></i>
                 <h2>Audio Stream</h2>
-                <p>Send an audio stream to your camera</p>
+                <p>Send an audio stream to your camera
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
             <!-- /.col-lg-4 -->
             <div class="col-lg-4">
                 <i class="icon-cloud icon-4x"></i>
                 <h2>Archive and Share</h2>
-                <p>Archive and share your footage with other users</p>
+                <p>Archive and share your footage with other users
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
             <!-- /.col-lg-4 -->
