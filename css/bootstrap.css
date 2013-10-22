@@ -2400,6 +2400,7 @@ input[type="button"].btn-block {
   font-style: normal;
   font-weight: normal;
   line-height: 1;
+  align-content:center;
 }
 
 .glyphicon-asterisk:before {
