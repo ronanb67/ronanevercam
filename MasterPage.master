@@ -1,0 +1,67 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link type="text/css" rel="stylesheet" href="css/bootstrap.css" /> 
+    <link type="text/css" rel="stylesheet" href="css/offcanvas.css" />
+    <link type="text/css" rel="stylesheet" href="css/site.css" />
+    <link  href="fonts/font-awesome.min.css" rel="stylesheet"/>
+    <link  href="fonts/Evercam-Extra-Icons/evercam-fonts.css" rel="stylesheet"/>
+
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form runat="server">
+
+        <div class="navbar navbar-fixed-top navbar-inverse" role="navigation">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="/Index.aspx">Evercam</a>
+                </div>
+                <div class="collapse navbar-collapse">
+
+                    <asp:Menu ID="NavigationMenu" runat="server" CssClass="navbarmain" Orientation="Horizontal" ForeColor="White" DynamicHorizontalOffset="2" StaticSubMenuIndent="10px">
+
+                        <DynamicMenuItemStyle HorizontalPadding="6px" VerticalPadding="4px"></DynamicMenuItemStyle>
+                        <Items>
+                            <asp:MenuItem NavigateUrl="~/Index.aspx" Text="Home" />
+                            <asp:MenuItem NavigateUrl="~/Connect.aspx" Text="Connect" />
+                            <asp:MenuItem NavigateUrl="~/Develop.aspx" Text="Develop" />
+                            <asp:MenuItem NavigateUrl="~/MarketPlace.aspx" Text="Marketplace" />
+                            <asp:MenuItem NavigateUrl="~/Account/Login.aspx" Text="Log-in" />
+                        </Items>
+
+                        <StaticMenuItemStyle HorizontalPadding="15px" VerticalPadding="6px"></StaticMenuItemStyle>
+                    </asp:Menu>
+
+                </div>
+                <!-- /.nav-collapse -->
+            </div>
+            <!-- /.container -->
+        </div>
+        <!-- /.navbar -->
+        <div class="container">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+            <br />
+            <br />
+            <br />
+            <footer>
+                <p class="pull-right">Telephone +353 (1) 538 3333 | Email <a href="mailto:info@evercam.com">info@evercam.com</a></p>
+                <p>&copy; 2013 Evercam, 12 Parnell Square East, Dublin 1, Ireland.</p>
+            </footer>
+
+        </div>
+
+    </form>
+</body>
+</html>
