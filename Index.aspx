@@ -13,7 +13,7 @@
         </div>
     </div> 
     <div class="sidebar">
-                    <div class="col-xs-4 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
+                    <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
                         <div class="well sidebar-nav">
 
                             <asp:Menu ID="Menu1" runat="server">
