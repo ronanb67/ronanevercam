@@ -42,7 +42,6 @@
   text-decoration: inherit;
   -webkit-font-smoothing: antialiased;
   *margin-right: .3em;
-
 }
 [class^="icon-"]:before,
 [class*=" icon-"]:before {

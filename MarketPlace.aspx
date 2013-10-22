@@ -11,7 +11,7 @@
         </div>
     <div class="container marketing">
 
-        <div class="row">
+        <div class="row">            
             <div class="col-lg-4">
                 <img src="http://joby.com/img/gorillacam/icon-timelapse.png" width="80" height="60" alt="Timelapse Logo" />
                 <h2>TimeLapse </h2>
