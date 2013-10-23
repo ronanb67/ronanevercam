@@ -29,7 +29,7 @@
             <!-- /.col-lg-4 -->
             <div class="col-lg-4">
                 <i class="icon-signal icon-4x" ></i>
-                <h2>Broadcaster </h2>
+                <h2>Multicaster </h2>
                 <p>Multicasts your stream so that any number of people can watch it without using up your broadband.</p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
@@ -268,7 +268,7 @@
                 <h2>GOPRO</h2>
                 <p>
                     Connect to your GOPRO camera to capture and store video.
-                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                      
                     
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
