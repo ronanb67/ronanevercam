@@ -21,7 +21,8 @@
                 Traditional IP Camera development requires writing hardware specific code and managing a large amount of camera meta-data, as well as implementing a complex authentication 
                         model. Evercam allows you to write simple, re-useable code which works across a vast array of different cameras. Evercam stores and maintains information about all connected cameras. 
                         Evercam automatically provides a simple and powerful authentication model for granting access to cameras. Read more about our <a href='apiquickreference'>API</a> or try it on-site right
-                         now with our <a href='/Console.aspx'>interactive console.</a>
+                         now with our <a href='/Console.aspx'>interactive console</a>.
+
             </p>
         </div>
         <div class="col-md-4">

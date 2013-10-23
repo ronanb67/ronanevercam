@@ -944,7 +944,7 @@ h1[id] {
  */
 
 .bs-glyphicons {
-  padding-left: 0;
+  padding-left: 20px;
   padding-bottom: 1px;
   margin-bottom: 20px;
   list-style: none;
