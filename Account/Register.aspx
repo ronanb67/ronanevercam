@@ -1,19 +1,14 @@
 ﻿<%@ Page Title="Register" Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="Register.aspx.cs" Inherits="Account_Register" %>
 
-<asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
+<asp:Content ID="HeaderContent" runat="server" ContentPlaceHolderID="head">
 </asp:Content>
-<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
-    <div class="jumbotron">
-        <div class="container">
-            
-            <h1>Register</h1>
-            <p>Set up an account with Evercam today.</p>
-            <asp:CreateUserWizard ID="RegisterUser" runat="server" EnableViewState="false" >
-            <LayoutTemplate>
+<asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="ContentPlaceHolder1">
+    <asp:CreateUserWizard ID="RegisterUser" runat="server" EnableViewState="false" OnCreatedUser="RegisterUser_CreatedUser">
+        <LayoutTemplate>
             <asp:PlaceHolder ID="wizardStepPlaceholder" runat="server"></asp:PlaceHolder>
             <asp:PlaceHolder ID="navigationPlaceholder" runat="server"></asp:PlaceHolder>
         </LayoutTemplate>
-        <WizardSteps>
+        <%--<WizardSteps>
             <asp:CreateUserWizardStep ID="RegisterUserWizardStep" runat="server">
                 <ContentTemplate>
                     <h2>
@@ -74,10 +69,6 @@
                 <CustomNavigationTemplate>
                 </CustomNavigationTemplate>
             </asp:CreateUserWizardStep>
-        </WizardSteps>
+        </WizardSteps>--%>
     </asp:CreateUserWizard>
-
-        </div>
-    </div>
 </asp:Content>
-

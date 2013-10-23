@@ -9,7 +9,7 @@
             <p>Welcome to the marketplace. Sign up your camera and then come and try out the app store.</p>
         </div>
         </div>
-    <div class="container marketing">
+    <div class="container marketing" style="align-content:center;">
 
         <div class="row">            
             <div class="col-lg-4">
@@ -80,7 +80,7 @@
                  <asp:Image runat="server" ImageUrl="~/images/Maps-icon.png" width="80" Height="60"/>
                 <h2>GPS</h2>
                 <p>Video from multiple cameras by location & route (GPS + DateTime).
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
@@ -109,10 +109,10 @@
             <div class="col-lg-4">
                 <asp:Image runat="server" ImageUrl="~/images/facebook-icon.png" width="80" Height="60"/>
                 <h2>Facebook Cam</h2>
-                <p>Connect live stream to Facebook.
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <p>Connect live stream to Facebook.                                   
+                   
                 </p>
+                <p>&nbsp</p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
             <!-- /.col-lg-4 -->
@@ -160,8 +160,7 @@
                 <i class="icon-camera icon-4x"></i>
                 <h2>Batch Router</h2>
                 <p>
-                    Video from multiple cameras by batch router (Location + DateTime).
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    Video from multiple cameras by batch router (Location + DateTime).                    
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
@@ -170,8 +169,7 @@
                 <img src="https://vine.co/static/images/trademark_logo.gif" width="80" height="60" alt="Xero Logo" />
                 <h2>Vine</h2>
                 <p>
-                    Take camera snapshots to compose a <a href="www.vine.com">Vine</a> animated gif.
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    Take camera snapshots to compose a <a href="www.vine.com">Vine</a> animated gif.                    
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
@@ -180,8 +178,7 @@
                 <i class="icon-music icon-4x"></i>
                 <h2>Tune</h2>
                 <p>
-                    Play a tune on my camera when something happens.
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    Play a tune on my camera when something happens.                    
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
@@ -193,8 +190,8 @@
                 <i class="icon-eur icon-4x"></i>
                 <h2>Paywall</h2>
                 <p>
-                    Broadcast with a paywall.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                  Broadcast your stream while using a paywall. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    
+                    
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
@@ -210,12 +207,11 @@
             </div>
             <!-- /.col-lg-4 -->
             <div class="col-lg-4">
-                <i class="icon-cloud icon-4x"></i>
+                <asp:Image runat="server" ImageUrl="~/images/CCTV-icon.png" width="80" Height="60"/>
                 <h2>PIR</h2>
                 <p>
-                    Detect PIR.
-                       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    Passive Infrared sensor, measures infrared (IR) light radiating from objects in its field of view.
+                                           
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
@@ -227,9 +223,9 @@
                 <i class="icon-file icon-4x"></i> 
                 <h2>FTP</h2>
                 <p>
-                    FTP upload.
+                    Transfer your files using an FTP upload.
                       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
@@ -238,8 +234,7 @@
                <asp:Image runat="server" ImageUrl="~/images/skype-icon.png" width="80" Height="60"/>
                 <h2>Skype</h2>
                 <p>
-                    Connect my camera to Skype so that I can call it & view / talk.
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    Connect my camera to Skype so that I can call it and view or talk.                    
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
@@ -261,9 +256,9 @@
                 <asp:Image runat="server" ImageUrl="~/images/Dropcam.png" width="80" Height="60"/>
                 <h2>Dropcam</h2>
                 <p>
-                    Connect your Dropcam.
+                    Drop in live and connect to your Dropcam camera.
                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
@@ -272,9 +267,9 @@
                 <asp:Image runat="server" ImageUrl="~/images/gopro.png" width="80" Height="60"/>
                 <h2>GOPRO</h2>
                 <p>
-                    Connect your GOPRO.
-                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    Connect to your GOPRO camera to capture and store video.
+                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
@@ -296,8 +291,7 @@
                 <asp:Image runat="server" ImageUrl="~/images/dropbox-icon.png" width="80" Height="60"/>
                 <h2>Dropbox</h2>
                 <p>
-                    Send your camera output to Dropbox.
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    Send the output from your camera to your Dropbox account.                    
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
@@ -306,7 +300,7 @@
                 <asp:Image runat="server" ImageUrl="~/images/YouTube-icon.png" width="80" Height="60"/>
                 <h2>Youtube</h2>
                 <p>
-                    Send your camera output to Youtube Live.
+                    Send the output from your camera to Youtube Live.  
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
@@ -316,9 +310,7 @@
                <asp:Image runat="server" ImageUrl="~/images/Vidyo.jpg" width="80" Height="60"/>
                 <h2>Vidyo</h2>
                 <p>
-                    Send your camera output to Vidyo.
-                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    Send the output from your camera to your Vidyo account.                      
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
@@ -340,8 +332,7 @@
                <asp:Image runat="server" ImageUrl="~/images/android-icon.png" width="80" Height="60"/>
                 <h2>App Generator</h2>
                 <p>
-                    Android Single Purpose on-the fly App Robo-developer/
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    Android Single Purpose on-the fly App Robo-developer.                    
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
@@ -350,10 +341,9 @@
                <asp:Image runat="server" ImageUrl="~/images/CCTV-icon.png" width="80" Height="60"/>
                 <h2>Incident Generator</h2>
                 <p>
-                    Gather clips from various streams.
+                    Gather clips from various camera streams.
                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </p>
+               </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
             <!-- /.col-lg-4 -->
@@ -374,9 +364,9 @@
                 <i class="icon-film icon-4x"></i> 
                 <h2>Transcoder</h2>
                 <p>
-                    Transcoding of video to other formats.
+                    Transcode your video into other formats (audio etc).
                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                   
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
@@ -385,9 +375,9 @@
                 <asp:Image runat="server" ImageUrl="~/images/kinesense.png" width="80" Height="60"/>
                 <h2>Kinesense</h2>
                 <p>
-                    <a href="Kinesense.com">Kinesense</a> integration.
+                    Integrate with <a href="Kinesense.com">Kinesense</a>(forensic video analysis).
                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
