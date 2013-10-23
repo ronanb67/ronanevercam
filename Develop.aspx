@@ -1,6 +1,10 @@
 ﻿<%@ Page Title="Develop" Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="Develop.aspx.cs" Inherits="Develop" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
+    <script src="assets/jquery.js"></script>
+    <script src="highlight/highlight.js/highlight.pack.js"></script>
+    <link href="highlight/highlight.js/styles/googlecode.css" rel="stylesheet" />
+    <script>hljs.initHighlightingOnLoad();</script>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
     <div class="jumbotron">
@@ -26,13 +30,20 @@
             </p>
         </div>
         <div class="col-md-4">
-
             <!--PLACEHOLDER FOR CODE DISPLAY-->
-            
-            <asp:TextBox ID="Codeplaceholder" runat="server" CssClass="codeplaceholder" Width="350px" Height="400px"
-                    TextMode="MultiLine" placeholder="Sample Code"></asp:TextBox>
-            <!--<img class="featurette-image img-responsive" src="data:image/png;base64," data-src="holder.js/400x500/text:Sample Code" alt="Generic placeholder image" /> -->
-
+            <pre><code data-language="python"> >>> from types import *
+class BankAccount(object):
+    def __init__(self, initial_balance=0):
+        self.balance = initial_balance
+    def deposit(self, amount):
+        self.balance += amount
+    def withdraw(self, amount):
+        self.balance -= amount
+    def overdrawn(self):
+        return self.balance < 0
+my_account = BankAccount(15)
+my_account.withdraw(5)
+print my_account.balance</code></pre>
         </div>
     </div>
     <hr class="featurette-divider"/>
