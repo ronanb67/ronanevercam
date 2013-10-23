@@ -120,7 +120,7 @@
   <span
     class="g-signin"
     data-callback="signinCallback"
-    data-clientid="973870774917.apps.googleusercontent.com"
+    data-clientid="1015513223151-l4stovuktjsfscb6tb303dlakgof4b27.apps.googleusercontent.com"
     data-cookiepolicy="single_host_origin"
     data-requestvisibleactions="http://schemas.google.com/AddActivity"
     data-scope="https://www.googleapis.com/auth/plus.login">
