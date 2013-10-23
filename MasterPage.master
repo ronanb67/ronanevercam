@@ -55,11 +55,11 @@
 
             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
                 
-                <div class="sidebar">
-                    <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
-                        <div class="well sidebar-nav">
-
-                            <asp:Menu ID="Menu1" runat="server" CssClass="nav">
+                <div class="container">
+        <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
+            <div class="well sidebar-nav">
+                
+                    <asp:Menu ID="Menu1" runat="server" CssClass="sidebar">
 
                                 <Items>
                                     <asp:MenuItem NavigateUrl="~/Index.aspx" Text="Home" />
@@ -72,11 +72,10 @@
                                     <asp:MenuItem NavigateUrl="~/Console.aspx" Text="Console" />
                                 </Items>
                             </asp:Menu>
-                        </div>
-                        <!--/.well -->
-                    </div>
-                    <!--/span-->
-                </div>  
+            </div>
+            <!--/.well -->
+        </div><!--/span-->
+        </div>
                     
              
             </asp:ContentPlaceHolder>

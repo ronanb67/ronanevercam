@@ -12,8 +12,8 @@
             <p><a class="btn btn-primary btn-lg" href="/Develop.aspx">Learn more &raquo;</a></p>
         </div>
     </div> 
-    <div class="sidebar">
-                    <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
+    
+                    <%--<div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
                         <div class="well sidebar-nav">
 
                             <asp:Menu ID="Menu1" runat="server">
@@ -32,8 +32,9 @@
                         </div>
                         <!--/.well -->
                     </div>
-                    <!--/span-->
-                </div>  
+                    <!--/span-->--%>
+    
+                 
     
 
     <div class="container marketing">       
