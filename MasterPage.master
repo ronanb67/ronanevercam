@@ -6,10 +6,15 @@
 <head runat="server">
     <title></title>
     <link type="text/css" rel="stylesheet" href="css/bootstrap.css" /> 
+    <link type="text/css" rel="stylesheet" href="css/bootstrap-theme.css" /> 
     <link type="text/css" rel="stylesheet" href="css/offcanvas.css" />
     <link type="text/css" rel="stylesheet" href="css/site.css" />
     <link  href="fonts/font-awesome.min.css" rel="stylesheet"/>
+    <link  href="fonts/fonts-awesome.css" rel="stylesheet"/>
     <link  href="fonts/Evercam-Extra-Icons/evercam-fonts.css" rel="stylesheet"/>
+    <link type="text/css" rel="stylesheet" href="css/bootstrap.min.css" /> 
+    <link  href="jcubic/css/jquery.terminal.css" rel="stylesheet"/>
+     <link  href="highlight/highlight.js/styles/googlecode.css" rel="stylesheet"/>
 
     <asp:ContentPlaceHolder id="head" runat="server">
     </asp:ContentPlaceHolder>
@@ -54,12 +59,12 @@
         <div class="container">
 
             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
-                
+
                 <div class="container">
-        <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
-            <div class="well sidebar-nav">
-                
-                    <asp:Menu ID="Menu1" runat="server" CssClass="sidebar">
+                    <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
+                        <div class="well sidebar-nav">
+
+                            <asp:Menu ID="Menu1" runat="server" CssClass="sidebar">
 
                                 <Items>
                                     <asp:MenuItem NavigateUrl="~/Index.aspx" Text="Home" />
@@ -72,20 +77,21 @@
                                     <asp:MenuItem NavigateUrl="~/Console.aspx" Text="Console" />
                                 </Items>
                             </asp:Menu>
-            </div>
-            <!--/.well -->
-        </div><!--/span-->
-        </div>
-                    
-             
+                        </div>
+                        <!--/.well -->
+                    </div>
+                    <!--/span-->
+                </div>
             </asp:ContentPlaceHolder>
 
             <br />
             <br />
             <br />
             <footer>
-                <p class="pull-right">Telephone +353 (1) 538 3333 | Email <a href="mailto:info@evercam.com">info@evercam.com</a></p>
+                <p style="float:right"><a href="Contact.aspx">Contact us</a></p>
+                <p>Telephone +353 (1) 538 3333 | Email <a href="mailto:info@evercam.com">info@evercam.com</a></p>
                 <p>&copy; 2013 Evercam, 12 Parnell Square East, Dublin 1, Ireland.</p>
+                                
             </footer>
 
         </div>
