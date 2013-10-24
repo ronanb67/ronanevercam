@@ -109,10 +109,9 @@
             <div class="col-lg-4">
                 <asp:Image runat="server" ImageUrl="~/images/facebook-icon.png" width="80" Height="60"/>
                 <h2>Facebook Cam</h2>
-                <p>Connect live stream to Facebook.                                   
-                   
-                </p>
-                <p>&nbsp</p>
+                <p>Connect a live stream to your Facebook account.                                  
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+                </p>                
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
             <!-- /.col-lg-4 -->
