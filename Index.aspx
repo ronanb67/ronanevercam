@@ -19,7 +19,7 @@
                                 <li><a href="Index.aspx">Home</a></li>
                                 <li><a href="Connect.aspx">Connect</a></li>
                                 <li><a href="Develop.aspx">Develop</a></li>
-                                <li><a href="Marketplace.aspx">Marketplace</a></li>
+                                <li><a href="MarketPlace.aspx">Marketplace</a></li>
                                 <li><a href="Account/Login.aspx">Sign-in</a></li>
                             </ul>
                         </div>
