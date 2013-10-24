@@ -14,7 +14,7 @@
     </div>     
                     <div class="container">
                     <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
-                        <div class="sidebar">
+                        <div class="sidebar" style="margin-top:-315px;">
                             <ul>
                                 <li><a href="Index.aspx#WhatIsIt">What is Evercam</a></li>
                                 <li><a href="Index.aspx#Why">Why Evercam</a></li>
