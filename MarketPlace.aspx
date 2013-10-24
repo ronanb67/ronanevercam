@@ -9,6 +9,22 @@
             <p>Welcome to the marketplace. Sign up your camera and then come and try out the app store.</p>
         </div>
         </div>
+    <div class="container">
+
+        <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
+            <div class="sidebar">
+                <ul>
+                    <li><a href="MarketPlace.aspx">Analytics</a></li>
+                    <li><a href="MarketPlace.aspx">Transcoding</a></li>
+                    <li><a href="MarketPlace.aspx">Storage</a></li>
+                    <li><a href="MarketPlace.aspx">Restreaming </a></li>
+                    <li><a href="MarketPlace.aspx">Messaging</a></li>
+                </ul>
+            </div>
+            <!--/.well -->
+        </div>
+        <!--/span-->
+    </div>
     <div class="container marketing" style="align-content:center;">
 
         <div class="row">            

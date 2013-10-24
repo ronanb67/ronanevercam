@@ -38,13 +38,20 @@
             padding-bottom:5px;            
                         
            }
-/*Home page sidebar*/
-.sidebar{float: right;
-        width:0%;             
-        padding-right:10px;
+/*2nd Nav- sidebar*/
+.sidebar{float: left;
+        width:80%;             
+        padding-top:10px;
         padding-left:0px;
-        height:auto;
-        font-size:medium
+        padding-bottom:10px;
+        height:300px;
+        font-size:medium;
+        background-color:#eeeeee;        
+        margin-left:-250px;
+        
+        margin-top:-260px;
+                
+
 }
 .codeplaceholder{ background-color:#eeeeee;
                   font-size: x-large;

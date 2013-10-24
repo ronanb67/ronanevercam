@@ -11,9 +11,9 @@
     </div>
     <div class="container">
         <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
-            <div class="well sidebar-nav">
+            <div class="sidebar">
                 <ul>
-                    <li><a href="Index.aspx#WhatIsIt">What is Evercam</a></li>
+                    <li><a href="Connect.aspx#Connect">Connect</a></li>
                     <li>Learn More</li>
                     <ul>
                         <li><a href="Knowledgebase.aspx">Knowledgebase</a></li>

@@ -15,7 +15,7 @@
     </div>
     <div class="container">
         <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
-            <div class="well sidebar-nav">
+            <div class="sidebar">
                 <ul>
                     <li><a href="Develop.aspx#FreeAPI">Free API</a></li>
                     <li><a href="Develop.aspx#ProAPI">Pro API</a></li>
