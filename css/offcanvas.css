@@ -8,17 +8,6 @@ body {
 footer {
   padding-left: 15px;
   padding-right: 15px;
-  padding-bottom:40px;
- 
-
-}
-
-/* absolute;
-}
-
-/*
- * O
- * 
 }
 
 /*
@@ -53,7 +42,7 @@ footer {
 
   .sidebar-offcanvas {
     position: absolute;
-    top: 0px;
-    width: 50%; /* 6 columns */  
-      }
+    top: 0;
+    width: 50%; /* 6 columns */
+  }
 }

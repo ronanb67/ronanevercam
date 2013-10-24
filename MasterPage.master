@@ -5,16 +5,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title></title>
-    <link type="text/css" rel="stylesheet" href="css/bootstrap.css" /> 
-    <link type="text/css" rel="stylesheet" href="css/bootstrap-theme.css" /> 
-    <link type="text/css" rel="stylesheet" href="css/offcanvas.css" />
-    <link type="text/css" rel="stylesheet" href="css/site.css" />
-    <link  href="fonts/font-awesome.min.css" rel="stylesheet"/>
-    <link  href="fonts/fonts-awesome.css" rel="stylesheet"/>
-    <link  href="fonts/Evercam-Extra-Icons/evercam-fonts.css" rel="stylesheet"/>
-    <link type="text/css" rel="stylesheet" href="css/bootstrap.min.css" /> 
-    <link  href="jcubic/css/jquery.terminal.css" rel="stylesheet"/>
-     <link  href="highlight/highlight.js/styles/googlecode.css" rel="stylesheet"/>
+  
+    <link href="highlight/highlight.js/styles/googlecode.css" rel="stylesheet" />
+    <link href="fonts/font-awesome.css" rel="stylesheet" />
+    <link href="fonts/Evercam-Extra-Icons/evercam-fonts.css" rel="stylesheet" />
+    <link href="css/bootstrap-theme.css" rel="stylesheet" />
+    <link href="css/bootstrap.css" rel="stylesheet" />
+    <link href="css/offcanvas.css" rel="stylesheet" />
+    <link href="css/site.css" rel="stylesheet" />
+    <link href="css/Evercam-Terminal.css" rel="stylesheet" />   
+      
 
     <asp:ContentPlaceHolder id="head" runat="server">
     </asp:ContentPlaceHolder>
@@ -33,22 +33,13 @@
                     <a class="navbar-brand" href="/Index.aspx">Evercam</a>
                 </div>
                 <div class="collapse navbar-collapse">
-
-                    <asp:Menu ID="NavigationMenu" runat="server" CssClass="navbarmain" Orientation="Horizontal" ForeColor="White" DynamicHorizontalOffset="2" StaticSubMenuIndent="10px">
-
-                        <DynamicMenuItemStyle HorizontalPadding="6px" VerticalPadding="4px"></DynamicMenuItemStyle>
-                        <Items>
-                            <asp:MenuItem NavigateUrl="~/Index.aspx" Text="Home" />
-                            <asp:MenuItem NavigateUrl="~/Connect.aspx" Text="Connect" />
-                            <asp:MenuItem NavigateUrl="~/Develop.aspx" Text="Develop" />
-                            <asp:MenuItem NavigateUrl="~/MarketPlace.aspx" Text="Marketplace" />
-                            <asp:MenuItem NavigateUrl="~/Account/Login.aspx" Text="Log-in" />
-                        </Items>
-
-
-                        <StaticMenuItemStyle HorizontalPadding="15px" VerticalPadding="6px"></StaticMenuItemStyle>
-                    </asp:Menu>
-                    
+                    <ul class="nav navbar-nav" style="">
+                        <li><a href="Index.aspx">Home</a></li>
+                        <li><a href="Connect.aspx">Connect</a></li>
+                        <li><a href="Develop.aspx">Develop</a></li>
+                        <li><a href="Marketplace.aspx">Marketplace</a></li>
+                        <li><a href="Account/Login.aspx">Sign-in</a></li>
+                    </ul>
 
                 </div>
                 <!-- /.nav-collapse -->
@@ -60,28 +51,7 @@
 
             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
 
-                <div class="container">
-                    <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
-                        <div class="well sidebar-nav">
-
-                            <asp:Menu ID="Menu1" runat="server" CssClass="sidebar">
-
-                                <Items>
-                                    <asp:MenuItem NavigateUrl="~/Index.aspx" Text="Home" />
-                                    <asp:MenuItem NavigateUrl="~/Connect.aspx" Text="Connect" />
-                                    <asp:MenuItem NavigateUrl="~/Develop.aspx" Text="Develop" />
-                                    <asp:MenuItem NavigateUrl="~/MarketPlace.aspx" Text="Marketplace" />
-                                    <asp:MenuItem NavigateUrl="~/Account/Login.aspx" Text="Log-in" />
-                                    <asp:MenuItem NavigateUrl="~/Knowledgebase.aspx" Text="Knowledgebase" />
-                                    <asp:MenuItem NavigateUrl="~/Contact.aspx" Text="Contact Us" />
-                                    <asp:MenuItem NavigateUrl="~/Console.aspx" Text="Console" />
-                                </Items>
-                            </asp:Menu>
-                        </div>
-                        <!--/.well -->
-                    </div>
-                    <!--/span-->
-                </div>
+                
             </asp:ContentPlaceHolder>
 
             <br />
@@ -98,4 +68,5 @@
 
     </form>
 </body>
+
 </html>

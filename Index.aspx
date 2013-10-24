@@ -11,31 +11,22 @@
             <p>Evercam makes it easy to integrate live video with your applications.</p>
             <p><a class="btn btn-primary btn-lg" href="/Develop.aspx">Learn more &raquo;</a></p>
         </div>
-    </div> 
-    
-                    <%--<div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
+    </div>     
+                    <div class="container">
+                    <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
                         <div class="well sidebar-nav">
-
-                            <asp:Menu ID="Menu1" runat="server">
-
-                                <Items>
-                                    <asp:MenuItem NavigateUrl="~/Index.aspx" Text="Home" />
-                                    <asp:MenuItem NavigateUrl="~/Connect.aspx" Text="Connect" />
-                                    <asp:MenuItem NavigateUrl="~/Develop.aspx" Text="Develop" />
-                                    <asp:MenuItem NavigateUrl="~/MarketPlace.aspx" Text="Marketplace" />
-                                    <asp:MenuItem NavigateUrl="~/Account/Login.aspx" Text="Log-in" />
-                                    <asp:MenuItem NavigateUrl="~/Knowledgebase.aspx" Text="Knowledgebase" />
-                                    <asp:MenuItem NavigateUrl="~/Contact.aspx" Text="Contact Us" />
-                                    <asp:MenuItem NavigateUrl="~/Console.aspx" Text="Console" />
-                                </Items>
-                            </asp:Menu>
+                            <ul>
+                                <li><a href="Index.aspx">Home</a></li>
+                                <li><a href="Connect.aspx">Connect</a></li>
+                                <li><a href="Develop.aspx">Develop</a></li>
+                                <li><a href="Marketplace.aspx">Marketplace</a></li>
+                                <li><a href="Account/Login.aspx">Sign-in</a></li>
+                            </ul>
                         </div>
                         <!--/.well -->
                     </div>
-                    <!--/span-->--%>
-    
-                 
-    
+                    <!--/span-->
+                </div>                      
 
     <div class="container marketing">       
 

@@ -387,6 +387,26 @@
         <div class="row">
             
             <div class="col-lg-4">
+               <asp:Image runat="server" ImageUrl="~/images/Talk-icon.png" width="80" Height="60"/>
+                <h2>Talk to Camera</h2>
+                <p>Dial my camera and let me talk to it.
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                </p>
+                <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
+            </div>
+            <!-- /.col-lg-4 -->
+             <div class="col-lg-4">
+                <asp:Image runat="server" ImageUrl="~/images/Listen-icon.png" width="80" Height="60"/>
+                <h2>Listen to Camera</h2>
+                <p>Dial my camera and let me listen to it.
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                </p>
+                <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
+            </div>
+            <!-- /.col-lg-4 -->
+             <div class="col-lg-4">
                 <i class="icon-question-sign icon-4x"></i>
                 <h2>Can't find your App?</h2>
                 <p>Tell us what you want and we will build it for you.
@@ -397,6 +417,77 @@
             </div>
             <!-- /.col-lg-4 -->
             
+        </div>
+        <!--/.row -->
+        <div class="row">
+
+            <div class="col-lg-4">
+                <asp:Image runat="server" ImageUrl="~/images/CCTV-icon.png" Width="80" Height="60" />
+                <h2>Embed Live View</h2>
+                <p>
+                    Generate Code to embed live view direct from the camera on a website.                    
+                   
+                </p>
+                <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
+            </div>
+            <!-- /.col-lg-4 -->
+            <div class="col-lg-4">
+                <asp:Image runat="server" ImageUrl="~/images/Message-icon.png" Width="80" Height="60" />
+                <h2>Messaging</h2>
+                <p>
+                    Use messaging services like SMS, Email, MMS and Push.                    
+                   
+                </p>
+                <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
+            </div>
+            <!-- /.col-lg-4 -->
+            <div class="col-lg-4">
+                <asp:Image runat="server" ImageUrl="~/images/XMPP.gif" Width="80" Height="60" />
+                <h2>XMPP Output</h2>
+                <p>
+                    Use XMPP based software such as Skype and Google Talk.                    
+                   
+                </p>
+                <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
+            </div>
+            <!-- /.col-lg-4 -->
+        </div>
+        <!--/.row -->
+         <div class="row">
+
+            <div class="col-lg-4">
+                <asp:Image runat="server" ImageUrl="~/images/Talk-icon.png" width="80" Height="60"/>
+                <h2>Text to Speech</h2>
+                <p>
+                    Allows the user to transcode text to speech
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                   
+                </p>
+                <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
+            </div>
+            <!-- /.col-lg-4 -->
+            <div class="col-lg-4">
+                <i class="icon-signal icon-4x" ></i>
+                <h2>Overlay Text</h2>
+                <p>
+                   Overlays text on top of a stream for the user.
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                   
+                </p>
+                <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
+            </div>
+            <!-- /.col-lg-4 -->
+             <div class="col-lg-4">
+                 <i class="icon-file icon-4x"></i> 
+                 <h2>Index Text</h2>
+                 <p>
+                     Indexs text so that the user can retrieve video.
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                   
+                 </p>
+                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
+             </div>
+            <!-- /.col-lg-4 -->
         </div>
         <!--/.row -->
     </div>

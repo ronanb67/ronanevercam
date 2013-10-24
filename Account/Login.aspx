@@ -1,9 +1,7 @@
 ﻿<%@ Page Title="Login" Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="Login.aspx.cs" Inherits="Login" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
-    <script src="assets/jquery.js"></script>
-    <script src="js/bootstrap.js"></script>    
-    <script src="js/offcanvas.js"></script>
+    
     <!-- Include the Google+ script on your page -->
     <script type="text/javascript">
         (function () {
