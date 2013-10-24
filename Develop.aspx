@@ -13,6 +13,21 @@
             <p>Start using our API today and integrate cameras with your applications within minutes.</p>
         </div>
     </div>
+    <div class="container">
+        <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
+            <div class="well sidebar-nav">
+                <ul>
+                    <li><a href="Develop.aspx#FreeAPI">Free API</a></li>
+                    <li><a href="Develop.aspx#ProAPI">Pro API</a></li>
+                    <li><a href="Develop.aspx#Platform">Platform</a></li>
+
+                </ul>
+            </div>
+            <!--/.well -->
+        </div>
+        <!--/span-->
+    </div>
+    <div id="FreeAPI"></div>
     <div class="row featurette">
         <div class="col-md-8">
             <h2 class="featurette-heading smalltopmargin">Free API <span class="text-muted">Code instantly</span></h2>
@@ -47,8 +62,7 @@ print my_account.balance</code></pre>
         </div>
     </div>
     <hr class="featurette-divider"/>
-    <%--<div class="col-md-4">
-    </div--%>
+    <div id="ProAPI"></div>
     <div class="row featurette">
         <div class="col-md-4">
             <i class="icon-superscript icon-large"></i>
@@ -65,6 +79,7 @@ print my_account.balance</code></pre>
         </div>
     </div>
     <hr class="featurette-divider"/>
+    <div id="Platform"></div>
 	<div class="row featurette">		
     <div class="col-md-8">
     <h2 class="featurette-heading smalltopmargin">Evercam Platform <span class="text-muted">Big Video Data</span></h2>

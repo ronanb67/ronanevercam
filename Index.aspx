@@ -16,11 +16,11 @@
                     <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
                         <div class="well sidebar-nav">
                             <ul>
-                                <li><a href="Index.aspx">Home</a></li>
-                                <li><a href="Connect.aspx">Connect</a></li>
-                                <li><a href="Develop.aspx">Develop</a></li>
-                                <li><a href="MarketPlace.aspx">Marketplace</a></li>
-                                <li><a href="Account/Login.aspx">Sign-in</a></li>
+                                <li><a href="Index.aspx#WhatIsIt">What is Evercam</a></li>
+                                <li><a href="Index.aspx#Why">Why Evercam</a></li>
+                                <li><a href="Index.aspx#API">API</a></li>
+                                <li><a href="Index.aspx#Pricing">Pricing </a></li>
+                                <li><a href="MarketPlace.aspx">Marketplace</a></li>                                
                             </ul>
                         </div>
                         <!--/.well -->

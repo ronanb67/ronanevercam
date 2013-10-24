@@ -9,6 +9,31 @@
             <p>Get your IP Camera connected immediately. All you need to start is an IP Address. </p>
         </div>
     </div>
+    <div class="container">
+        <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
+            <div class="well sidebar-nav">
+                <ul>
+                    <li><a href="Index.aspx#WhatIsIt">What is Evercam</a></li>
+                    <li>Learn More</li>
+                    <ul>
+                        <li><a href="Knowledgebase.aspx">Knowledgebase</a></li>
+                        <li><a href="Forum.aspx">Forum</a></li>
+
+                    </ul>
+                    <li>Advanced</li>
+                    <ul>
+                        <li><a href="MarketPlace.aspx">Tools</a></li>
+                        <li><a href="MarketPlace.aspx">Apps</a></li>
+                        <li><a href="MarketPlace.aspx">Devices</a></li>
+                    </ul>
+                    <li><a href="LiveSupport.aspx">Live Support </a></li>
+                    
+                </ul>
+            </div>
+            <!--/.well -->
+        </div>
+        <!--/span-->
+    </div>
     <div class="container marketing">
 
         <section id="Connect">
