@@ -169,7 +169,7 @@
                 <img src="https://vine.co/static/images/trademark_logo.gif" width="80" height="60" alt="Xero Logo" />
                 <h2>Vine</h2>
                 <p>
-                    Take camera snapshots to compose a <a href="www.vine.com">Vine</a> animated gif.                    
+                    Take camera snapshots to compose a Vine animated gif.                    
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
@@ -227,7 +227,7 @@
                       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     
                 </p>
-                <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
+                <p><a class="btn btn-default"  href="#">Coming Soon &raquo;</a></p>
             </div>
             <!-- /.col-lg-4 -->
             <div class="col-lg-4">
@@ -375,7 +375,7 @@
                 <asp:Image runat="server" ImageUrl="~/images/kinesense.png" width="80" Height="60"/>
                 <h2>Kinesense</h2>
                 <p>
-                    Integrate with <a href="Kinesense.com">Kinesense</a>(forensic video analysis).
+                    Integrate with Kinesense (forensic video analysis).
                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     
                 </p>
