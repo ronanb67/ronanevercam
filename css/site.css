@@ -40,14 +40,14 @@
            }
 /*2nd Nav- sidebar*/
 .sidebar{float: left;
-        width:10%;             
+        width:20%;             
         padding-top:10px;
         padding-left:0px;
         padding-bottom:10px;
         height:300px;
         font-size:medium;
         background-color:#eeeeee;        
-        margin-left:-250px;        
+        margin-left:-270px;        
         margin-top:-260px;
         position:fixed;                
 
