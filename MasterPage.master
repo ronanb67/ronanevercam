@@ -3,7 +3,9 @@
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
+
 <head runat="server">
+    <link rel="shortcut icon" href="assets/ico/favicon.ico"/>
     <title></title>
   
     <link href="highlight/highlight.js/styles/googlecode.css" rel="stylesheet" />
@@ -61,7 +63,13 @@
                 <p style="float:right"><a href="Contact.aspx">Contact us</a></p>
                 <p>Telephone +353 (1) 538 3333 | Email <a href="mailto:info@evercam.com">info@evercam.com</a></p>
                 <p>&copy; 2013 Evercam, 12 Parnell Square East, Dublin 1, Ireland.</p>
-                                
+
+            <div class="social">
+
+                <a href="https://twitter.com/cambatv" style="text-decoration:none"><i class="icon-twitter icon-2x"></i> &nbsp;&nbsp;&nbsp;</a>
+                <a href="https://www.facebook.com/CAMBATV" style="text-decoration:none"><i class="icon-facebook icon-2x"></i> &nbsp;&nbsp;&nbsp;</a>
+                <a href="http://www.linkedin.com/company/camba.tv---cctv-in-the-cloud" style="text-decoration:none"><i class="icon-linkedin icon-2x"></i></a>
+              </div>                
             </footer>
 
         </div>

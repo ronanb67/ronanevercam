@@ -170,6 +170,14 @@
   margin-left: 10px;
   margin-right: 10px;
 }
+.social{    
+    display:inline;       
+    
+}
+.social.hover{ 
+    text-decoration:none;
+
+}
 
 
 
