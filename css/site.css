@@ -40,17 +40,16 @@
            }
 /*2nd Nav- sidebar*/
 .sidebar{float: left;
-        width:80%;             
+        width:10%;             
         padding-top:10px;
         padding-left:0px;
         padding-bottom:10px;
         height:300px;
         font-size:medium;
         background-color:#eeeeee;        
-        margin-left:-250px;
-        
+        margin-left:-250px;        
         margin-top:-260px;
-                
+        position:fixed;                
 
 }
 .codeplaceholder{ background-color:#eeeeee;
