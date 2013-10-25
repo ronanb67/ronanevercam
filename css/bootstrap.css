@@ -265,6 +265,7 @@ table {
   }
   .navbar {
     display: none;
+    
   }
   .table td,
   .table th {
@@ -3780,6 +3781,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   padding-left: 0px;
   margin-bottom: 0;
   list-style: none;
+
 }
 
 .nav:before,

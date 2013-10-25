@@ -36,7 +36,7 @@
             padding-left: 35px;
             padding-right:155px;
             padding-bottom:5px;            
-                        
+            text-decoration:none;            
            }
 /*2nd Nav- sidebar*/
 .sidebar{float: left;
@@ -49,7 +49,8 @@
         background-color:#eeeeee;        
         margin-left:-270px;        
         margin-top:-260px;
-        position:fixed;                
+        position:fixed;  
+                      
 
 }
 .codeplaceholder{ background-color:#eeeeee;
@@ -174,10 +175,7 @@
     display:inline;       
     
 }
-.social.hover{ 
-    text-decoration:none;
 
-}
 
 
 
