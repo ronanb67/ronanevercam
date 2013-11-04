@@ -49,9 +49,10 @@
             <!-- /.container -->
         </div>
         <!-- /.navbar -->
-        <div class="container" style="">
+        <div class="container" >
 
             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                
             </asp:ContentPlaceHolder>
 
             <br />
