@@ -11,7 +11,7 @@
         </div>
     <div class="container">
 
-        <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
+        <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation" >
             <div class="sidebar">
                 <ul>
                     <li><a href="MarketPlace.aspx">Analytics</a></li>
