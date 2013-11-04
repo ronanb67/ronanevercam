@@ -45,7 +45,7 @@
 
             </p>
         </div>
-        <div class="col-md-4" >
+        <div class="col-md-4">
             <!--PLACEHOLDER FOR CODE DISPLAY-->
             <pre><code data-language="python"> >>> from types import *
 class BankAccount(object):
