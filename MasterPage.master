@@ -25,7 +25,7 @@
     <form runat="server">
 
         <div class="navbar navbar-fixed-top navbar-inverse" role="navigation">
-            <div class="container">
+            <div class="container" >
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                         <span class="icon-bar"></span>
@@ -49,27 +49,25 @@
             <!-- /.container -->
         </div>
         <!-- /.navbar -->
-        <div class="container">
-            
-            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        <div class="container" style="">
 
-                
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
             </asp:ContentPlaceHolder>
 
             <br />
             <br />
             <br />
             <footer>
-                <p style="float:right"><a href="Contact.aspx">Contact us</a></p>
+                <p style="float: right"><a href="Contact.aspx">Contact us</a></p>
                 <p>Telephone +353 (1) 538 3333 | Email <a href="mailto:info@evercam.com">info@evercam.com</a></p>
                 <p>&copy; 2013 Evercam, 12 Parnell Square East, Dublin 1, Ireland.</p>
 
-            <div class="social">
+                <div class="social">
 
-                <a href="https://twitter.com/cambatv" style="text-decoration:none"><i class="icon-twitter icon-2x"></i> &nbsp;&nbsp;&nbsp;</a>
-                <a href="https://www.facebook.com/evercam.tv?fref=ts" style="text-decoration:none"><i class="icon-facebook icon-2x"></i> &nbsp;&nbsp;&nbsp;</a>
-                <a href="http://www.linkedin.com/company/3496340?trk=tyah&trkInfo=tas%3Aeverca%2Cidx%3A1-1-1" style="text-decoration:none"><i class="icon-linkedin icon-2x"></i></a>
-              </div>                
+                    <a href="https://twitter.com/evercamdotcom" style="text-decoration: none"><i class="icon-twitter icon-2x"></i>&nbsp;&nbsp;&nbsp;</a>
+                    <a href="https://www.facebook.com/evercam.tv?fref=ts" style="text-decoration: none"><i class="icon-facebook icon-2x"></i>&nbsp;&nbsp;&nbsp;</a>
+                    <a href="http://www.linkedin.com/company/3496340?trk=tyah&trkInfo=tas%3Aeverca%2Cidx%3A1-1-1" style="text-decoration: none"><i class="icon-linkedin icon-2x"></i></a>
+                </div>
             </footer>
 
         </div>

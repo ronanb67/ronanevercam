@@ -13,7 +13,7 @@
             <p>Start using our API today and integrate cameras with your applications within minutes.</p>
         </div>
     </div>
-    <div class="container">
+    <div class="container" >
         <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
             <div class="sidebar">
                 <ul>
@@ -27,6 +27,7 @@
         </div>
         <!--/span-->
     </div>
+    <div class="container" style="margin-left:-75px;">
     <div id="FreeAPI"></div>
     <div class="row featurette">
         <div class="col-md-8">
@@ -92,6 +93,7 @@ print my_account.balance</code></pre>
     <i class="icon-laptop icon-large"></i>
      </div>
     </div>
+        </div>
     <hr class="featurette-divider"/>
 </asp:Content>
 
