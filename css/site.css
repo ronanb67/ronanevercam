@@ -17,7 +17,7 @@
 
 .featurette-divider {
   margin: 70px 10px;
-  width:1000px; /* Space out the Bootstrap <hr> more */
+  width:950px; /* Space out the Bootstrap <hr> more */
 }
 
 /* Thin out the marketing headings */
@@ -56,6 +56,7 @@
 .sidebar li {list-style-type:none;
         list-style:none;
         margin-bottom:10px;
+       
        
 }
 .containermain{

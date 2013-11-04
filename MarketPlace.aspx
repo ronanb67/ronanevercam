@@ -25,7 +25,7 @@
         </div>
         <!--/span-->
     </div>
-    <div class="container marketing" style="align-content:center;">
+    <div class="container marketing" style="align-content:center; margin-left:-80px">
 
         <div class="row">            
             <div class="col-lg-4">
@@ -46,7 +46,7 @@
             <div class="col-lg-4">
                 <i class="icon-signal icon-4x" ></i>
                 <h2>Multicaster </h2>
-                <p>Multicasts your stream so that any number of people can watch it without using up your broadband.</p>
+                <p>Multicasts your stream so that any number of people can watch it.</p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
             <!-- /.col-lg-4 -->
@@ -65,7 +65,7 @@
             <div class="col-lg-4">
                  <asp:Image runat="server" ImageUrl="~/images/Web-icon.png" width="80" Height="60"/>
                 <h2>Spider Detect </h2>
-                <p>This app will detect whether motions detected by a camera are coming from a spider.</p>
+                <p>This app detects whether motions detected by a camera are coming from a spider.</p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
             <!-- /.col-lg-4 -->
@@ -73,7 +73,7 @@
                 <i class="icon-film icon-4x"></i>
                 <h2>Watermark </h2>
                 <p>Add watermarks like company logos to your videos.
-                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                 
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
@@ -126,7 +126,7 @@
                 <i class="icon-facebook icon-4x"></i>
                 <h2>Facebook Cam</h2>
                 <p>Connect a live stream to your Facebook account.                                  
-                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+                   
                 </p>                
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
@@ -135,7 +135,7 @@
                 <asp:Image runat="server" ImageUrl="~/images/xero-logo.jpg" width="80" Height="60"/>
                 <h2>XeroCam </h2>
                 <p>Link your camera footage to your Xero Accounts.
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
@@ -163,7 +163,7 @@
                 <i class="icon-cloud icon-4x"></i>
                 <h2>Archive and Share</h2>
                 <p>Archive and share your footage with other users.
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                   
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
@@ -216,7 +216,7 @@
                 <h2>Broadcaster</h2>
                 <p>
                     Broadcast to UStream, Dacast, Livestream.com, etc.
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
@@ -271,8 +271,7 @@
                 <asp:Image runat="server" ImageUrl="~/images/dropcamlogo.jpg" width="80" Height="60"/>
                 <h2>Dropcam</h2>
                 <p>
-                    Drop in live and connect to your Dropcam camera.
-                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    Drop in live and connect to your Dropcam camera.                    
                     
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
@@ -282,8 +281,7 @@
                 <asp:Image runat="server" ImageUrl="~/images/gopro.png" width="80" Height="60"/>
                 <h2>GOPRO</h2>
                 <p>
-                    Connect to your GOPRO camera to capture and store video.
-                      
+                    Connect to your GOPRO camera to capture and store video.                      
                     
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
@@ -316,7 +314,7 @@
                 <h2>Youtube</h2>
                 <p>
                     Send the output from your camera to Youtube Live.  
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
@@ -379,8 +377,7 @@
                 <i class="icon-film icon-4x"></i> 
                 <h2>Transcoder</h2>
                 <p>
-                    Transcode your video into other formats (audio etc).
-                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    Transcode your video into other formats (audio etc).                     
                    
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
@@ -390,8 +387,7 @@
                 <asp:Image runat="server" ImageUrl="~/images/kinesense.png" width="80" Height="60"/>
                 <h2>Kinesense</h2>
                 <p>
-                    Integrate with Kinesense (forensic video analysis).
-                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    Integrate with Kinesense (forensic video analysis).                    
                     
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>

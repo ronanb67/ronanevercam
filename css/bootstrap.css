@@ -48,6 +48,7 @@ html {
 
 body {
   margin: 0;
+ 
 }
 
 a:focus {
@@ -748,7 +749,7 @@ pre code {
 }
 
 .container {
-  padding-right: 65px;
+  padding-right: 125px;
   padding-left: 65px;
   margin-right: auto;
   margin-left: auto;
