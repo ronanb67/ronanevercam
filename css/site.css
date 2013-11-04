@@ -39,16 +39,16 @@
             text-decoration:none;            
            }
 /*2nd Nav- sidebar*/
-.sidebar{float: left;
+.sidebar{float: right;
         width:12%;             
         padding-top:10px;
         padding-left:0px;
         padding-bottom:10px;
-        
+        margin-left:1000px;
         height:300px;
         font-size:medium;
         border:groove;        
-        margin-left:-330px;        
+              
         margin-top:-268px;
         position:fixed;          
 
