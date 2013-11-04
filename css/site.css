@@ -1,5 +1,5 @@
 ﻿/*ronanjbyrne@gmail.com*/
-.icon-large{font-size:15em;}
+.icon-large{font-size:10em;}
 
 /*Used on API icons*/
 .icon-medium-large {font-size:5em;}
@@ -44,15 +44,23 @@
         padding-top:10px;
         padding-left:0px;
         padding-bottom:10px;
+        
         height:300px;
         font-size:medium;
-        background-color:#eeeeee;        
-        margin-left:-280px;        
-        margin-top:-260px;
-        position:fixed;  
-                      
+        border:groove;        
+        margin-left:-330px;        
+        margin-top:-268px;
+        position:fixed;          
 
 }
+.sidebar li {list-style-type:none;
+        list-style:none;
+        margin-bottom:10px;
+}
+.containermain{
+    margin-left:-25px;
+}
+
 .codeplaceholder{ background-color:#eeeeee;
                   font-size: x-large;
                   text-align:center;

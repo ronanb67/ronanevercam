@@ -38,7 +38,7 @@
                 <div class="col-md-4">
                     <i class="icon-camera-retro icon-large"></i>
                 </div>
-                <div class="col-md-8">
+                <div class="col-md-8" style="margin-left:-55px">
                     <h2 class="featurette-heading smalltopmargin">What is Evercam?<span class="text-muted">An ideal camera.</span></h2>
                     <p class="lead">
                         Evercam makes it easy to interact with IP Cameras. Evercam abstracts the complexity of any IP-based video device, and exposes all its available functionality to you 
@@ -186,7 +186,7 @@
                 <div class="col-md-4">
                     <i class="icon-exchange icon-large"></i>
                 </div>
-                <div class="col-md-8">
+                <div class="col-md-8" style="margin-left:-55px">
                     <h2 class="featurette-heading smalltopmargin">Marketplace <span class="text-muted">Infinite possibilities</span></h2>
                     <p class="lead">Purchase or build Apps that extend Evercam's functionality. The Evercam <a href="/MarketPlace.aspx">marketplace</a> means never having to wait for a feature request. If it doesn't exist, make it yourself and let others have the benefit of your work - at your own price or for free!</p>
                 </div>

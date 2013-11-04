@@ -45,7 +45,7 @@
 
             </p>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-4" >
             <!--PLACEHOLDER FOR CODE DISPLAY-->
             <pre><code data-language="python"> >>> from types import *
 class BankAccount(object):
@@ -68,7 +68,7 @@ print my_account.balance</code></pre>
         <div class="col-md-4">
             <i class="icon-superscript icon-large"></i>
         </div>
-        <div class="col-md-8">
+        <div class="col-md-8"style="margin-left:-55px">
             <h2 class="featurette-heading smalltopmargin">Pro API <span class="text-muted">For advanced usage</span></h2>
             <p class="lead">
                 The Evercam PRO API unlocks a host of additional possibilities. Want to ensure that all media and data are encrypted using SSH/VPN tunnelling? Want to detect motion or identify patterns 
