@@ -29,7 +29,7 @@
 
         <div class="row">            
             <div class="col-lg-4">
-                <asp:Image runat="server" ImageUrl="~/images/sprites.png" width="80" Height="60" AlternateText="Timelapse Logo"/>
+                <asp:Image runat="server" ImageUrl="~/images/history.png" width="80" Height="60" AlternateText="Timelapse Logo"/>
                 <h2>TimeLapse </h2>
                 <p>Create timelapse videos using image sequences captured by your camera.</p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
@@ -83,7 +83,7 @@
 
         <div class="row">
             <div class="col-lg-4">
-                <asp:Image runat="server" ImageUrl="~/images/android-icon.png" width="80" Height="60"/>
+                <i class="icon-android icon-4x"></i>
                 <h2>Android App Generator </h2>
                 <p>Create Android apps without coding.
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -123,7 +123,7 @@
             </div>
             <!-- /.col-lg-4 -->
             <div class="col-lg-4">
-                <asp:Image runat="server" ImageUrl="~/images/facebook-icon.png" width="80" Height="60"/>
+                <i class="icon-facebook icon-4x"></i>
                 <h2>Facebook Cam</h2>
                 <p>Connect a live stream to your Facebook account.                                  
                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -132,7 +132,7 @@
             </div>
             <!-- /.col-lg-4 -->
             <div class="col-lg-4">
-                <img src="http://www.melbourneseoservices.com/wp-content/uploads/2012/11/xero-logo.jpg" width="80" height="60" alt="Xero Logo" />
+                <asp:Image runat="server" ImageUrl="~/images/xero-logo.jpg" width="80" Height="60"/>
                 <h2>XeroCam </h2>
                 <p>Link your camera footage to your Xero Accounts.
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -181,7 +181,7 @@
             </div>
             <!-- /.col-lg-4 -->
             <div class="col-lg-4">
-                <img src="https://vine.co/static/images/trademark_logo.gif" width="80" height="60" alt="Xero Logo" />
+                <asp:Image runat="server" ImageUrl="~/images/vine.png" width="80" Height="60"/>
                 <h2>Vine</h2>
                 <p>
                     Take camera snapshots to compose a Vine animated gif.                    
@@ -246,7 +246,7 @@
             </div>
             <!-- /.col-lg-4 -->
             <div class="col-lg-4">
-               <asp:Image runat="server" ImageUrl="~/images/skype-icon.png" width="80" Height="60"/>
+               <i class="icon-skype icon-4x"></i>
                 <h2>Skype</h2>
                 <p>
                     Connect my camera to Skype so that I can call it and view or talk.                    
@@ -268,7 +268,7 @@
         <!-- /.row -->
         <div class="row">
             <div class="col-lg-4">
-                <asp:Image runat="server" ImageUrl="~/images/Dropcam.png" width="80" Height="60"/>
+                <asp:Image runat="server" ImageUrl="~/images/dropcamlogo.jpg" width="80" Height="60"/>
                 <h2>Dropcam</h2>
                 <p>
                     Drop in live and connect to your Dropcam camera.
@@ -290,7 +290,7 @@
             </div>
             <!-- /.col-lg-4 -->
             <div class="col-lg-4">
-                <asp:Image runat="server" ImageUrl="~/images/car-icon.png" width="80" Height="60"/>
+                <asp:Image runat="server" ImageUrl="~/images/truck.png" width="80" Height="60"/>
                 <h2>ANPR</h2>
                 <p>
                     ANPR (Licence Plate Recognition, OCR).
@@ -303,7 +303,7 @@
         <!-- /.row -->
         <div class="row">
             <div class="col-lg-4">
-                <asp:Image runat="server" ImageUrl="~/images/dropbox-icon.png" width="80" Height="60"/>
+                <i class="icon-dropbox icon-4x"></i>
                 <h2>Dropbox</h2>
                 <p>
                     Send the output from your camera to your Dropbox account.                    
@@ -312,7 +312,7 @@
             </div>
             <!-- /.col-lg-4 -->
             <div class="col-lg-4">
-                <asp:Image runat="server" ImageUrl="~/images/YouTube-icon.png" width="80" Height="60"/>
+                <i class="icon-youtube icon-4x"></i>
                 <h2>Youtube</h2>
                 <p>
                     Send the output from your camera to Youtube Live.  
@@ -334,7 +334,7 @@
         <!-- /.row -->
         <div class="row">
             <div class="col-lg-4">
-                 <asp:Image runat="server" ImageUrl="~/images/tweet-bird-icon.png" width="80" Height="60"/>
+                 <i class="icon-twitter icon-4x"></i>
                 <h2>PTZ</h2>
                 <p>
                     SMS / Tweet to get a specific view from a PTZ.
@@ -344,7 +344,7 @@
             </div>
             <!-- /.col-lg-4 -->
             <div class="col-lg-4">
-               <asp:Image runat="server" ImageUrl="~/images/android-icon.png" width="80" Height="60"/>
+               <i class="icon-android icon-4x"></i>
                 <h2>App Generator</h2>
                 <p>
                     Android Single Purpose on-the fly App Robo-developer.                    
@@ -457,7 +457,7 @@
             </div>
             <!-- /.col-lg-4 -->
             <div class="col-lg-4">
-                <asp:Image runat="server" ImageUrl="~/images/XMPP.gif" Width="80" Height="60" />
+                <asp:Image runat="server" ImageUrl="~/images/xmpp-logo.png" Width="80" Height="60" />
                 <h2>XMPP Output</h2>
                 <p>
                     Use XMPP based software such as Skype and Google Talk.                    
