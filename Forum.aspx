@@ -6,8 +6,7 @@
     <div class="jumbotron">
         <div class="container">
             <h1>Making Cameras Easy</h1>
-            <p>Forum for Evercam.</p>
-            
+            <p>Forum for Evercam.</p>            
         </div>
     </div>     
 </asp:Content>

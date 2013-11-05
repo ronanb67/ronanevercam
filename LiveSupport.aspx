@@ -6,8 +6,7 @@
     <div class="jumbotron">
         <div class="container">
             <h1>Making Cameras Easy</h1>
-            <p>LiveSupport.</p>
-            
+            <p>LiveSupport.</p>            
         </div>
     </div>     
 </asp:Content>
