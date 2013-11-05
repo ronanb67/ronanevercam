@@ -48,7 +48,8 @@
         margin-left:920px;
         height:300px;
         font-size:medium;
-        border:groove;    
+        border:groove;
+        border-radius:20px;    
         margin-top:-268px;
         position:fixed;          
 
