@@ -59,7 +59,8 @@
             <br />
             <br />
             <footer>
-                <p style="float: right"><a href="Contact.aspx">Contact us</a></p>
+                <p style="float: right"><a href="Contact.aspx">Contact us</a>&nbsp;&nbsp;&nbsp;<a href="Forum.aspx">Forum</a>&nbsp;&nbsp;&nbsp;
+                    <a href="Knowledgebase.aspx">Knowledgebase</a> &nbsp;&nbsp;&nbsp;<a href="MarketPlace.aspx">MarketPlace</a> </p>
                 <p>Telephone +353 (1) 538 3333 | Email <a href="mailto:info@evercam.com">info@evercam.com</a></p>
                 <p>&copy; 2013 Evercam, 12 Parnell Square East, Dublin 1, Ireland.</p>
 
