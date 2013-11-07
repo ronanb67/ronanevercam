@@ -10,6 +10,27 @@
 
         </div>
     </div>
+    <div class="container">
+        <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
+            <div class="sidebar">
+                <table>
+                    <tr>
+                        <td> <a href="Register.aspx">Register</a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="Develop.aspx#FreeAPI">Free API</a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="Develop.aspx#ProAPI">Pro API</a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="Develop.aspx#Platform">Platform</a></td>
+                    </tr>
+                </table>
+                
+            </div>
+        </div>
+    </div>
     
     
     <asp:Menu runat="server" DynamicMenuItemStyle-VerticalPadding="10px">
@@ -23,8 +44,7 @@
             <asp:MenuItem NavigateUrl="http://ecconnect.azurewebsites.net/CommonPorts.aspx" Text="7. What are the most common camera ports?"></asp:MenuItem>
         </Items>
     </asp:Menu>
-    
-   
+       
     <hr class="featurette-divider"/>
 </asp:Content>
 
