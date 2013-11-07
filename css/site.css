@@ -41,12 +41,12 @@
            }
 /*2nd Nav- sidebar*/
        .sidebar{float: right;
-        width:12%; 
+        width:11%; 
         height:15%;            
         padding-top:10px;              
         padding-bottom:20px;        
         margin-left:865px;
-        height:350px;
+        height:330px;
         font-size:medium;
         border:groove;
         border-color:#eeeeee;
@@ -60,7 +60,7 @@
 .sidebar td a{  border:1px solid;
                 display:table;
                 height:100%; 
-                width:250%;
+                width:200px;
                 border-color:#D6D6D6;
                 border-left-style:none;
                 border-right-style:none;
