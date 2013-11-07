@@ -13,13 +13,23 @@
 
         <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation" >
             <div class="sidebar">
-                <ul>
-                    <li><a href="MarketPlace.aspx">Analytics</a></li>
-                    <li><a href="MarketPlace.aspx">Transcoding</a></li>
-                    <li><a href="MarketPlace.aspx">Storage</a></li>
-                    <li><a href="MarketPlace.aspx">Restreaming </a></li>
-                    <li><a href="MarketPlace.aspx">Messaging</a></li>
-                </ul>
+                <table>
+                    <tr>
+                        <td><a href="MarketPlace.aspx">Analytics</a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="MarketPlace.aspx">Transcoding</a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="MarketPlace.aspx">Storage</a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="MarketPlace.aspx">Restreaming </a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="MarketPlace.aspx">Messaging</a></td>
+                    </tr>
+                </table>
             </div>
             <!--/.well -->
         </div>

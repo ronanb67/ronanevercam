@@ -40,24 +40,40 @@
             text-decoration:none;            
            }
 /*2nd Nav- sidebar*/
-.sidebar{float: right;
-        width:12%;             
-        padding-top:10px;
-        padding-left:0px;
-        padding-bottom:20px;
+       .sidebar{float: right;
+        width:12%; 
+        height:15%;            
+        padding-top:10px;              
+        padding-bottom:20px;        
         margin-left:865px;
         height:350px;
         font-size:medium;
         border:groove;
+        border-color:#eeeeee;
         border-radius:10px;    
         margin-top:-265px;
         position:fixed;
-        display:table;                  
+                         
 
 }
-.sidebar li {list-style-type:none;
-        list-style:none;
-        margin-bottom:10px;              
+
+.sidebar td a{  border:1px solid;
+                display:table;
+                height:100%; 
+                width:250%;
+                border-color:#D6D6D6;
+                border-left-style:none;
+                border-right-style:none;
+                border-top-style:none;
+                margin-bottom:10px;
+                                    
+}
+.sidebar li {list-style-type:none;  
+        list-style-position:outside;    
+        margin-bottom:10px;        
+        height:100%; 
+        width:100%;      
+                    
        }
 
 

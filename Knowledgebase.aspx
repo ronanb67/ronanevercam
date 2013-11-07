@@ -12,8 +12,8 @@
     </div>
     <div class="container">
         <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
-            <div class="sidebar">
-                <table>
+            <div class="sidebar" >
+                <table >
                     <tr>
                         <td> <a href="Register.aspx">Register</a></td>
                     </tr>
@@ -27,6 +27,7 @@
                         <td><a href="Develop.aspx#Platform">Platform</a></td>
                     </tr>
                 </table>
+         
                 
             </div>
         </div>
