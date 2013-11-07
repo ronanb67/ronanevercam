@@ -74,12 +74,13 @@
 
         <!-- Three columns of text below the carousel -->
 
-        <div class="row largeicons">
+        <div class="row largeicons" style="margin-left:-65px">
             <section id="API">
                 <div class="col-lg-4">
                     <i class="icon-meh icon-medium-large"></i>
                     <h2>API</h2>
-                    <p>Meh? In fact, most of the functionality you'll ever need to create great video applications is contained within our Free API.</p>
+                    <p>Meh? In fact, most of the functionality you'll ever need to create great video applications is contained within our Free API.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
                     <p><a class="btn btn-default" href="develop#FreeAPI">View details &raquo;</a></p>
                 </div>
             </section>
@@ -113,7 +114,7 @@
             <div class="bs-docs-section">
 
                 <div class="row">
-                    <div class="col-lg-12">
+                    <div class="col-lg-11" >
 
                         <h1>Pricing</h1>
 
