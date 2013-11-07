@@ -16,12 +16,24 @@
     <div class="container" >
         <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
             <div class="sidebar">
-                <ul>
+                <table>
+                    <tr>
+                        <td><a href="Develop.aspx#FreeAPI">Free API</a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="Develop.aspx#ProAPI">Pro API</a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="Develop.aspx#Platform">Platform</a></td>
+                    </tr>
+                    
+                </table>
+                <%--<ul>
                     <li><a href="Develop.aspx#FreeAPI">Free API</a></li>
                     <li><a href="Develop.aspx#ProAPI">Pro API</a></li>
                     <li><a href="Develop.aspx#Platform">Platform</a></li>
 
-                </ul>
+                </ul>--%>
             </div>
             <!--/.well -->
         </div>

@@ -12,21 +12,39 @@
             <p><a class="btn btn-primary btn-lg" href="/Develop.aspx">Learn more &raquo;</a></p>
         </div>
     </div>     
-                    <div class="container">
-                    <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
-                        <div class="sidebar" style="margin-top:-320px;">
-                            <ul>
-                                <li><a href="Index.aspx#WhatIsIt">What is Evercam</a></li>
-                                <li><a href="Index.aspx#Why">Why Evercam</a></li>
-                                <li><a href="Index.aspx#API">API</a></li>
-                                <li><a href="Index.aspx#Pricing">Pricing </a></li>
-                                <li><a href="MarketPlace.aspx">Marketplace</a></li>                                
-                            </ul>
-                        </div>
-                        <!--/.well -->
-                    </div>
-                    <!--/span-->
-                </div>                      
+    <div class="container">
+        <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
+            <div class="sidebar" style="margin-top: -320px;">
+                <table>
+                    <tr>
+                        <td><a href="Index.aspx#WhatIsIt">What is Evercam</a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="Index.aspx#Why">Why Evercam</a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="Index.aspx#API">API</a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="Index.aspx#Pricing">Pricing </a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="MarketPlace.aspx">Marketplace</a></td>
+                    </tr>
+
+                </table>
+               <%-- <ul>
+                    <li><a href="Index.aspx#WhatIsIt">What is Evercam</a></li>
+                    <li><a href="Index.aspx#Why">Why Evercam</a></li>
+                    <li><a href="Index.aspx#API">API</a></li>
+                    <li><a href="Index.aspx#Pricing">Pricing </a></li>
+                    <li><a href="MarketPlace.aspx">Marketplace</a></li>
+                </ul>--%>
+            </div>
+            <!--/.well -->
+        </div>
+        <!--/span-->
+    </div>                      
 
     <div class="container marketing"> 
         <div class="containermain" >    

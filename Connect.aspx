@@ -12,7 +12,30 @@
     <div class="container">
         <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation" >
             <div class="sidebar">
-                <ul>
+                 <table>
+                    <tr>
+                        <td><a href="Connect.aspx#Connect">Connect</a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="Knowledgebase.aspx">Knowledgebase</a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="Forum.aspx">Forum</a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="MarketPlace.aspx">Tools </a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="MarketPlace.aspx">Apps</a></td>
+                    </tr>
+                     <tr>
+                        <td><a href="MarketPlace.aspx">Devices</a></td>
+                    </tr>
+                     <tr>
+                        <td><a href="LiveSupport.aspx">Live Support</a></td>
+                    </tr>
+                </table>
+                <%--<ul>
                     <li><a href="Connect.aspx#Connect">Connect</a></li>
                     <li>Learn More</li>
                     <ul>
@@ -28,7 +51,7 @@
                     </ul>
                     <li><a href="LiveSupport.aspx">Live Support </a></li>
                     
-                </ul>
+                </ul>--%>
             </div>
             <!--/.well -->
         </div>
