@@ -27,10 +27,10 @@
         </div>
         <!--/span-->
     </div>
-    <div class="container" style="margin-left:-75px;">
+    <div class="container" style="margin-left:-55px;">
     <div id="FreeAPI"></div>
     <div class="row featurette">
-        <div class="col-md-8">
+        <div class="col-md-8" >
             <h2 class="featurette-heading smalltopmargin">Free API <span class="text-muted">Code instantly</span></h2>
             <p class="lead">
                 With the Evercam API you can start building applications with cameras immediately: streaming video, snapshots, camera sharing and device management - you can do it all instantly for any make
@@ -45,7 +45,7 @@
 
             </p>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-6"style="margin-right:-700px; padding-left:20px">
             <!--PLACEHOLDER FOR CODE DISPLAY-->
             <pre><code data-language="python"> >>> from types import *
 class BankAccount(object):
