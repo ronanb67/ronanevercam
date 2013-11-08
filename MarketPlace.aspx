@@ -10,31 +10,21 @@
         </div>
         </div>
     <div class="container">
-
-        <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation" >
+        <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
             <div class="sidebar">
-                <table>
-                    <tr>
-                        <td><a href="MarketPlace.aspx">Analytics</a></td>
-                    </tr>
-                    <tr>
-                        <td><a href="MarketPlace.aspx">Transcoding</a></td>
-                    </tr>
-                    <tr>
-                        <td><a href="MarketPlace.aspx">Storage</a></td>
-                    </tr>
-                    <tr>
-                        <td><a href="MarketPlace.aspx">Restreaming </a></td>
-                    </tr>
-                    <tr>
-                        <td><a href="MarketPlace.aspx">Messaging</a></td>
-                    </tr>
-                </table>
+                <div class="list-group">
+                    <a href="MarketPlace.aspx" class="list-group-item active">Analytics</a>
+                    <a href="MarketPlace.aspx" class="list-group-item">Transcoding</a>
+                    <a href="MarketPlace.aspx" class="list-group-item">Storage</a>
+                    <a href="MarketPlace.aspx" class="list-group-item">Restreaming</a>
+                </div>
             </div>
-            <!--/.well -->
+            <!--/span-->
+        </div>
+        <!--/.well -->
         </div>
         <!--/span-->
-    </div>
+    
     <div class="container marketing" style="align-content: center; margin-left: -80px">
 
         <div class="row">

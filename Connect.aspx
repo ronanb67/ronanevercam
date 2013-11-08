@@ -10,48 +10,17 @@
         </div>
     </div>
     <div class="container">
-        <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation" >
+        <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
             <div class="sidebar">
-                 <table>
-                    <tr>
-                        <td><a href="Connect.aspx#Connect">Connect</a></td>
-                    </tr>
-                    <tr>
-                        <td><a href="Knowledgebase.aspx">Knowledgebase</a></td>
-                    </tr>
-                    <tr>
-                        <td><a href="Forum.aspx">Forum</a></td>
-                    </tr>
-                    <tr>
-                        <td><a href="MarketPlace.aspx">Tools </a></td>
-                    </tr>
-                    <tr>
-                        <td><a href="MarketPlace.aspx">Apps</a></td>
-                    </tr>
-                     <tr>
-                        <td><a href="MarketPlace.aspx">Devices</a></td>
-                    </tr>
-                     <tr>
-                        <td><a href="LiveSupport.aspx">Live Support</a></td>
-                    </tr>
-                </table>
-                <%--<ul>
-                    <li><a href="Connect.aspx#Connect">Connect</a></li>
-                    <li>Learn More</li>
-                    <ul>
-                        <li><a href="Knowledgebase.aspx">Knowledgebase</a></li>
-                        <li><a href="Forum.aspx">Forum</a></li>
-
-                    </ul>
-                    <li>Advanced</li>
-                    <ul>
-                        <li><a href="MarketPlace.aspx">Tools</a></li>
-                        <li><a href="MarketPlace.aspx">Apps</a></li>
-                        <li><a href="MarketPlace.aspx">Devices</a></li>
-                    </ul>
-                    <li><a href="LiveSupport.aspx">Live Support </a></li>
-                    
-                </ul>--%>
+                <div class="list-group">
+                    <a href="Connect.aspx#Connect" class="list-group-item active">Connect</a>
+                    <a href="Knowledgebase.aspx" class="list-group-item">Knowledgebase</a>
+                    <a href="Develop.aspx" class="list-group-item">Forum</a>
+                    <a href="MarketPlace.aspx" class="list-group-item">Tools</a>
+                    <a href="MarketPlace.aspx" class="list-group-item">Apps</a>
+                    <a href="MarketPlace.aspx" class="list-group-item">Devices</a>
+                    <a href="LiveSupport.aspx" class="list-group-item">Live Support</a>
+                </div>
             </div>
             <!--/.well -->
         </div>

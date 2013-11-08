@@ -14,32 +14,19 @@
     </div>     
     <div class="container">
         <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
-            <div class="sidebar" style="margin-top: -320px;">
-                <table>
-                    <tr>
-                        <td><a href="Index.aspx#WhatIsIt">What is Evercam</a></td>
-                    </tr>
-                    <tr>
-                        <td><a href="Index.aspx#Why">Why Evercam</a></td>
-                    </tr>
-                    <tr>
-                        <td><a href="Index.aspx#API">API</a></td>
-                    </tr>
-                    <tr>
-                        <td><a href="Index.aspx#Pricing">Pricing </a></td>
-                    </tr>
-                    <tr>
-                        <td><a href="MarketPlace.aspx">Marketplace</a></td>
-                    </tr>
+            <div class="sidebar" style="margin-top: -320px;">                
+          <div class="list-group">
+            <a href="Index.aspx#WhatIsIt" class="list-group-item active">What is it?</a>
+            <a href="Index.aspx#Why" class="list-group-item">Why Evercam?</a>
+            <a href="Index.aspx#API" class="list-group-item">API</a>
+            <a href="Index.aspx#Pricing" class="list-group-item">Pricing</a>
+            <a href="MarketPlace.aspx" class="list-group-item">MarketPlace</a>            
+          </div>
+        </div><!--/span-->
 
-                </table>
-               <%-- <ul>
-                    <li><a href="Index.aspx#WhatIsIt">What is Evercam</a></li>
-                    <li><a href="Index.aspx#Why">Why Evercam</a></li>
-                    <li><a href="Index.aspx#API">API</a></li>
-                    <li><a href="Index.aspx#Pricing">Pricing </a></li>
-                    <li><a href="MarketPlace.aspx">Marketplace</a></li>
-                </ul>--%>
+                
+
+
             </div>
             <!--/.well -->
         </div>

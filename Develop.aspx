@@ -13,32 +13,23 @@
             <p>Start using our API today and integrate cameras with your applications within minutes.</p>
         </div>
     </div>
-    <div class="container" >
+    <div class="container">
         <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
             <div class="sidebar">
-                <table>
-                    <tr>
-                        <td><a href="Develop.aspx#FreeAPI">Free API</a></td>
-                    </tr>
-                    <tr>
-                        <td><a href="Develop.aspx#ProAPI">Pro API</a></td>
-                    </tr>
-                    <tr>
-                        <td><a href="Develop.aspx#Platform">Platform</a></td>
-                    </tr>
-                    
-                </table>
-                <%--<ul>
-                    <li><a href="Develop.aspx#FreeAPI">Free API</a></li>
-                    <li><a href="Develop.aspx#ProAPI">Pro API</a></li>
-                    <li><a href="Develop.aspx#Platform">Platform</a></li>
-
-                </ul>--%>
+                <div class="list-group">
+                    <a href="Develop.aspx#FreeAPI" class="list-group-item active">Free API</a>
+                    <a href="Develop.aspx#ProAPI" class="list-group-item">Pro API</a>
+                    <a href="Develop.aspx#Platform" class="list-group-item">Platform</a>
+                </div>
             </div>
-            <!--/.well -->
+            <!--/span-->
+
+
+        </div>
+        <!--/.well -->
         </div>
         <!--/span-->
-    </div>
+    
     <div class="container" style="margin-left:-45px;">
     <div id="FreeAPI"></div>
     <div class="row featurette">
