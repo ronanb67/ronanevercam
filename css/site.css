@@ -40,41 +40,13 @@
             text-decoration:none;            
            }
 /*2nd Nav- sidebar*/
-       .sidebar{float: right;
-        width:11%; 
-        height:15%;            
-        padding-top:10px;              
-        padding-bottom:0px;        
-        margin-left:865px;
-        height:inherit;
-        font-size:medium;
-        border:groove;
-        border-color:#eeeeee;
-        border-radius:10px;    
-        margin-top:-265px;
+       .sidebar{float: right;             
+        margin-left:865px;         
+        margin-top:-260px;
         position:fixed;
-                         
+        width:200px;                      
 
-}
-
-.sidebar td a{  border:1px solid;
-                display:table;
-                height:40px; 
-                width:200px;
-                border-color:#D6D6D6;
-                border-left-style:none;
-                border-right-style:none;
-                border-top-style:none;
-                margin-bottom:-1px;
-                                    
-}
-.sidebar li {list-style-type:none;  
-        list-style-position:outside;    
-        margin-bottom:10px;        
-        height:100%; 
-        width:100%;      
-                    
-       }
+}   
 
 
 .containermain{
