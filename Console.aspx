@@ -6,37 +6,37 @@
         
     
 </asp:Content>
-<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
-    
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
+
     <div class="jumbotron">
         <div class="container">
             <h1>Making Cameras Easy</h1>
             <p>Evercam makes it easy to integrate live video with your applications.</p>
-           
+
         </div>
     </div>
-   
+
 
     <div class="container marketing">
 
         <!-- START THE FEATURETTES -->
         <section id="ConsoleTerminal">
-        <div class="row featurette">
-            <div class="col-md-6">
-              <div id="term_evercam" class="terminal"></div>
+            <div class="row featurette">
+                <div class="col-md-6">
+                    <div id="term_evercam" class="terminal"></div>
+                </div>
+                <div class="col-md-6">
+                    <asp:TextBox ID="Codeplaceholder2" runat="server" CssClass="codeplaceholder" Width="400px" Height="400px"
+                        TextMode="MultiLine"></asp:TextBox>
+                </div>
             </div>
-            <div class="col-md-6">               
-                <asp:TextBox ID="Codeplaceholder2" runat="server" CssClass="codeplaceholder" Width="400px" Height="400px"
-                    TextMode="MultiLine"  ></asp:TextBox>
-	    </div>
-        </div>
-    </section>
-        </div>
-   
-    <hr class="featurette-divider"/>
+        </section>
+    </div>
+
+    <hr class="featurette-divider" />
     <script src="js/bootstrap.js"></script>
-    <script src="js/offcanvas.js"></script>    
- <script src="assets/jquery.js"></script>
+    <script src="js/offcanvas.js"></script>
+    <script src="assets/jquery.js"></script>
     <script src="jcubic/js/jquery.terminal-0.7.7.js"></script>
     <script src="jcubic/js/jquery.mousewheel-min.js"></script>
     <script>

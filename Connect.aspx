@@ -2,7 +2,7 @@
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
 </asp:Content>
-<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
     <div class="jumbotron">
         <div class="container">
             <h1>Getting Connected</h1>
@@ -26,7 +26,7 @@
         </div>
         <!--/span-->
     </div>
-    <div class="container marketing" style="margin-left:-30px">
+    <div class="container marketing" style="margin-left: -30px">
 
         <section id="Connect">
             <div class="row featurette">
@@ -36,7 +36,7 @@
                 <div class="col-md-8">
                     <form class="form-inline">
                         <h2 class="featurette-heading smalltopmargin">Connect</h2>
-                        <input type="text" class="form-control" placeholder="Camera IP Address" style="width:500px" />
+                        <input type="text" class="form-control" placeholder="Camera IP Address" style="width: 500px" />
 
                     </form>
                 </div>
@@ -64,7 +64,7 @@
                 <div class="col-md-4">
                     <i class="icon-wrench icon-large"></i>
                 </div>
-                <div class="col-md-8" style="margin-left:-55px">
+                <div class="col-md-8" style="margin-left: -55px">
                     <h2 class="featurette-heading smalltopmargin">A complicated case?</h2>
                     <p class="lead">Evercam also provides a suite of <a href="/MarketPlace.aspx">tools</a>, <a href="/MarketPlace.aspx">apps</a> and <a href="/MarketPlace.aspx">devices</a> to help get your cameras connected to our platform. Whether you have one camera or thousands we can help make it simple.</p>
 
@@ -77,7 +77,7 @@
                 <div class="col-md-4">
                     <i class="icon-headphones icon-large"></i>
                 </div>
-                <div class="col-md-8" style="margin-left:-55px">
+                <div class="col-md-8" style="margin-left: -55px">
                     <h2 class="featurette-heading smalltopmargin">Live Support</h2>
                     <p class="lead">Contact us directly and let our experts help you to get your device connected to the Evercam platform.</p>
 
@@ -87,6 +87,6 @@
         <hr />
     </div>
     <!--/.container -->
-    
+
 </asp:Content>
 

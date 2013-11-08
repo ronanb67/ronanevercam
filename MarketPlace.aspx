@@ -2,13 +2,13 @@
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
 </asp:Content>
-<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
-     <div class="jumbotron">
-    <div class="container">
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
+    <div class="jumbotron">
+        <div class="container">
             <h1>Marketplace</h1>
             <p>Welcome to the marketplace. Sign up your camera and then come and try out the app store.</p>
         </div>
-        </div>
+    </div>
     <div class="container">
         <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
             <div class="sidebar">
@@ -22,9 +22,9 @@
             <!--/span-->
         </div>
         <!--/.well -->
-        </div>
-        <!--/span-->
-    
+    </div>
+    <!--/span-->
+
     <div class="container marketing" style="align-content: center; margin-left: -80px">
 
         <div class="row">
@@ -518,7 +518,7 @@
         </div>
         <!--/.row -->
     </div>
-        <!--/.container -->
-    <hr class="featurette-divider"/>
+    <!--/.container -->
+    <hr class="featurette-divider" />
 </asp:Content>
 
