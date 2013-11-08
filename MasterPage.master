@@ -15,7 +15,8 @@
     <link href="css/bootstrap.css" rel="stylesheet" />
     <link href="css/offcanvas.css" rel="stylesheet" />
     <link href="css/site.css" rel="stylesheet" />
-    <link href="css/Evercam-Terminal.css" rel="stylesheet" />   
+    <link href="css/Evercam-Terminal.css" rel="stylesheet" /> 
+     
       
 
     <asp:ContentPlaceHolder id="head" runat="server">
