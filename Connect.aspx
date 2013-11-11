@@ -13,7 +13,7 @@
         <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
             <div class="sidebar">
                 <div class="list-group">
-                    <a href="Connect.aspx#Connect" class="list-group-item active">Connect</a>
+                    <a href="Connect.aspx#Connect" class="list-group-item">Connect</a>
                     <a href="Knowledgebase.aspx" class="list-group-item">Knowledgebase</a>
                     <a href="Develop.aspx" class="list-group-item">Forum</a>
                     <a href="MarketPlace.aspx" class="list-group-item">Tools</a>

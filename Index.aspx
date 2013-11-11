@@ -16,7 +16,7 @@
         <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
             <div class="sidebar" style="margin-top: -315px;">
                 <div class="list-group">
-                    <a href="Index.aspx#WhatIsIt" class="list-group-item active">What is it?</a>
+                    <a href="Index.aspx#WhatIsIt" class="list-group-item">What is it?</a>
                     <a href="Index.aspx#Why" class="list-group-item">Why Evercam?</a>
                     <a href="Index.aspx#API" class="list-group-item">API</a>
                     <a href="Index.aspx#Pricing" class="list-group-item">Pricing</a>

@@ -17,7 +17,7 @@
         <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
             <div class="sidebar">
                 <div class="list-group">
-                    <a href="Develop.aspx#FreeAPI" class="list-group-item active">Free API</a>
+                    <a href="Develop.aspx#FreeAPI" class="list-group-item">Free API</a>
                     <a href="Develop.aspx#ProAPI" class="list-group-item">Pro API</a>
                     <a href="Develop.aspx#Platform" class="list-group-item">Platform</a>
                 </div>

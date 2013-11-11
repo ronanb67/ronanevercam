@@ -13,7 +13,7 @@
         <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
             <div class="sidebar">
                 <div class="list-group">
-                    <a href="MarketPlace.aspx" class="list-group-item active">Analytics</a>
+                    <a href="MarketPlace.aspx" class="list-group-item">Analytics</a>
                     <a href="MarketPlace.aspx" class="list-group-item">Transcoding</a>
                     <a href="MarketPlace.aspx" class="list-group-item">Storage</a>
                     <a href="MarketPlace.aspx" class="list-group-item">Restreaming</a>
