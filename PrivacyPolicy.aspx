@@ -20,7 +20,7 @@
         (as defined below).If You are entering into this Agreement on behalf of a company or other legal entity, You represent that You have the authority to bind such entity to these terms and conditions, 
         in which case the terms “You” and “Your” shall refer to such entity. Your registration for, or use of, the Service shall be deemed to be Your agreement to abide by this Agreement including any 
         materials made available to You by Evercam, including but not limited to Evercam’s privacy and security policies which You acknowledge having reviewed.</p>
-    <h3>1. Definitions</h3>
+    
     <p></p>
 
 </asp:Content>

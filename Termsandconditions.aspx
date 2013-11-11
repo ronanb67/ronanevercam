@@ -6,7 +6,7 @@
     <div class="jumbotron">
         <div class="container">
             <h1></h1>
-            <p>Terms and Conditions.</p>            
+            <p>Terms and Conditions</p>            
         </div>
     </div> 
     <div class="container">
