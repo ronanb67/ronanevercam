@@ -58,9 +58,21 @@
                   text-align:center;
                   border:none;
                   float:right;
-                  margin-right:0px;
-                  
+                  margin-right:0px;                  
                  
+}
+.terms a:hover{color:black;
+               text-decoration:none
+
+}
+.terms a:active{color:black;
+
+}
+.terms a:visited{color:black;
+
+}
+.terms a:link{color:black;
+
 }
 /*JQuery terminal*/
 .terminal .terminal-output .format, .terminal .cmd .format,
