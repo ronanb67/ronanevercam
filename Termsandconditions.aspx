@@ -9,7 +9,7 @@
             <p></p>            
         </div>
     </div> 
-    <div class="container">
+    <div class="container" style="margin-left:-25px">
         <div class="terms">
             <h3>Index</h3>
             <h5><a name="yourights" href="Termsandconditions.aspx#yourrights">Your rights</a></h5>
