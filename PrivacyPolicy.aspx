@@ -1,15 +1,15 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="PrivacyPolicy.aspx.cs" Inherits="PrivacyPolicy" %>
+﻿<%@ Page Title="Privacy Policy" Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="PrivacyPolicy.aspx.cs" Inherits="PrivacyPolicy" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
     <div class="jumbotron">
         <div class="container">
-            <h1></h1>
-            <p>Privacy Policy</p>            
+            <h1>Privacy Policy</h1>
+            <p>EULA</p>            
         </div>
     </div> 
-    <h3>EULA</h3> 
+    <h3></h3> 
     <h3>END USER’S LICENSE AGREEMENT</h3> 
     <p>THIS IS AN IMPORTANT LEGAL AGREEMENT.  BY SIGNING UP TO THE SERVICE, YOU ARE ACCEPTING THE TERMS AND CONDITIONS OF THIS LICENCE AGREEMENT IN THEIR ENTIRETY AND YOU ARE AGREEING TO BE 
         LEGALLY BOUND BY THIS LICENCE AGREEMENT.</p> 

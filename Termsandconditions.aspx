@@ -1,26 +1,26 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="Termsandconditions.aspx.cs" Inherits="Termsandconditions" %>
+﻿<%@ Page Title="Terms and Conditions" Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="Termsandconditions.aspx.cs" Inherits="Termsandconditions" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
     <div class="jumbotron">
         <div class="container">
-            <h1></h1>
-            <p>Terms and Conditions</p>            
+            <h1>Terms and Conditions</h1>
+            <p></p>            
         </div>
     </div> 
     <div class="container">
         <div class="terms">
             <h3>Index</h3>
-            <h5><a href="Termsandconditions.aspx#yourrights">Your rights</a></h5>
-            <h5><a href="Termsandconditions.aspx#cookies">Cookies</a></h5>
-            <h5><a href="Termsandconditions.aspx#changes">Changes</a></h5>
-            <h5><a href="Termsandconditions.aspx#ordering">Ordering</a></h5>
-            <h5><a href="Termsandconditions.aspx#license">License</a></h5>
-            <h5><a href="Termsandconditions.aspx#siteusage">Site usage</a></h5>
-            <h5><a href="Termsandconditions.aspx#ownership">Ownership of information</a></h5>
-            <h5><a href="Termsandconditions.aspx#accuracyofinfo">Accuracy of information</a></h5>
-            <h5><a href="Termsandconditions.aspx#pricing">Pricing liability</a></h5>
+            <h5><a name="yourights" href="Termsandconditions.aspx#yourrights">Your rights</a></h5>
+            <h5><a name="cookies" href="Termsandconditions.aspx#cookies">Cookies</a></h5>
+            <h5><a name="changes" href="Termsandconditions.aspx#changes">Changes</a></h5>
+            <h5><a name="ordering" href="Termsandconditions.aspx#ordering">Ordering</a></h5>
+            <h5><a name="license" href="Termsandconditions.aspx#license">License</a></h5>
+            <h5><a name="siteusuage" href="Termsandconditions.aspx#siteusage">Site usage</a></h5>
+            <h5><a name="ownership" href="Termsandconditions.aspx#ownership">Ownership of information</a></h5>
+            <h5><a name="accuracyofinfo" href="Termsandconditions.aspx#accuracyofinfo">Accuracy of information</a></h5>
+            <h5><a name="pricing" href="Termsandconditions.aspx#pricing">Pricing liability</a></h5>
         </div>
         <h3><a name="yourrights"></a>Your rights</h3>
         <p>
