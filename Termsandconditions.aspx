@@ -11,7 +11,7 @@
     </div> 
     <div class="container" style="margin-left:-25px">
         <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
-            <div class="sidebar" style="margin-top: -195px">
+            <div class="sidebar" style="margin-top: -195px; margin-left:890px;">
                 <div class="list-group">
                     <a name="yourights" href="Termsandconditions.aspx#yourrights" class="list-group-item">Your rights</a>
                     <a name="cookies" href="Termsandconditions.aspx#cookies" class="list-group-item">Cookies</a>
