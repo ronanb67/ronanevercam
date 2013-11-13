@@ -10,18 +10,22 @@
         </div>
     </div> 
     <div class="container" style="margin-left:-25px">
-        <div class="terms">
-            <h3>Index</h3>
-            <h5><a name="yourights" href="Termsandconditions.aspx#yourrights">Your rights</a></h5>
-            <h5><a name="cookies" href="Termsandconditions.aspx#cookies">Cookies</a></h5>
-            <h5><a name="changes" href="Termsandconditions.aspx#changes">Changes</a></h5>
-            <h5><a name="ordering" href="Termsandconditions.aspx#ordering">Ordering</a></h5>
-            <h5><a name="license" href="Termsandconditions.aspx#license">License</a></h5>
-            <h5><a name="siteusuage" href="Termsandconditions.aspx#siteusage">Site usage</a></h5>
-            <h5><a name="ownership" href="Termsandconditions.aspx#ownership">Ownership of information</a></h5>
-            <h5><a name="accuracyofinfo" href="Termsandconditions.aspx#accuracyofinfo">Accuracy of information</a></h5>
-            <h5><a name="pricing" href="Termsandconditions.aspx#pricing">Pricing liability</a></h5>
+        <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
+            <div class="sidebar" style="margin-top: -195px">
+                <div class="list-group">
+                    <a name="yourights" href="Termsandconditions.aspx#yourrights" class="list-group-item">Your rights</a>
+                    <a name="cookies" href="Termsandconditions.aspx#cookies" class="list-group-item">Cookies</a>
+                    <a name="changes" href="Termsandconditions.aspx#changes" class="list-group-item">Changes</a>
+                    <a name="ordering" href="Termsandconditions.aspx#ordering" class="list-group-item">Ordering</a>
+                    <a name="license" href="Termsandconditions.aspx#license" class="list-group-item">License</a>
+                    <a name="siteusuage" href="Termsandconditions.aspx#siteusage" class="list-group-item">Site usage</a>
+                    <a name="ownership" href="Termsandconditions.aspx#ownership" class="list-group-item">Ownership of information</a>
+                    <a name="accuracyofinfo" href="Termsandconditions.aspx#accuracyofinfo" class="list-group-item">Accuracy of information</a>
+                    <a name="pricing" href="Termsandconditions.aspx#pricing" class="list-group-item">Pricing liability</a>
+                </div>
+            </div>
         </div>
+       
         <h3><a name="yourrights"></a>Your rights</h3>
         <p>
             Evercam.com is an Irish based company and complies with Irish consumer law.  By visiting our website you accept and agree to the content of these Terms and Conditions. 
