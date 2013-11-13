@@ -5,34 +5,14 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
     <div class="jumbotron">
         <div class="container">
-            <h1>Evercam Knowledgebase</h1>
+            <h1>Evercam Knowledge Base</h1>
             <p>Evercam makes it easy to integrate live video with your applications.</p>
 
         </div>
     </div>
     <div class="container">
-        <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
-            <div class="sidebar" >
-                <table >
-                    <tr>
-                        <td> <a href="Register.aspx">Register</a></td>
-                    </tr>
-                    <tr>
-                        <td><a href="Develop.aspx#FreeAPI">Free API</a></td>
-                    </tr>
-                    <tr>
-                        <td><a href="Develop.aspx#ProAPI">Pro API</a></td>
-                    </tr>
-                    <tr>
-                        <td><a href="Develop.aspx#Platform">Platform</a></td>
-                    </tr>
-                </table>
-         
-                
-            </div>
-        </div>
-    </div>
-    
+        <p>1<a href=""</p>
+    </div>  
     
     <asp:Menu runat="server" DynamicMenuItemStyle-VerticalPadding="10px">
         <Items>
