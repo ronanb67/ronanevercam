@@ -19,7 +19,7 @@
 <body>
     <form id="form1" runat="server">
         <div class="navbar navbar-fixed-top navbar-inverse" role="navigation">
-            <div class="container">
+            <div class="containerapps" style="margin-left:495px">
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                         <span class="icon-bar"></span>
@@ -40,6 +40,7 @@
         </div>
   
         <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+            <div class="containerapps"></div>
         
         </asp:ContentPlaceHolder>
     

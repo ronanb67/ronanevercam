@@ -3,6 +3,10 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
-    <h3>Your apps</h3>
+    <div class="jumbotron" style="width: 500px; margin-left: 510px;">
+        <div class="containerapps" style="margin-left: -85px;">
+            <h4>Your apps</h4>
+        </div>
+    </div>    
 </asp:Content>
 
