@@ -9,7 +9,7 @@
         <asp:CheckBox ID="bedroom" runat="server" />
         <asp:Label ID="lblbathroom" runat="server" Text="Bathroom"></asp:Label>
         <asp:CheckBox ID="bathroom" runat="server" />
-        <p><a class="btn btn-primary btn" href="">Next &raquo;</a></p>
+        <p><a class="btn btn-primary btn" href="androidappgenerator_confirm.aspx">Next &raquo;</a></p>
     </div>
 </asp:Content>
 
