@@ -37,18 +37,23 @@
             text-decoration:none;            
            }
 /*2nd Nav- sidebar*/
-       .sidebar{float: right;             
+.sidebar{float: right;             
         margin-left:865px;         
         margin-top:-260px;
         position:fixed;
         width:200px;                      
 
-}   
+} 
+  
 
 
 .containerapps{
-    margin-left:510px;
-   
+    margin-left:510px;   
+}
+
+.navbarapps{display: block;
+            float:right;
+
 }
 
 .codeplaceholder{ background-color:#eeeeee;

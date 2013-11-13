@@ -19,7 +19,7 @@
 <body>
     <form id="form1" runat="server">
         <div class="navbar navbar-fixed-top navbar-inverse" role="navigation">
-            <div class="containerapps" style="margin-left:495px">
+            <div class="containerapps" style="margin-left: 495px">
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                         <span class="icon-bar"></span>
@@ -31,9 +31,9 @@
                 <div class="collapse navbar-collapse">
                     <ul class="nav navbar-nav" style="font-size: medium; color: white;">
                         <li><a href="Index.aspx">Home</a></li>
-                        <li><a href="Connect.aspx">Login</a></li>
+                        <li><a href="Login.aspx">Login</a></li>
                         <li><a href="Develop.aspx">API</a></li>
-                        <li><a href="MarketPlace.aspx">Help</a></li>
+                        <li><a href="Knowledgebase.aspx">Help</a></li>
                     </ul>
                 </div>
             </div>

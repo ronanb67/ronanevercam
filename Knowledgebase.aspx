@@ -11,20 +11,12 @@
         </div>
     </div>
     <div class="container">
-        <p>1<a href=""</p>
+        <p>1.&nbsp;&nbsp;<a href="#">What are the most common camera ports?</a></p>
+        <p>2.&nbsp;&nbsp;<a href="#">Where can I see a list of vendors and their MAC addresses?</a></p>
+
     </div>  
     
-    <asp:Menu runat="server" DynamicMenuItemStyle-VerticalPadding="10px">
-        <Items>
-            <asp:MenuItem NavigateUrl="http://ecconnect.azurewebsites.net/CommonPorts.aspx" Text="1. What are the most common camera ports?"></asp:MenuItem>
-            <asp:MenuItem NavigateUrl="http://ecconnect.azurewebsites.net/MacVendor.aspx" Text="2. Where can I see a list of vendors and their MAC addresses?"></asp:MenuItem>
-            <asp:MenuItem NavigateUrl="http://ecconnect.azurewebsites.net/CommonPorts.aspx" Text="3. What are the most common camera ports?"></asp:MenuItem>
-            <asp:MenuItem NavigateUrl="http://ecconnect.azurewebsites.net/CommonPorts.aspx" Text="4. What are the most common camera ports?"></asp:MenuItem>
-            <asp:MenuItem NavigateUrl="http://ecconnect.azurewebsites.net/CommonPorts.aspx" Text="5. What are the most common camera ports?"></asp:MenuItem>
-            <asp:MenuItem NavigateUrl="http://ecconnect.azurewebsites.net/CommonPorts.aspx" Text="6. What are the most common camera ports?"></asp:MenuItem>
-            <asp:MenuItem NavigateUrl="http://ecconnect.azurewebsites.net/CommonPorts.aspx" Text="7. What are the most common camera ports?"></asp:MenuItem>
-        </Items>
-    </asp:Menu>
+    
        
     <hr class="featurette-divider"/>
 </asp:Content>
