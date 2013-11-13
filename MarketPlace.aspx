@@ -358,7 +358,7 @@
                 <p>
                     Android Single Purpose on-the fly App Robo-developer.                    
                 </p>
-                <p><a class="btn btn-default" href="Apps/appgenerator.aspx">Coming Soon &raquo;</a></p>
+                <p><a class="btn btn-default" href="Apps/androidappgenerator.aspx">Coming Soon &raquo;</a></p>
             </div>
             <!-- /.col-lg-4 -->
             <div class="col-lg-4">
