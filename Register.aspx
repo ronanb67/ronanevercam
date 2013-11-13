@@ -72,4 +72,5 @@
             </asp:CreateUserWizardStep>
         </WizardSteps>--%>
     </asp:CreateUserWizard>
+    <hr class="featurette-divider" />
 </asp:Content>

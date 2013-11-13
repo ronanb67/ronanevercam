@@ -8,6 +8,7 @@
             <h1>Making Cameras Easy</h1>
             <p>Forum for Evercam.</p>            
         </div>
-    </div>     
+    </div> 
+    <hr class="featurette-divider" />    
 </asp:Content>
 

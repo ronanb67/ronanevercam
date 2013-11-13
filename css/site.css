@@ -33,10 +33,7 @@
 
 /*Main Navbar*/
 .navbarmain{font-size:medium;
-            padding-top:6px;
-            padding-left: 35px;
-            padding-right:155px;
-            padding-bottom:5px;            
+            padding:6px, 155px,5px,35px;                     
             text-decoration:none;            
            }
 /*2nd Nav- sidebar*/

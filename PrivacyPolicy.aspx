@@ -22,6 +22,6 @@
         materials made available to You by Evercam, including but not limited to Evercam’s privacy and security policies which You acknowledge having reviewed.</p>
     
     <p></p>
-
+    <hr class="featurette-divider" />
 </asp:Content>
 
