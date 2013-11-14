@@ -7,12 +7,11 @@
         <div class="container">
             <h1>Evercam Knowledge Base</h1>
             <p>Evercam makes it easy to integrate live video with your applications.</p>
-
         </div>
     </div>
-    <div class="container">
+    <div class="container" style="margin-left:-30px">
         <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
-                <div class="sidebar" style="margin-left: 880px; margin-top: -265px">
+                <div class="sidebar" style="margin-left: 890px; margin-top: -263px">
                     <div class="list-group">
                         <a href="Knowledgebase.aspx" class="list-group-item">Popular Questions</a>
                         <a href="../Knowledgebase/AccountHowto.aspx" class="list-group-item">Account</a>
