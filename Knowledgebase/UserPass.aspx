@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Knowledgebase.master" AutoEventWireup="true" CodeFile="UserPass.aspx.cs" Inherits="Knowledgebase_UserPass" %>
+﻿<%@ Page Title="Usernames and Passwords" Language="C#" MasterPageFile="~/Knowledgebase.master" AutoEventWireup="true" CodeFile="UserPass.aspx.cs" Inherits="Knowledgebase_UserPass" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
 </asp:Content>

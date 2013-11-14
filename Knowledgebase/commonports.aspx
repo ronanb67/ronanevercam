@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Knowledgebase.master" AutoEventWireup="true" CodeFile="CommonPorts.aspx.cs" Inherits="Knowledgebase_commonports" %>
+﻿<%@ Page Title="Common ports" Language="C#" MasterPageFile="~/Knowledgebase.master" AutoEventWireup="true" CodeFile="CommonPorts.aspx.cs" Inherits="Knowledgebase_commonports" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
 </asp:Content>

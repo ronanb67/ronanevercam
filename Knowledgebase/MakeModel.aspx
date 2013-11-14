@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Knowledgebase.master" AutoEventWireup="true" CodeFile="MakeModel.aspx.cs" Inherits="Knowledgebase_MakeModel" %>
+﻿<%@ Page Title="Make and Model" Language="C#" MasterPageFile="~/Knowledgebase.master" AutoEventWireup="true" CodeFile="MakeModel.aspx.cs" Inherits="Knowledgebase_MakeModel" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
 </asp:Content>

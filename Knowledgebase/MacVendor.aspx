@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Knowledgebase.master" AutoEventWireup="true" CodeFile="MacVendor.aspx.cs" Inherits="Knowledgebase_MacVendor" %>
+﻿<%@ Page Title="MAC and Vendors" Language="C#" MasterPageFile="~/Knowledgebase.master" AutoEventWireup="true" CodeFile="MacVendor.aspx.cs" Inherits="Knowledgebase_MacVendor" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
 </asp:Content>
