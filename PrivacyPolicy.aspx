@@ -312,6 +312,6 @@
                 agreements, whether written or oral, between the parties regarding the subject matter contained herein.
             </p>
         </div>
-    <hr class="featurette-divider" />
+    <hr class="featurette-divider" style="margin-left:-10px"/>
 </asp:Content>
 

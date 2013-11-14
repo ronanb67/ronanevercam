@@ -17,7 +17,12 @@
 
 .featurette-divider {
   margin: 70px 10px;
-  width:855px; /* Space out the Bootstrap <hr> more */
+  width:885px; /* Space out the Bootstrap <hr> more */
+}
+.featurette-divider-bottom{
+  margin: 70px 10px;
+  width:885px;
+  margin-left:-30px;
 }
 
 /* Thin out the marketing headings */

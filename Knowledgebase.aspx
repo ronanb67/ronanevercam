@@ -16,10 +16,7 @@
         <p>3.&nbsp;&nbsp;<a href="../Knowledgebase/MakeModel.aspx">Where can I see a list of makes and models?</a></p>
         <p>4.&nbsp;&nbsp;<a href="../Knowledgebase/UserPass.aspx">Where can I see a list of usernames and passwords?</a></p>
 
-    </div>  
-    
-    
-       
-    <hr class="featurette-divider"/>
+    </div>      
+    <hr class="featurette-divider" style="margin-left:-10px"/>
 </asp:Content>
 

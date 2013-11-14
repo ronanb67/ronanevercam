@@ -126,7 +126,7 @@
   </span>
 </span> 
 
- <hr class="featurette-divider"/>
+ <hr class="featurette-divider" style="margin-left:-10px"/>
    
 </asp:Content>
 

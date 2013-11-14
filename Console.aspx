@@ -17,7 +17,7 @@
     </div>
 
 
-    <div class="container marketing">
+    <div class="container marketing" style="margin-left:-30px">
 
         <!-- START THE FEATURETTES -->
         <section id="ConsoleTerminal">
@@ -25,7 +25,7 @@
                 <div class="col-md-6">
                     <div id="term_evercam" class="terminal"></div>
                 </div>
-                <div class="col-md-6">
+                <div class="col-md-6" style="margin-left:-40px;">
                     <asp:TextBox ID="Codeplaceholder2" runat="server" CssClass="codeplaceholder" Width="400px" Height="400px"
                         TextMode="MultiLine"></asp:TextBox>
                 </div>
@@ -33,7 +33,7 @@
         </section>
     </div>
 
-    <hr class="featurette-divider" />
+    <hr class="featurette-divider" style="margin-left:-5px" />
     <script src="js/bootstrap.js"></script>
     <script src="js/offcanvas.js"></script>
     <script src="assets/jquery.js"></script>

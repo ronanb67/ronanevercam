@@ -15,10 +15,10 @@
         <div >
                 <h2>Contact Information</h2>
                 <address>
-                    <strong>Evercam Ltd</strong><br>
-                    12 Parnell Square East<br>
-                    Dublin 2<br>
-                    Ireland<br><br/>
+                    <strong>Evercam Ltd</strong><br/>
+                    12 Parnell Square East<br/>
+                    Dublin 2<br/>
+                    Ireland<br/>
                     <abbr title="Phone">P:</abbr>
                            +353 (1) 538 3333
                     <br/>
@@ -26,6 +26,6 @@
                         <a href="mailto:info@evercam.com">info@evercam.com</a>
                 </address>
             </div>
-    <hr class="featurette-divider"/>
+    <hr class="featurette-divider" style="margin-left:-10px"/>
 </asp:Content>
 

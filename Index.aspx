@@ -204,7 +204,7 @@
         </div>
         <!--/.container -->
 
-        <hr class="featurette-divider" />
+        <hr class="featurette-divider" style="margin-left:-30px" />
     </div>
 
 </asp:Content>

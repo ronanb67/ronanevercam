@@ -97,7 +97,7 @@ print my_account.balance</code></pre>
             </div>
         </div>
     </div>
-    <hr class="featurette-divider" />
+    <hr class="featurette-divider" style="margin-left:-10px" />
 </asp:Content>
 
 

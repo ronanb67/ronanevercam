@@ -5,7 +5,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title></title>
-     <link href="highlight/highlight.js/styles/googlecode.css" rel="stylesheet" />
+    <link href="highlight/highlight.js/styles/googlecode.css" rel="stylesheet" />
     <link href="fonts/font-awesome.css" rel="stylesheet" />
     <link href="fonts/Evercam-Extra-Icons/evercam-fonts.css" rel="stylesheet" />
     <link href="css/bootstrap-theme.css" rel="stylesheet" />
@@ -13,30 +13,33 @@
     <link href="css/offcanvas.css" rel="stylesheet" />
     <link href="css/site.css" rel="stylesheet" />
     <link href="css/Evercam-Terminal.css" rel="stylesheet" />
+
+    <link href="assets/plugins/bootstrap/css/bootstrap-responsive.css" rel="stylesheet" />    
+    <link href="assets/plugins/bootstrap/css/bootstrap.css" rel="stylesheet" />
+    <link href="assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="assets/plugins/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" />
+    <link href="assets/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+    <link href="assets/css/style-metro.custom.css" rel="stylesheet" type="text/css" />
+    <link href="assets/css/style.css" rel="stylesheet" type="text/css" />
+    <link href="assets/css/style-responsive.css" rel="stylesheet" type="text/css" />    
+    <link href="assets/plugins/uniform/css/uniform.default.css" rel="stylesheet" type="text/css" />
+   
     
-    <link href="assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
-	<link href="assets/plugins/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css"/>
-	<link href="assets/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
-	<link href="assets/css/style-metro.custom.css" rel="stylesheet" type="text/css"/>
-	<link href="assets/css/style.css" rel="stylesheet" type="text/css"/>
-	<link href="assets/css/style-responsive.css" rel="stylesheet" type="text/css"/>
-	<link href="assets/css/themes/default.css" rel="stylesheet" type="text/css" id="style_color"/>
-    <link href="assets/plugins/uniform/css/uniform.default.css" rel="stylesheet" type="text/css"/>
 
-	<link href="assets/css/DataTables.css" rel="stylesheet" type="text/css"/>
-    <link href="assets/plugins/gritter/css/jquery.gritter.css" rel="stylesheet" type="text/css"/>
+    <link href="assets/css/DataTables.css" rel="stylesheet" type="text/css" />
+    <link href="assets/plugins/gritter/css/jquery.gritter.css" rel="stylesheet" type="text/css" />
 
-    <link rel="stylesheet" type="text/css" href="assets/plugins/jquery-ui/jquery-ui-1.10.1.custom.min.css"/>
-    <link href="assets/plugins/bootstrap-modal/css/bootstrap-modal.css" rel="stylesheet" type="text/css"/>
+    <link rel="stylesheet" type="text/css" href="assets/plugins/jquery-ui/jquery-ui-1.10.1.custom.min.css" />
+    <link href="assets/plugins/bootstrap-modal/css/bootstrap-modal.css" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" type="text/css" href="assets/plugins/select2/select2_metro.css" />
-    	<link rel="stylesheet" type="text/css" href="assets/plugins/chosen-bootstrap/chosen/chosen.css" />
+    <link rel="stylesheet" type="text/css" href="assets/plugins/chosen-bootstrap/chosen/chosen.css" />
     <link rel="stylesheet" type="text/css" href="assets/plugins/bootstrap-wysihtml5/bootstrap-wysihtml5.css" />
-        <link rel="stylesheet" type="text/css" href="assets/plugins/select2/select2_metro.css" />
-    <link rel="stylesheet" href="assets/plugins/data-tables/DT_bootstrap.css" /> 
-     
-      
+    <link rel="stylesheet" type="text/css" href="assets/plugins/select2/select2_metro.css" />
+    <link rel="stylesheet" href="assets/plugins/data-tables/DT_bootstrap.css" />
 
-    <asp:ContentPlaceHolder id="head" runat="server">
+
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
 </head>
 <body>
@@ -44,17 +47,17 @@
     <form runat="server">
 
         <div class="navbar navbar-fixed-top navbar-inverse" role="navigation">
-            <div class="container" >
+            <div class="container">
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" style="color:white;" href="/Index.aspx">Evercam</a>
+                    <a class="navbar-brand" style="color: white;" href="/Index.aspx">Evercam</a>
                 </div>
                 <div class="collapse navbar-collapse">
-                    <ul class="nav navbar-nav" style="font-size:medium; color:white;">
+                    <ul class="nav navbar-nav" style="font-size: medium; color: white;">
                         <li><a href="../Index.aspx">Home</a></li>
                         <li><a href="../Connect.aspx">Connect</a></li>
                         <li><a href="../Develop.aspx">Develop</a></li>
@@ -71,7 +74,7 @@
         <div class="container">
             <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
                 <div class="sidebar" style="margin-left: 940px; margin-top: -1px">
-                    <div class="list-group">                        
+                    <div class="list-group">
                         <a href="../Knowledgebase.aspx" class="list-group-item">Knowledge Base</a>
                         <a href="Develop.aspx" class="list-group-item">Forum</a>
                         <a href="MarketPlace.aspx" class="list-group-item">Tools</a>
@@ -81,9 +84,8 @@
                     </div>
                 </div>
             </div>
-            <asp:ContentPlaceHolder id="MainBodyContent" runat="server">
-                    
-                    </asp:ContentPlaceHolder>
+            <asp:ContentPlaceHolder ID="MainBodyContent" runat="server">
+            </asp:ContentPlaceHolder>
 
             <br />
 
@@ -105,61 +107,61 @@
 
     </form>
     <!-- BEGIN JAVASCRIPTS(Load javascripts at bottom, this will reduce page load time) -->
-	<!-- BEGIN CORE PLUGINS -->   <script src="assets/plugins/jquery-1.10.2.min.js" type="text/javascript"></script>
-	<!--<script src="assets/plugins/jquery-migrate-1.2.1.min.js" type="text/javascript"></script>-->
-	<!-- IMPORTANT! Load jquery-ui-1.10.1.custom.min.js before bootstrap.min.js to fix bootstrap tooltip conflict with jquery ui tooltip -->
-	<script src="assets/plugins/jquery-ui/jquery-ui-1.10.2.custom.min.js" type="text/javascript"></script>     
-    <script src="assets/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
-       <script src="assets/plugins/bootstrap-modal/js/bootstrap-modal.js" type="text/javascript" ></script>
-	<script src="assets/plugins/bootstrap-modal/js/bootstrap-modalmanager.js" type="text/javascript" ></script>
-    <script src="assets/plugins/bootstrap-hover-dropdown/twitter-bootstrap-hover-dropdown.min.js" type="text/javascript" ></script>
+    <!-- BEGIN CORE PLUGINS -->
+    <script src="../assets/plugins/jquery-1.10.2.min.js" type="text/javascript"></script>
+    <!--<script src="assets/plugins/jquery-migrate-1.2.1.min.js" type="text/javascript"></script>-->
+    <!-- IMPORTANT! Load jquery-ui-1.10.1.custom.min.js before bootstrap.min.js to fix bootstrap tooltip conflict with jquery ui tooltip -->
+    <script src="../assets/plugins/jquery-ui/jquery-ui-1.10.2.custom.min.js" type="text/javascript"></script>
+    <script src="../assets/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="../assets/plugins/bootstrap-modal/js/bootstrap-modal.js" type="text/javascript"></script>
+    <script src="../assets/plugins/bootstrap-modal/js/bootstrap-modalmanager.js" type="text/javascript"></script>
+    <script src="../assets/plugins/bootstrap-hover-dropdown/twitter-bootstrap-hover-dropdown.min.js" type="text/javascript"></script>
 
-    <script src="assets/plugins/jquery-slimscroll/jquery.slimscroll.min.js" type="text/javascript"></script>
-	<script src="assets/plugins/jquery.blockui.min.js" type="text/javascript"></script>  
-	<script src="assets/plugins/jquery.cookie.min.js" type="text/javascript"></script>
-	<script src="assets/plugins/uniform/jquery.uniform.min.js" type="text/javascript" ></script>    
-    <script type="text/javascript" src="assets/plugins/jquery-validation/dist/jquery.validate.min.js"></script>
-    <script type="text/javascript" src="assets/plugins/jquery-validation/dist/additional-methods.min.js"></script>
-    <script src="assets/plugins/gritter/js/jquery.gritter.js" type="text/javascript"></script>
-    <script type="text/javascript" src="assets/plugins/select2/select2.min.js"></script>
-    <script type="text/javascript" src="assets/plugins/data-tables/jquery.dataTables.min.js"></script>
-    <script type="text/javascript" src="assets/plugins/data-tables/DT_bootstrap.js"></script>
-    <script type="text/javascript" src="assets/plugins/data-tables/jquery.dataTables.fnReloadAjax.js"></script>
-    <script type="text/javascript" src="assets/plugins/data-tables/jquery.dataTables.fnLengthChange.js"></script>
-	<!--[if lt IE 9]>
+    <script src="../assets/plugins/jquery-slimscroll/jquery.slimscroll.min.js" type="text/javascript"></script>
+    <script src="../assets/plugins/jquery.blockui.min.js" type="text/javascript"></script>
+    <script src="../assets/plugins/jquery.cookie.min.js" type="text/javascript"></script>
+    <script src="../assets/plugins/uniform/jquery.uniform.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="../assets/plugins/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script type="text/javascript" src="../assets/plugins/jquery-validation/dist/additional-methods.min.js"></script>
+    <script src="../assets/plugins/gritter/js/jquery.gritter.js" type="text/javascript"></script>
+    <script type="text/javascript" src="../assets/plugins/select2/select2.min.js"></script>
+    <script type="text/javascript" src="../assets/plugins/data-tables/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" src="../assets/plugins/data-tables/DT_bootstrap.js"></script>
+    <script type="text/javascript" src="../assets/plugins/data-tables/jquery.dataTables.fnReloadAjax.js"></script>
+    <script type="text/javascript" src="../assets/plugins/data-tables/jquery.dataTables.fnLengthChange.js"></script>
+    <!--[if lt IE 9]>
 	<script src="assets/plugins/excanvas.min.js"></script>
 	<script src="assets/plugins/respond.min.js"></script>  
-	<![endif]-->   
- 
-    <script type="text/javascript" src="assets/plugins/chosen-bootstrap/chosen/chosen.jquery.min.js"></script>
-	<script type="text/javascript" src="assets/plugins/bootstrap-wysihtml5/wysihtml5-0.3.0.js"></script> 
-	<script type="text/javascript" src="assets/plugins/bootstrap-wysihtml5/bootstrap-wysihtml5.js"></script>
-	<script type="text/javascript" src="assets/plugins/ckeditor/ckeditor.js"></script>
-	<!-- END CORE PLUGINS -->
+	<![endif]-->
+
+    <script type="text/javascript" src="../assets/plugins/chosen-bootstrap/chosen/chosen.jquery.min.js"></script>
+    <script type="text/javascript" src="../assets/plugins/bootstrap-wysihtml5/wysihtml5-0.3.0.js"></script>
+    <script type="text/javascript" src="../assets/plugins/bootstrap-wysihtml5/bootstrap-wysihtml5.js"></script>
+    <script type="text/javascript" src="../assets/plugins/ckeditor/ckeditor.js"></script>
+    <!-- END CORE PLUGINS -->
     <!-- START CAMBA FILES -->
-     <script src="assets/scripts/messages.js" type="text/javascript"></script>	
-    <script src="assets/scripts/utilities.js" type="text/javascript"></script>	
+    <script src="../assets/scripts/messages.js" type="text/javascript"></script>
+    <script src="../assets/scripts/utilities.js" type="text/javascript"></script>
     <!--END CAMBA FILES-->
-	<!-- START PAGE SPECIFIC JAVASCRIPT PLACEHOLDER -->
+    <!-- START PAGE SPECIFIC JAVASCRIPT PLACEHOLDER -->
     <asp:ContentPlaceHolder ID="JavascriptPlaceHolder" runat="server">
-        
     </asp:ContentPlaceHolder>
     <!-- END PAGE SPECIFIC JAVASCRIPT PLACEHOLDER -->
-    <script src="assets/scripts/app.js"></script> 
-    <script src="assets/scripts/ui-modals.js"></script> 
-	<script>
-	    jQuery(document).ready(function () {
-	        App.init();
-	        initData();
-	        UIModals.init();
+    <script src="../assets/scripts/app.js"></script>
+    <script src="../assets/scripts/ui-modals.js"></script>
+    <script>
+        jQuery(document).ready(function () {
+            App.init();
+            initData();
+            UIModals.init();
 
-	        $(function () {
-	            $(" .tooltips").tooltip();
-	        });
+            $(function () {
+                $(" .tooltips").tooltip();
+            });
 
-	    });
-	</script>
-	<!-- END JAVASCRIPTS -->
+        });
+    </script>
+    <!-- END JAVASCRIPTS -->
 </body>
 
 </html>
