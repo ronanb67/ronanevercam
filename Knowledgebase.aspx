@@ -11,8 +11,8 @@
         </div>
     </div>
     <div class="container">
-        <p>1.&nbsp;&nbsp;<a href="#">What are the most common camera ports?</a></p>
-        <p>2.&nbsp;&nbsp;<a href="#">Where can I see a list of vendors and their MAC addresses?</a></p>
+        <p>1.&nbsp;&nbsp;<a href="Knowledgebase/commonports.aspx">What are the most common camera ports?</a></p>
+        <p>2.&nbsp;&nbsp;<a href="Knowledgebase/MacVendor.aspx">Where can I see a list of vendors and their MAC addresses?</a></p>
 
     </div>  
     
