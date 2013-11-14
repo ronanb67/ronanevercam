@@ -58,7 +58,7 @@
 
             <br />
             
-            <footer style="margin-left:-30px">
+            <footer style="margin-left:-20px">
                 <p style="float: right;"><a href="Contact.aspx">Contact us</a>&nbsp|&nbsp<a href="PrivacyPolicy.aspx">Privacy Policy</a> &nbsp|&nbsp<a href="Termsandconditions.aspx">Terms and Conditions</a>
                     </p>
                     <p style="float: right"><a href="Knowledgebase.aspx">Knowledge Base</a>&nbsp|&nbsp<a href="Jobs.aspx">Jobs</a>&nbsp|&nbsp</p>
