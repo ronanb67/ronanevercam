@@ -35,7 +35,7 @@
 
 
     <div class="container marketing">
-        <div class="containermain">
+        <div class="containermain" style="margin-left:-30px">
 
 
             <!-- START THE FEATURETTES -->
@@ -44,7 +44,7 @@
                     <div class="col-md-4">
                         <i class="icon-camera-retro icon-large"></i>
                     </div>
-                    <div class="col-md-8" style="margin-left: -55px">
+                    <div class="col-md-8" style="margin-left: -45px">
                         <h2 class="featurette-heading smalltopmargin">What is Evercam?<span class="text-muted">An ideal camera.</span></h2>
                         <p class="lead">
                             Evercam makes it easy to interact with IP Cameras. Evercam abstracts the complexity of any IP-based video device, and exposes all its available functionality to you 
