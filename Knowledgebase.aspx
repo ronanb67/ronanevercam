@@ -12,14 +12,14 @@
     </div>
     <div class="container">
         <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
-                <div class="sidebar" style="margin-left: 940px; margin-top: -1px">
+                <div class="sidebar" style="margin-left: 880px; margin-top: -265px">
                     <div class="list-group">
                         <a href="Knowledgebase.aspx" class="list-group-item">Popular Questions</a>
-                        <a href="../Account.aspx" class="list-group-item">Account</a>
-                        <a href="../Security.aspx" class="list-group-item">Security</a>
-                        <a href="../Cameras.aspx" class="list-group-item">Cameras</a>
-                        <a href="../Apps.aspx" class="list-group-item">Apps</a>
-                        <a href="../Payment.aspx" class="list-group-item">Payment</a>
+                        <a href="../AccountHowto.aspx" class="list-group-item">Account</a>
+                        <a href="../SecurityHowto.aspx" class="list-group-item">Security</a>
+                        <a href="../CamerasHowto.aspx" class="list-group-item">Cameras</a>
+                        <a href="../AppsHowto.aspx" class="list-group-item">Apps</a>
+                        <a href="../PaymentHowto.aspx" class="list-group-item">Payment</a>
                     </div>
                 </div>
             </div>
