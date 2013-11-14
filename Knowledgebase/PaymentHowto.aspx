@@ -10,10 +10,10 @@
         </div>
     </div>
     <h4>Payments</h4>
-    <p>1.&nbsp;&nbsp;<a href="../Knowledgebase/commonports.aspx">How do I upgrade my account?</a></p>
-    <p>2.&nbsp;&nbsp;<a href="../Knowledgebase/MacVendor.aspx">How do I downgrade my account?</a></p>
-    <p>3.&nbsp;&nbsp;<a href="../Knowledgebase/MakeModel.aspx">What payment models are accepted?</a></p>
-    <p>4.&nbsp;&nbsp;<a href="../Knowledgebase/MakeModel.aspx">Can I try Evercam for free first?</a></p>
+    <p>1.&nbsp;&nbsp;<a href="../Knowledgebase.aspx">How do I upgrade my account?</a></p>
+    <p>2.&nbsp;&nbsp;<a href="../Knowledgebase.aspx">How do I downgrade my account?</a></p>
+    <p>3.&nbsp;&nbsp;<a href="../Knowledgebase.aspx">What payment models are accepted?</a></p>
+    <p>4.&nbsp;&nbsp;<a href="../Knowledgebase.aspx">Can I try Evercam for free first?</a></p>
       
 </asp:Content>
 <asp:Content ID="Content3" ContentPlaceHolderID="JavascriptPlaceHolder" Runat="Server">
