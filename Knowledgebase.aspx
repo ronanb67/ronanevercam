@@ -11,6 +11,19 @@
         </div>
     </div>
     <div class="container">
+        <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
+                <div class="sidebar" style="margin-left: 940px; margin-top: -1px">
+                    <div class="list-group">
+                        <a href="Knowledgebase.aspx" class="list-group-item">Popular Questions</a>
+                        <a href="../Account.aspx" class="list-group-item">Account</a>
+                        <a href="../Security.aspx" class="list-group-item">Security</a>
+                        <a href="../Cameras.aspx" class="list-group-item">Cameras</a>
+                        <a href="../Apps.aspx" class="list-group-item">Apps</a>
+                        <a href="../Payment.aspx" class="list-group-item">Payment</a>
+                    </div>
+                </div>
+            </div>
+        <h4>Popular Questions</h4>
         <p>1.&nbsp;&nbsp;<a href="../Knowledgebase/commonports.aspx">What are the most common camera ports?</a></p>
         <p>2.&nbsp;&nbsp;<a href="../Knowledgebase/MacVendor.aspx">Where can I see a list of vendors and their MAC addresses?</a></p>
         <p>3.&nbsp;&nbsp;<a href="../Knowledgebase/MakeModel.aspx">Where can I see a list of makes and models?</a></p>
