@@ -13,7 +13,7 @@
     <h4>How do I upgrade my account?</h4>
 
     <p>
-        For Evercam Pro API and Platform, we accept credit and debit cards (Visa, MasterCard, American Express).
+        
 
     </p>
 </asp:Content>
