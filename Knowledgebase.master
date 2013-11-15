@@ -73,7 +73,7 @@
         <!-- /.navbar -->
         <div class="container">
             <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
-                <div class="sidebar" style="margin-left: 940px; margin-top: -1px">
+                <div class="sidebar" style="margin-left: 900px; margin-top: -1px">
                     <div class="list-group">
                         <a href="../Knowledgebase.aspx" class="list-group-item">Popular Questions</a>
                         <a href="AccountHowto.aspx" class="list-group-item">Account</a>
