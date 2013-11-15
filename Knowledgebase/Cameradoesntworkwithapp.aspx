@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Why doesn't my camera work with my app" Language="C#" MasterPageFile="~/Knowledgebase.master" AutoEventWireup="true" CodeFile="Cameradoesntworkwithapp.aspx.cs" Inherits="Knowledgebase_Cameradoesntworkwithapp" %>
+﻿<%@ Page Title="Why doesn't my camera work with my app?" Language="C#" MasterPageFile="~/Knowledgebase.master" AutoEventWireup="true" CodeFile="Cameradoesntworkwithapp.aspx.cs" Inherits="Knowledgebase_Cameradoesntworkwithapp" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
 </asp:Content>
@@ -10,7 +10,7 @@
         </div>
     </div>
     <h3><a href="AppsHowto.aspx">Payment</a></h3>
-    <h4>Why doesn't my camera work with my app</h4>
+    <h4>Why doesn't my camera work with my app?</h4>
    
 
         <p>
