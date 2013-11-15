@@ -14,11 +14,11 @@
             <div class="sidebar" style="margin-left: 890px; margin-top: -263px">
                 <div class="list-group">
                     <a href="Knowledgebase.aspx#Popularquestions" class="list-group-item">Popular Questions</a>
-                    <a href="Knowledgebase.aspx#Account" class="list-group-item">Account</a>
-                    <a href="Knowledgebase.aspx#Security" class="list-group-item">Security</a>
-                    <a href="Knowledgebase.aspx#Cameras" class="list-group-item">Cameras</a>
-                    <a href="Knowledgebase.aspx#Apps" class="list-group-item">Apps</a>
-                    <a href="Knowledgebase.aspx#Payment" class="list-group-item">Payment</a>
+                    <a href="Knowledgebase/AccountHowto.aspx" class="list-group-item">Account</a>
+                    <a href="Knowledgebase.SecurityHowto" class="list-group-item">Security</a>
+                    <a href="Knowledgebase/CamerasHowto.aspx" class="list-group-item">Cameras</a>
+                    <a href="Knowledgebase/AppsHowto.aspx" class="list-group-item">Apps</a>
+                    <a href="Knowledgebase/PaymentHowto.aspx" class="list-group-item">Payment</a>
                 </div>
             </div>
         </div>
