@@ -9,10 +9,10 @@
             <p>Evercam makes it easy to integrate live video with your applications.</p>
         </div>
     </div>
-    <h4>Payments</h4>
-    <p>1.&nbsp;&nbsp;<a href="Knowledgebase.aspx">How do I upgrade my account?</a></p>
-    <p>2.&nbsp;&nbsp;<a href="Knowledgebase.aspx">How do I downgrade my account?</a></p>
-    <p>3.&nbsp;&nbsp;<a href="PaymentMethod.aspx">Which payment methods are accepted?</a></p>
+    <h3>Payment</h3>
+    <p>1.&nbsp;&nbsp;<a href="UpgrademyAccount.aspx">How do I upgrade my account?</a></p>
+    <p>2.&nbsp;&nbsp;<a href="DowngrademyAccount.aspx">How do I downgrade my account?</a></p>
+    <p>3.&nbsp;&nbsp;<a href="PaymentMethods.aspx">Which payment methods are accepted?</a></p>
     <p>4.&nbsp;&nbsp;<a href="Evercamforfree.aspx">Can I try Evercam for free first?</a></p>
     <p>5.&nbsp;&nbsp;<a href="PricingPlan.aspx">What are the Evercam price plans?</a></p>
       
