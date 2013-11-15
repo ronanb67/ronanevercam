@@ -10,10 +10,10 @@
         </div>
     </div>
     <h4>Security</h4>
-    <p>1.&nbsp;&nbsp;<a href="../Knowledgebase.aspx">How secure are my cameras?</a></p>
-    <p>2.&nbsp;&nbsp;<a href="../PrivacyPolicy.aspx">What are Evercam's privacy policies?</a></p>
-    <p>3.&nbsp;&nbsp;<a href="../Termsandconditions.aspx">What are the Terms and Conditions of Evercam?</a></p>
-    <p>4.&nbsp;&nbsp;<a href="../Knowledgebase/UserPass.aspx">Where can I see a list of usernames and passwords?</a></p>
+    <p>1.&nbsp;&nbsp;<a href="Howsecurearemycameras.aspx">How secure are my cameras?</a></p>
+    <p>2.&nbsp;&nbsp;<a href="Privacy.aspx">What are Evercam's privacy policies?</a></p>
+    <p>3.&nbsp;&nbsp;<a href="TermsandConditions.aspx">What are the Terms and Conditions of Evercam?</a></p>
+    <p>4.&nbsp;&nbsp;<a href="UserPass.aspx">Where can I see a list of default usernames and passwords for camera vendors</a></p>
     
 </asp:Content>
 <asp:Content ID="Content3" ContentPlaceHolderID="JavascriptPlaceHolder" Runat="Server">

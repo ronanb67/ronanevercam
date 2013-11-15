@@ -1,8 +1,19 @@
-﻿<%@ Page Title="Make and Model" Language="C#" MasterPageFile="~/Knowledgebase.master" AutoEventWireup="true" CodeFile="MakeModel.aspx.cs" Inherits="Knowledgebase_MakeModel" %>
+﻿<%@ Page Title="Where can I see a list of camera makes and models??" Language="C#" MasterPageFile="~/Knowledgebase.master" AutoEventWireup="true" CodeFile="MakeModel.aspx.cs" Inherits="Knowledgebase_MakeModel" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainBodyContent" Runat="Server">
+    <div class="jumbotron">
+        <div class="container">
+            <h1>Evercam Knowledge Base</h1>
+            <p>Evercam makes it easy to integrate live video with your applications.</p>
+        </div>
+    </div>
+    <h3><a href="CamerasHowto.aspx">Cameras</a></h3>
+    <h4>Where can I see a list of camera makes and models??</h4>
+    <p>
+        This table shows the camera's make and model.
+    </p>
     <!-- BEGIN EXAMPLE TABLE PORTLET-->
 	<div class="portlet box blue">
 		<div class="portlet-title">

@@ -1,19 +1,32 @@
-﻿<%@ Page Title="Usernames and Passwords" Language="C#" MasterPageFile="~/Knowledgebase.master" AutoEventWireup="true" CodeFile="UserPass.aspx.cs" Inherits="Knowledgebase_UserPass" %>
+﻿<%@ Page Title="Where can I see a list of default usernames and passwords for camera vendors?" Language="C#" MasterPageFile="~/Knowledgebase.master" AutoEventWireup="true" CodeFile="UserPass.aspx.cs" Inherits="Knowledgebase_UserPass" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
 </asp:Content>
-<asp:Content ID="Content3" ContentPlaceHolderID="MainBodyContent" Runat="Server">
-<div class="portlet box blue">
-		<div class="portlet-title">
-			<div class="caption">Default User - Passwords List</div>
-		</div>
-		<div class="portlet-body">
-			<table class="table table-striped table-bordered table-hover table-full-width" id="userPassTable">
-                <tr><td></td></tr>
-			</table>
-		</div>
-	</div>
-	<!-- END EXAMPLE TABLE PORTLET-->
+<asp:Content ID="Content3" ContentPlaceHolderID="MainBodyContent" runat="Server">
+    <div class="jumbotron">
+        <div class="container">
+            <h1>Evercam Knowledge Base</h1>
+            <p>Evercam makes it easy to integrate live video with your applications.</p>
+        </div>
+    </div>
+    <h3><a href="CamerasHowto.aspx">Cameras</a></h3>
+    <h4>Where can I see a list of default usernames and passwords for camera vendors?</h4>
+    <p>
+        This table shows the default usernames and passwords for the different camera vendors.
+    </p>
+    <div class="portlet box blue">
+        <div class="portlet-title">
+            <div class="caption">Default User - Passwords List</div>
+        </div>
+        <div class="portlet-body">
+            <table class="table table-striped table-bordered table-hover table-full-width" id="userPassTable">
+                <tr>
+                    <td></td>
+                </tr>
+            </table>
+        </div>
+    </div>
+    <!-- END EXAMPLE TABLE PORTLET-->
 </asp:Content>
 <asp:Content ID="Content4" ContentPlaceHolderID="JavascriptPlaceHolder" Runat="Server">
     <script type="text/javascript" src="../assets/plugins/data-tables/jquery.dataTables.datesorting.js"></script>

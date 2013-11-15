@@ -10,10 +10,10 @@
         </div>
     </div>
     <h4>Apps</h4>
-        <p>1.&nbsp;&nbsp;<a href="../MarketPlace.aspx">Where can I see a list of available apps?</a></p>
-        <p>2.&nbsp;&nbsp;<a href="../Knowledgebase/MacVendor.aspx">Where can I see a list of vendors and their MAC addresses?</a></p>
-        <p>3.&nbsp;&nbsp;<a href="../Knowledgebase/MakeModel.aspx">Where can I see a list of makes and models?</a></p>
-        <p>4.&nbsp;&nbsp;<a href="../Knowledgebase/UserPass.aspx">Where can I see a list of usernames and passwords?</a></p>
+        <p>1.&nbsp;&nbsp;<a href="MarketPlace.aspx">Where can I see a list of available apps?</a></p>
+        <p>2.&nbsp;&nbsp;<a href="Knowledgebase/MacVendor.aspx">Where can I see a list of vendors and their MAC addresses?</a></p>
+        <p>3.&nbsp;&nbsp;<a href="Knowledgebase/MakeModel.aspx">Where can I see a list of makes and models?</a></p>
+        <p>4.&nbsp;&nbsp;<a href="Knowledgebase/UserPass.aspx">Where can I see a list of usernames and passwords?</a></p>
 </asp:Content>
 <asp:Content ID="Content3" ContentPlaceHolderID="JavascriptPlaceHolder" Runat="Server">
 </asp:Content>

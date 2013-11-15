@@ -1,8 +1,20 @@
-﻿<%@ Page Title="Common ports" Language="C#" MasterPageFile="~/Knowledgebase.master" AutoEventWireup="true" CodeFile="CommonPorts.aspx.cs" Inherits="Knowledgebase_commonports" %>
+﻿<%@ Page Title="What are the most common camera ports?" Language="C#" MasterPageFile="~/Knowledgebase.master" AutoEventWireup="true" CodeFile="CommonPorts.aspx.cs" Inherits="Knowledgebase_commonports" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainBodyContent" Runat="Server">
+     <div class="jumbotron">
+        <div class="container">
+            <h1>Evercam Knowledge Base</h1>
+            <p>Evercam makes it easy to integrate live video with your applications.</p>
+        </div>
+         </div>
+    <h3><a href="CamerasHowto.aspx">Cameras</a></h3>
+    <h4>What are the most common camera ports?</h4>
+
+    <p>
+        These are some of the most common camera ports used to connect to a camera.
+    </p>
     
     <table class="table table-striped table-bordered table-hover table-full-width" id="logtable">
 				<thead>

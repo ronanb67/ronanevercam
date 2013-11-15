@@ -1,8 +1,19 @@
-﻿<%@ Page Title="MAC and Vendors" Language="C#" MasterPageFile="~/Knowledgebase.master" AutoEventWireup="true" CodeFile="MacVendor.aspx.cs" Inherits="Knowledgebase_MacVendor" %>
+﻿<%@ Page Title="Where can I see a list of vendors and their MAC addresses?" Language="C#" MasterPageFile="~/Knowledgebase.master" AutoEventWireup="true" CodeFile="MacVendor.aspx.cs" Inherits="Knowledgebase_MacVendor" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
 </asp:Content>
 <asp:Content ID="Content3" ContentPlaceHolderID="MainBodyContent" Runat="Server">
+    <div class="jumbotron">
+        <div class="container">
+            <h1>Evercam Knowledge Base</h1>
+            <p>Evercam makes it easy to integrate live video with your applications.</p>
+        </div>
+    </div>
+    <h3><a href="CamerasHowto.aspx">Cameras</a></h3>
+    <h4>Where can I see a list of vendors and their MAC addresses?</h4>
+    <p>
+        This table shows the MAC addresses for the camera vendors.
+    </p>
     <!-- BEGIN EXAMPLE TABLE PORTLET-->
 	
     <div class="portlet box blue">
