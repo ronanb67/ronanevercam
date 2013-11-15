@@ -12,6 +12,7 @@
     <h3>Apps</h3>
         <p>1.&nbsp;&nbsp;<a href="AvailableApps.aspx">Where can I see a list of available apps?</a></p>
         <p>2.&nbsp;&nbsp;<a href="Cameradoesntworkwithapp.aspx">Why doesn't my camera work with my app?</a></p>
+    <p>3.&nbsp;&nbsp;<a href="SuggestApp.aspx">I dont see the app I was looking for</a></p>
         
 </asp:Content>
 <asp:Content ID="Content3" ContentPlaceHolderID="JavascriptPlaceHolder" Runat="Server">
