@@ -24,38 +24,13 @@
         </div>
         <section id="Popularquestions">
             <h4>Popular Questions</h4>
-            <p>1.&nbsp;&nbsp;<a href="Knowledgebase.aspx">What are the most common camera ports?</a></p>
-            <p>2.&nbsp;&nbsp;<a href="Knowledgebase.aspx">Where can I see a list of vendors and their MAC addresses?</a></p>
-            <p>3.&nbsp;&nbsp;<a href="Knowledgebase.aspx">Where can I see a list of makes and models?</a></p>
-            <p>4.&nbsp;&nbsp;<a href="Knowledgebase.aspx">Where can I see a list of usernames and passwords?</a></p>
-            <p>5.&nbsp;&nbsp;<a href="Knowledgebase.aspx">Where can I see a list of available apps?</a></p>
+            <p>1.&nbsp;&nbsp;<a href="../Knowledgebase/commonports.aspx">What are the most common camera ports?</a></p>
+            <p>2.&nbsp;&nbsp;<a href="../Knowledgebase/MacVendor.aspx">Where can I see a list of vendors and their MAC addresses?</a></p>
+            <p>3.&nbsp;&nbsp;<a href="../Knowledgebase/MakeModel.aspx">Where can I see a list of makes and models?</a></p>
+            <p>4.&nbsp;&nbsp;<a href="../Knowledgebase/UserPass.aspx">Where can I see a list of default usernames and passwords for camera vendors?</a></p>
+            <p>5.&nbsp;&nbsp;<a href="../Knowledgebase/.aspx">Where can I see a list of available apps?</a></p>
         </section>
-        <section id="Account">
-            <h4>Account</h4>
-
-        </section>
-        <section id="Security">
-            <h4>Security</h4>
-            <p>1.&nbsp;&nbsp;<a href="../Knowledgebase.aspx">How secure are my cameras?</a></p>
-            <p>2.&nbsp;&nbsp;<a href="../PrivacyPolicy.aspx">What are Evercam's privacy policies?</a></p>
-            <p>3.&nbsp;&nbsp;<a href="../Termsandconditions.aspx">What are the Terms and Conditions of Evercam?</a></p>
-            <p>4.&nbsp;&nbsp;<a href="../Knowledgebase/UserPass.aspx">Where can I see a list of usernames and passwords?</a></p>
-        </section>
-        <section id="Cameras">
-            <h4>Cameras</h4>
-            <p>1.&nbsp;&nbsp;<a href="Knowledgebase.aspx">What are the most common camera ports?</a></p>
-            <p>2.&nbsp;&nbsp;<a href="Knowledgebase.aspx">Where can I see a list of vendors and their MAC addresses?</a></p>
-            <p>3.&nbsp;&nbsp;<a href="Knowledgebase.aspx">Where can I see a list of makes and models?</a></p>
-            <p>4.&nbsp;&nbsp;<a href="Knowledgebase.aspx">Where can I see a list of usernames and passwords?</a></p>
-        </section>
-        <section id="Apps">
-            <h4>Apps</h4>
-            <p>1.&nbsp;&nbsp;<a href="Knowledgebase.aspx">Where can I see a list of available apps?</a></p>
-        </section>
-        <section id="Payment">
-            <h4>Payment</h4>
-
-        </section>
+       
     </div>      
     <hr class="featurette-divider" style="margin-left:-10px"/>
 </asp:Content>
