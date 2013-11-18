@@ -5,9 +5,9 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server" >
     <div class="container">
 
-        <h2>Contact Us</h2>
+        <h2>Tell Us what you want</h2>
         <br />
-        <table>            
+        <table class="formtable">            
             <tr>
                 <td  style="align-items:center">
                     Name:</td>
@@ -37,7 +37,7 @@
                 <td>
                     <asp:TextBox ID="txtMessage"
                                     runat="server"
-                                    Columns="40"
+                                    Columns="42"
                                     Rows="6"
                                     TextMode="MultiLine"></asp:TextBox>
                 </td>
