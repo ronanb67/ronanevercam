@@ -29,11 +29,11 @@ public partial class Telluswhatyouwant : System.Web.UI.Page
             msg.To.Add("ronan.byrne@mhlabs.net");
            
             //Configure the address we are sending the mail from
-            msg.From = new MailAddress("info@MyWebsiteDomainName", "MyWeb Site");
+            msg.From = new MailAddress(txtEmail.Text, "MyWeb Site");
            
             msg.To.Add(new MailAddress("ronan.byrne@mhlabs.net"));
             //Append their name in the beginning of the subject
-            msg.Subject = txtName.Text;
+            msg.Subject = txtName.Text + txtEmail;
             msg.Body = txtMessage.Text;
                        
             //Send the msg
