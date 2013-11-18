@@ -69,6 +69,14 @@
                   margin-right:0px;                  
                  
 }
+.formtable{}
+.formtable td
+{
+padding:10px;
+border-radius:10px;
+}
+
+
 .terms a:hover{color:black;
                text-decoration:none
 
