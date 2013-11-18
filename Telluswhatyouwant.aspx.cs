@@ -29,7 +29,7 @@ public partial class Telluswhatyouwant : System.Web.UI.Page
             msg.To.Add("ronan.byrne@mhlabs.net");
            
             //Configure the address we are sending the mail from
-            msg.From = new MailAddress(txtEmail.Text, "MyWeb Site");
+            msg.From = new MailAddress("info@MyWebsiteDomainName", "MyWeb Site");
            
             msg.To.Add(new MailAddress("ronan.byrne@mhlabs.net"));
             //Append their name in the beginning of the subject
@@ -47,12 +47,17 @@ public partial class Telluswhatyouwant : System.Web.UI.Page
             txtMessage.Text = "";
             txtEmail.Text = "";
             txtPay.Text = "";
-            lblResult.Text = "";
+            
         }
         catch
         {
             //If the message failed at some point, let the user know
             lblResult.Text = "Your message failed to send, please try again.";
+            txtName.Text = "";
+            txtMessage.Text = "";
+            txtEmail.Text = "";
+            txtPay.Text = "";
+            
         }
     }
 }
