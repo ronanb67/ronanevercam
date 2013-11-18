@@ -10,6 +10,7 @@
             <h1>Making Cameras Easy</h1>
             <p>Evercam makes it easy to integrate live video with your applications.</p>
             <p><a class="btn btn-primary btn-lg" href="/Develop.aspx">Learn more &raquo;</a></p>
+            <a href="Opentok/opentok.html"></a>
         </div>
     </div>
     <div class="container">
