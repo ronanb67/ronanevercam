@@ -5,7 +5,7 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server" >
     <div class="container" style="margin-left:-35px;">
 
-        <h2>Tell Us what you want</h2>
+        <h2>Tell us what you want</h2>
         <br />
         <table class="formtable">            
             <tr>
