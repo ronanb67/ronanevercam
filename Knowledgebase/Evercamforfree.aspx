@@ -14,7 +14,7 @@
 
     <p>
         Evercam is available for free with a set of limited features. To unlock more features you can upgrade your account to Pro API or Platform. For a better look at the prices and features available on 
-        Evercam click <a href="Index.aspx#Pricing">here.</a>
+        Evercam click <a href="../Index.aspx#Pricing">here.</a>
     </p>
 </asp:Content>
 <asp:Content ID="Content3" ContentPlaceHolderID="JavascriptPlaceHolder" Runat="Server">

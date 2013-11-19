@@ -12,7 +12,7 @@
     <h3><a href="AppsHowto.aspx">Apps</a></h3>
     <h4>I dont see the app I was looking for</h4>
     <p>
-        Cant find the app you were looking for? Then <a href="../MarketPlace.aspx#cantfindyourapp">suggest</a> it to us and we will build if for you.
+        Cant find the app you were looking for? Then <a href="../Telluswhatyouwant.aspx#">suggest</a> it to us and we will build if for you.
     </p>
 </asp:Content>
 <asp:Content ID="Content3" ContentPlaceHolderID="JavascriptPlaceHolder" Runat="Server">

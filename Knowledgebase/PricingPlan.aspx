@@ -14,7 +14,7 @@
 
     <p>
         Evercam has three price plans; Free, Pro API and Platform.
-        For a look at the available features under the three price plans click <a href="Index.aspx#Pricing">here.</a>
+        For a look at the available features under the three price plans click <a href="../Index.aspx#Pricing">here.</a>
     </p>
 </asp:Content>
 <asp:Content ID="Content3" ContentPlaceHolderID="JavascriptPlaceHolder" Runat="Server">
