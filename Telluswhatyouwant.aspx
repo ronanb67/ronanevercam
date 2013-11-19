@@ -19,7 +19,7 @@
             </tr>
             <tr>
                 <td  style="align-items:center">
-                    email:</td>
+                    Email:</td>
                 <td>
                     <asp:TextBox ID="txtEmail"
                                     runat="server"

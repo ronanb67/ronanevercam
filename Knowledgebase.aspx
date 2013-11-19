@@ -36,7 +36,8 @@
             <p>1.&nbsp;&nbsp;<a href="../Knowledgebase/UpgrademyAccount.aspx">How do I upgrade my account?</a></p>
             <p>2.&nbsp;&nbsp;<a href="../Knowledgebase/DowngrademyAccount.aspx">How do I downgrade my account?</a></p>
             <p>3.&nbsp;&nbsp;<a href="../Knowledgebase/IForgotMyPassword.aspx">I forgot my password. What do I do now?</a></p>
-            <p>4.&nbsp;&nbsp;<a href="../Knowledgebase/DowngrademyAccount.aspx">How do I downgrade my account?</a></p>
+            <p>4.&nbsp;&nbsp;<a href="../Knowledgebase/HowDoISignUp.aspx">How do I sign up to Evercam?</a></p>
+
         </section>
 
         <section id="Security">
@@ -67,6 +68,7 @@
             <p>1.&nbsp;&nbsp;<a href="../Knowledgebase/PaymentMethods.aspx">Which payment methods are accepted?</a></p>
             <p>2.&nbsp;&nbsp;<a href="../Knowledgebase/Evercamforfree.aspx">Can I try Evercam for free first?</a></p>
             <p>3.&nbsp;&nbsp;<a href="../Knowledgebase/PricingPlan.aspx">What are the Evercam price plans?</a></p>
+            <p>4.&nbsp;&nbsp;<a href="../Knowledgebase/HowOftenWillIBeCharged.aspx">How often will I be charged?</a></p>
         </section>
 
     </div>      
