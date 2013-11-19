@@ -28,7 +28,7 @@
             <p>2.&nbsp;&nbsp;<a href="../Knowledgebase/MacVendor.aspx">Where can I see a list of vendors and their MAC addresses?</a></p>
             <p>3.&nbsp;&nbsp;<a href="../Knowledgebase/MakeModel.aspx">Where can I see a list of makes and models?</a></p>
             <p>4.&nbsp;&nbsp;<a href="../Knowledgebase/UserPass.aspx">Where can I see a list of default usernames and passwords for camera vendors?</a></p>
-            <p>5.&nbsp;&nbsp;<a href="../Knowledgebase/.aspx">Where can I see a list of available apps?</a></p>
+            <p>5.&nbsp;&nbsp;<a href="../Knowledgebase/AvailableApps.aspx">Where can I see a list of available apps?</a></p>
         </section>
 
         <section id="Account">
