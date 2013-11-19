@@ -48,7 +48,7 @@
             <div class="row featurette">
                 <div class="col-md-8">
                     <h2 class="featurette-heading smalltopmargin">Learn More</h2>
-                    <p class="lead">If your Camera isn't yet accessible on the internet, Evercam has a large <a href="/KnowledgeBase.aspx">knowledgebase</a> and <a href="/KnowledgeBase.aspx">documentation library</a> which can help you to get it connected and obtain a public IP Address or Hostname for it.</p>
+                    <p class="lead">If your Camera isn't yet accessible on the internet, Evercam has a large <a href="/KnowledgeBase.aspx">knowledgebase</a> and <a href="/DocumentationLibrary.aspx">documentation library</a> which can help you to get it connected and obtain a public IP Address or Hostname for it.</p>
                 </div>
                 <div class="col-md-4">
                     <i class="icon-book icon-large"></i>
