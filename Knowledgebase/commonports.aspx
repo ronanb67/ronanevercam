@@ -9,7 +9,7 @@
             <p>Evercam makes it easy to integrate live video with your applications.</p>
         </div>
          </div>
-    <h3><a href="CamerasHowto.aspx">Cameras</a></h3>
+    <h3><a href="../Knowledgebase.aspx#Cameras">Cameras</a></h3>
     <h4>What are the most common camera ports?</h4>
 
     <p>

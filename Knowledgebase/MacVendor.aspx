@@ -9,7 +9,7 @@
             <p>Evercam makes it easy to integrate live video with your applications.</p>
         </div>
     </div>
-    <h3><a href="CamerasHowto.aspx">Cameras</a></h3>
+    <h3><a href="../Knowledgebase.aspx#Cameras">Cameras</a></h3>
     <h4>Where can I see a list of vendors and their MAC addresses?</h4>
     <p>
         This table shows the MAC addresses for the camera vendors.

@@ -9,7 +9,7 @@
             <p>Evercam makes it easy to integrate live video with your applications.</p>
         </div>
          </div>
-    <h3><a href="SecurityHowto.aspx">Security</a></h3>
+    <h3><a href="../Knowledgebase.aspx#Security">Security</a></h3>
     <h4>What are the Terms and Conditions of Evercam?</h4>
     <p>
         Evercam.com is an Irish based company and complies with Irish consumer law.  By visiting our website you accept and agree to the content of these Terms and Conditions. 

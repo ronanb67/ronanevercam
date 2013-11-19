@@ -35,6 +35,8 @@
             <h3>Account</h3>
             <p>1.&nbsp;&nbsp;<a href="../Knowledgebase/UpgrademyAccount.aspx">How do I upgrade my account?</a></p>
             <p>2.&nbsp;&nbsp;<a href="../Knowledgebase/DowngrademyAccount.aspx">How do I downgrade my account?</a></p>
+            <p>3.&nbsp;&nbsp;<a href="../Knowledgebase/IForgotMyPassword.aspx">I forgot my password. What do I do now?</a></p>
+            <p>4.&nbsp;&nbsp;<a href="../Knowledgebase/DowngrademyAccount.aspx">How do I downgrade my account?</a></p>
         </section>
 
         <section id="Security">

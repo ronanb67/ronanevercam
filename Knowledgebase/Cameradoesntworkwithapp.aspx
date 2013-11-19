@@ -9,7 +9,7 @@
             <p>Evercam makes it easy to integrate live video with your applications.</p>
         </div>
     </div>
-    <h3><a href="AppsHowto.aspx">Apps</a></h3>
+    <h3><a href="../Knowledgebase.aspx#Apps">Apps</a></h3>
     <h4>Why doesn't my camera work with my app?</h4>
    
 
