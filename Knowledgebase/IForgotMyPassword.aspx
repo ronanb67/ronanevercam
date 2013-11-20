@@ -9,7 +9,7 @@
             <p>Evercam makes it easy to integrate live video with your applications.</p>
         </div>
     </div>
-    <h3><a href="../Knowledgebase.aspx#Account">Account</a></h3>
+    <h3><a href="../Knowledgebase.aspx">Knowledge Base</a> &nbsp; &raquo; &nbsp;<a href="../Knowledgebase.aspx#Account">Account</a></h3>
     <h4>I forgot my password. What do I do now?</h4>
     <p>Use our <a href="../PasswordRecovery.aspx">Password Recovery </a> page to reset your password.</p>
 </asp:Content>

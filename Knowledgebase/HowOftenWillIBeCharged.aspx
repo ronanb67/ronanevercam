@@ -9,7 +9,7 @@
             <p>Evercam makes it easy to integrate live video with your applications.</p>
         </div>
     </div>
-    <h3><a href="../Knowledgebase.aspx#Payment">Payment</a></h3>
+    <h3><a href="../Knowledgebase.aspx">Knowledge Base</a> &nbsp; &raquo; &nbsp;<a href="../Knowledgebase.aspx#Payment">Payment</a></h3>
     <h4>How often will I be charged?</h4>
     <p>You will be charged monthly on the day of the month in which you originally signed up. For example, if you signed up January 15th, you will be charged on February 15th and every 15th of the month afterwards.</p>
 </asp:Content>

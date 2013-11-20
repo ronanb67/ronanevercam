@@ -69,7 +69,10 @@
                   margin-right:0px;                  
                  
 }
-.formtable{margin-left:-10px;}
+.formtable{margin-right:30px;
+           
+          
+}
 .formtable td
 {
 padding:10px;

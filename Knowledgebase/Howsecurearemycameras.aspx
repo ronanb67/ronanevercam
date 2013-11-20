@@ -9,7 +9,7 @@
             <p>Evercam makes it easy to integrate live video with your applications.</p>
         </div>
          </div>
-    <h3><a href="../Knowledgebase.aspx#Security">Security</a></h3>
+    <h3><a href="../Knowledgebase.aspx">Knowledge Base</a> &nbsp; &raquo; &nbsp;<a href="../Knowledgebase.aspx#Security">Security</a></h3>
     <h4>How secure are my cameras?</h4>
     <p>
 

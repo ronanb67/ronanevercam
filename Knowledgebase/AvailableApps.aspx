@@ -9,7 +9,7 @@
             <p>Evercam makes it easy to integrate live video with your applications.</p>
         </div>
     </div>
-    <h3><a href="AppsHowto.aspx">Apps</a></h3>
+    <h3><a href="../Knowledgebase.aspx">Knowledge Base</a> &nbsp; &raquo; &nbsp;<a href="../Knowledgebase.aspx#Apps">Apps</a></h3>
     <h4>Where can I see a list of available apps?</h4>
     <p>
         Evercam has a wide range of available apps for streaming, messaging, broadcasting, analysing, transcoding and for storage. Visit our <a href="../MarketPlace.aspx">marketplace</a> to start shopping with

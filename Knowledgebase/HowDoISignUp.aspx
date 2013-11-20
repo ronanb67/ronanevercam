@@ -9,7 +9,7 @@
             <p>Evercam makes it easy to integrate live video with your applications.</p>
         </div>
     </div>
-    <h3><a href="../Knowledgebase.aspx#Account">Account</a></h3>
+    <h3><a href="../Knowledgebase.aspx">Knowledge Base</a> &nbsp; &raquo; &nbsp;<a href="../Knowledgebase.aspx#Account">Account</a></h3>
     <h4>How do I sign up to Evercam?</h4>
     <p>You can sign up to use Evercam by creating an <a href="../Register.aspx">account </a>.</p>
 </asp:Content>

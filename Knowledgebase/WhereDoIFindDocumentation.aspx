@@ -9,7 +9,7 @@
             <p>Evercam makes it easy to integrate live video with your applications.</p>
         </div>
     </div>
-    <h3><a href="../Knowledgebase.aspx#Cameras">Cameras</a></h3>
+    <h3><a href="../Knowledgebase.aspx">Knowledge Base</a> &nbsp; &raquo; &nbsp;<a href="../Knowledgebase.aspx#Cameras">Cameras</a></h3>
     <h4>Where do I find documentation?</h4>
     <p>
         You can find documentation on Evercam in both the <a href="../Knowledgebase.aspx">Knowledge Base</a> and the <a href="../DocumentationLibrary.aspx">Documentation Library</a>.
