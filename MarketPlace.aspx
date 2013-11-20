@@ -490,7 +490,7 @@
         <!--/.row -->
         <div class="row">
             <div class="col-lg-4">
-                <asp:Image runat="server" ImageUrl="~/images/Talk-icon.png" Width="80" Height="60" />
+                <i class="icon-camera icon-4x"></i>
                 <h2>Dublin Marathon</h2>
                 <p>
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                   
