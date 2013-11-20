@@ -493,7 +493,6 @@
                 <asp:Image runat="server" ImageUrl="~/images/Talk-icon.png" Width="80" Height="60" />
                 <h2>Dublin Marathon</h2>
                 <p>
-                    
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                   
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
@@ -513,6 +512,39 @@
                 <h2>Follow me</h2>
                 <p>
                     Allows the camera to follow you wherever you go.                        
+                </p>
+                <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
+            </div>
+            <!-- /.col-lg-4 -->
+        </div>
+        <!--/.row -->
+        <div class="row">
+            <div class="col-lg-4">
+                <asp:Image runat="server" ImageUrl="~/images/CCTV-icon.png" Width="80" Height="60" />
+                <h2>Mechanical Turk</h2>
+                <p>
+                    Retrieve footage from a store front etc.
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                   
+                </p>
+                <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
+            </div>
+            <!-- /.col-lg-4 -->
+            <div class="col-lg-4">
+                <asp:Image runat="server" ImageUrl="~/images/shotspotter_logo.png" Width="140" Height="60" />
+                <h2>Shotspotter</h2>
+                <p>
+                    Gunfire alert and analysis solutions.
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              
+                </p>
+                <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
+            </div>
+            <!-- /.col-lg-4 -->
+            <div class="col-lg-4">
+                <i class="icon-signal icon-4x"></i>
+                <h2>Ingest XML Streams</h2>
+                <p>
+                    Ingest XML steams from POS. 
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                     
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
