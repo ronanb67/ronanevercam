@@ -17,6 +17,7 @@
                     <a href="MarketPlace.aspx" class="list-group-item">Transcoding</a>
                     <a href="MarketPlace.aspx" class="list-group-item">Storage</a>
                     <a href="MarketPlace.aspx" class="list-group-item">Restreaming</a>
+                    <a href="MarketPlace.aspx#Cantfindyourapp" class="list-group-item">Cant find your app?</a>
                 </div>
             </div>
             <!--/span-->
@@ -77,8 +78,7 @@
                 <i class="icon-film icon-4x"></i>
                 <h2>Watermark </h2>
                 <p>
-                    Add watermarks like company logos to your videos.
-                 
+                    Add watermarks like company logos to your videos.                 
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
@@ -91,8 +91,7 @@
                 <i class="icon-android icon-4x"></i>
                 <h2>Android App Generator </h2>
                 <p>
-                    Create Android apps without coding.
-               
+                    Create Android apps without coding.               
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
@@ -101,8 +100,7 @@
                 <asp:Image runat="server" ImageUrl="~/images/Maps-icon.png" Width="80" Height="60" />
                 <h2>GPS</h2>
                 <p>
-                    Video from multiple cameras by location & route (GPS + DateTime).
-                    
+                    Video from multiple cameras by location & route (GPS + DateTime).                    
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
@@ -134,8 +132,7 @@
                 <i class="icon-facebook icon-4x"></i>
                 <h2>Facebook Cam</h2>
                 <p>
-                    Connect a live stream to your Facebook account.                                  
-                   
+                    Connect a live stream to your Facebook account.                                                   
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
@@ -144,8 +141,7 @@
                 <asp:Image runat="server" ImageUrl="~/images/xero-logo.jpg" Width="80" Height="60" />
                 <h2>XeroCam </h2>
                 <p>
-                    Link your camera footage to your Xero Accounts.
-                    
+                    Link your camera footage to your Xero Accounts.                    
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
@@ -174,8 +170,7 @@
                 <i class="icon-cloud icon-4x"></i>
                 <h2>Archive and Share</h2>
                 <p>
-                    Archive and share your footage with other users.
-                   
+                    Archive and share your footage with other users.                   
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
@@ -226,8 +221,7 @@
                 <i class="icon-signal icon-4x"></i>
                 <h2>Broadcaster</h2>
                 <p>
-                    Broadcast to UStream, Dacast, Livestream.com, etc.
-                    
+                    Broadcast to UStream, Dacast, Livestream.com, etc.                    
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
@@ -236,8 +230,7 @@
                 <asp:Image runat="server" ImageUrl="~/images/CCTV-icon.png" Width="80" Height="60" />
                 <h2>PIR</h2>
                 <p>
-                    Measures infrared (IR) light radiating from objects in its field of view.
-                                           
+                    Measures infrared (IR) light radiating from objects in its field of view.                                           
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
@@ -282,8 +275,7 @@
                 <asp:Image runat="server" ImageUrl="~/images/dropcamlogo.jpg" Width="80" Height="60" />
                 <h2>Dropcam</h2>
                 <p>
-                    Drop in live and connect to your Dropcam camera.                    
-                    
+                    Drop in live and connect to your Dropcam camera.                                        
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
@@ -292,8 +284,7 @@
                 <asp:Image runat="server" ImageUrl="~/images/gopro.png" Width="80" Height="60" />
                 <h2>GOPRO</h2>
                 <p>
-                    Connect to your GOPRO camera to capture and store video.                      
-                    
+                    Connect to your GOPRO camera to capture and store video.                                        
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
@@ -324,8 +315,7 @@
                 <i class="icon-youtube icon-4x"></i>
                 <h2>Youtube</h2>
                 <p>
-                    Send the output from your camera to Youtube Live.  
-                    
+                    Send the output from your camera to Youtube Live.                      
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
@@ -346,8 +336,7 @@
                 <i class="icon-twitter icon-4x"></i>
                 <h2>PTZ</h2>
                 <p>
-                    SMS / Tweet to get a specific view from a PTZ.
-                    
+                    SMS / Tweet to get a specific view from a PTZ.                    
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
@@ -378,8 +367,7 @@
                 <asp:Image runat="server" ImageUrl="~/images/music-icon.png" Width="80" Height="60" />
                 <h2>Audio Analyser</h2>
                 <p>
-                    Sound classification, identification and analysis.
-                    
+                    Sound classification, identification and analysis.                    
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
@@ -388,8 +376,7 @@
                 <i class="icon-film icon-4x"></i>
                 <h2>Transcoder</h2>
                 <p>
-                    Transcode your video into other formats (audio etc).                     
-                   
+                    Transcode your video into other formats (audio etc).                                       
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
@@ -398,8 +385,7 @@
                 <asp:Image runat="server" ImageUrl="~/images/kinesense.png" Width="80" Height="60" />
                 <h2>Kinesense</h2>
                 <p>
-                    Integrate with Kinesense (forensic video analysis).                    
-                    
+                    Integrate with Kinesense (forensic video analysis).                                   
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
@@ -407,7 +393,6 @@
         </div>
         <!-- /.row -->
         <div class="row">
-
             <div class="col-lg-4">
                 <asp:Image runat="server" ImageUrl="~/images/Talk-icon.png" Width="80" Height="60" />
                 <h2>Talk to Camera</h2>
@@ -432,26 +417,22 @@
             <!-- /.col-lg-4 -->
             <div class="col-lg-4">
                 <section id="cantfindyourapp"></section>
-                <i class="icon-question-sign icon-4x"></i>
-                <h2>Can't find your App?</h2>
+                <asp:Image runat="server" ImageUrl="~/images/CCTV-icon.png" Width="80" Height="60" />
+                <h2>Heat Map</h2>
                 <p>
-                    Tell us what you want and we will build it for you.
-                    
+                    Uses heat mapping to track crowd density to record browsing habits etc.                    
                 </p>
-                <p><a class="btn btn-default" href="Telluswhatyouwant.aspx">Coming Soon &raquo;</a></p>
+                <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
             <!-- /.col-lg-4 -->
-
         </div>
         <!--/.row -->
         <div class="row">
-
             <div class="col-lg-4">
                 <asp:Image runat="server" ImageUrl="~/images/CCTV-icon.png" Width="80" Height="60" />
                 <h2>Embed Live View</h2>
                 <p>
-                    Generate Code to embed live view direct from the camera on a website.                    
-                   
+                    Generate Code to embed live view direct from the camera on a website.                                  
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
@@ -460,8 +441,7 @@
                 <asp:Image runat="server" ImageUrl="~/images/Message-icon.png" Width="80" Height="60" />
                 <h2>Messaging</h2>
                 <p>
-                    Use messaging services like SMS, Email, MMS and Push.                    
-                   
+                    Use messaging services like SMS, Email, MMS and Push.                                    
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
@@ -470,8 +450,7 @@
                 <asp:Image runat="server" ImageUrl="~/images/xmpp-logo.png" Width="80" Height="60" />
                 <h2>XMPP Output</h2>
                 <p>
-                    Use XMPP based software such as Skype and Google Talk.                    
-                   
+                    Use XMPP based software such as Skype and Google Talk.                                      
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
@@ -479,14 +458,12 @@
         </div>
         <!--/.row -->
         <div class="row">
-
             <div class="col-lg-4">
                 <asp:Image runat="server" ImageUrl="~/images/Talk-icon.png" Width="80" Height="60" />
                 <h2>Text to Speech</h2>
                 <p>
                     Allows the user to transcode text to speech
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                   
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                   
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
@@ -495,8 +472,7 @@
                 <i class="icon-signal icon-4x"></i>
                 <h2>Overlay Text</h2>
                 <p>
-                    Overlays text on top of a stream for the user.
-                  
+                    Overlays text on top of a stream for the user.                  
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
@@ -505,17 +481,73 @@
                 <i class="icon-file icon-4x"></i>
                 <h2>Index Text</h2>
                 <p>
-                    Indexs text so that the user can retrieve video.
-                  
-                   
+                    Indexs text so that the user can retrieve video.                        
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
             </div>
             <!-- /.col-lg-4 -->
         </div>
         <!--/.row -->
+        
     </div>
     <!--/.container -->
+    <div class="formtable">
+        <section id="Cantfindyourapp">
+            <h2>Tell us what you want</h2>
+            <br />
+            <table>
+                <tr>
+                    <td style="align-items: center">Name:</td>
+                    <td>
+                        <asp:TextBox ID="txtName"
+                            runat="server"
+                            Columns="40"></asp:TextBox>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="align-items: center">Email:</td>
+                    <td>
+                        <asp:TextBox ID="txtEmail"
+                            runat="server"
+                            Columns="40"></asp:TextBox>
+                    </td>
+                </tr>
+                <!-- Message -->
+                <tr>
+                    <td style="align-items: center">What are you looking for?
+                    </td>
+                    <td>
+                        <asp:TextBox ID="txtMessage"
+                            runat="server"
+                            Columns="42"
+                            Rows="6"
+                            TextMode="MultiLine"></asp:TextBox>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="align-items: center">What would you be willing to pay for this app?</td>
+                    <td>
+                        <asp:TextBox ID="txtPay"
+                            runat="server"
+                            Columns="40"></asp:TextBox>
+                    </td>
+                </tr>
+                <!-- Submit -->
+                <tr style="align-items: center">
+                    <td colspan="2">
+                        <asp:Button ID="btnSubmit" runat="server" Text="Submit" OnClick="btnSubmit_Click" />
+                    </td>
+                </tr>
+                <!-- Results -->
+                <tr style="align-items: center">
+                    <td colspan="2">
+                        <asp:Label ID="lblResult" runat="server"></asp:Label>
+                    </td>
+                </tr>
+            </table>
+        </section>
+    </div>
+        
     <hr class="featurette-divider" />
 </asp:Content>
 
