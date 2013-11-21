@@ -33,7 +33,7 @@
                 <asp:Image runat="server" ImageUrl="~/images/history.png" Width="80" Height="60" AlternateText="Timelapse Logo" />
                 <h2>TimeLapse </h2>
                 <p>Create timelapse videos using image sequences captured by your camera.</p>
-                <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
+                <p><a class="btn btn-default" href="http://timelapseapp.azurewebsites.net/">Coming Soon &raquo;</a></p>
             </div>
             <!-- /.col-lg-4 -->
             <div class="col-lg-4">
