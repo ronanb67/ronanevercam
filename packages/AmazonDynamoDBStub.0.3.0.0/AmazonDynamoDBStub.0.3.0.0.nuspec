@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>AmazonDynamoDBStub</id>
+    <version>0.3.0.0</version>
+    <title>AmazonDynamoDBStub</title>
+    <authors>Lane Wang</authors>
+    <owners>Lane Wang</owners>
+    <licenseUrl>http://dynamodbstub.codeplex.com/license</licenseUrl>
+    <projectUrl>http://dynamodbstub.codeplex.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A low-level stub for DynamoDB, designed for test environment. Make sure you implement your own data access, or use a published one before using it.</description>
+    <copyright>Copyright 2013</copyright>
+    <tags>AWS DynamoDB Stub</tags>
+    <dependencies>
+      <dependency id="AWSSDK" version="1.5.29.0" />
+    </dependencies>
+  </metadata>
+</package>

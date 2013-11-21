@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>AmazonDynamoDBStub.EntityFramework</id>
+    <version>0.3.0.0</version>
+    <title>AmazonDynamoDBStub.EntityFramework</title>
+    <authors>Lane Wang</authors>
+    <owners>Lane Wang</owners>
+    <licenseUrl>http://dynamodbstub.codeplex.com/license</licenseUrl>
+    <projectUrl>http://dynamodbstub.codeplex.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>An EntityFramework implementation of data access for AmazonDynamoDBStub.</description>
+    <releaseNotes />
+    <copyright>Copyright 2013</copyright>
+    <language />
+    <tags>AWS DynamoDB Stub EntityFramework</tags>
+    <dependencies>
+      <dependency id="AWSSDK" version="1.5.29.0" />
+      <dependency id="EntityFramework" version="5.0.0" />
+      <dependency id="AmazonDynamoDBStub" version="0.3.0.0" />
+    </dependencies>
+  </metadata>
+</package>
