@@ -48,8 +48,7 @@
                                 <AnonymousTemplate>
                                 </AnonymousTemplate>
                                 <LoggedInTemplate>
-                                    Welcome&nbsp;<asp:LoginName ID="LoginName1" runat="server" />
-                                    &nbsp;
+                                    
                                 </LoggedInTemplate>
                             </asp:LoginView>
                             <asp:LoginStatus runat="server"></asp:LoginStatus>

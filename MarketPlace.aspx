@@ -493,6 +493,7 @@
                 <i class="icon-camera icon-4x"></i>
                 <h2>Dublin Marathon</h2>
                 <p>
+                    Track your marathon run using our cameras.
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                   
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>
@@ -543,7 +544,7 @@
                 <i class="icon-signal icon-4x"></i>
                 <h2>Ingest XML Streams</h2>
                 <p>
-                    Ingest XML steams from POS. 
+                    Ingest XML steams from Point of Sale. 
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                     
                 </p>
                 <p><a class="btn btn-default" href="#">Coming Soon &raquo;</a></p>

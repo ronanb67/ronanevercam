@@ -14,6 +14,12 @@
             <asp:TextBox runat="server" ID="UserName" />
         </div>
     </div>
+    <div style="margin-bottom:10px">
+            <asp:Label runat="server" AssociatedControlID="Email">Email</asp:Label>
+            <div>
+                <asp:TextBox runat="server" ID="Email" />                
+            </div>
+        </div>
         <div style="margin-bottom:10px">
             <asp:Label runat="server" AssociatedControlID="Password">Password</asp:Label>
             <div>
@@ -26,6 +32,7 @@
                 <asp:TextBox runat="server" ID="ConfirmPassword" TextMode="Password" />                
             </div>
         </div>
+
         <div>
             <div>
                 <asp:Button runat="server" OnClick="CreateUser_Click" Text="Register" />
