@@ -557,7 +557,7 @@
     <hr class="featurette-divider" />
     <div class="formtable">
         <section id="Cantfindyourapp">
-            <h2>Tell us what you want</h2>
+            <h2>Can't find what you want? Let us know and we'll get to work.</h2>
             <br />
             <table>
                 <tr>
