@@ -42,7 +42,7 @@
                         <li class="active"><a href="Index.aspx">Home</a></li>
                         <li><a href="Connect.aspx">Connect</a></li>
                         <li><a href="Develop.aspx">Develop</a></li>
-                        <li><a href="MarketPlace.aspx">Marketplace</a></li>
+                        <li><a href="MarketPlace.aspx">Marketplace</a></li>                         
                         <li>
                             <asp:LoginView ID="LoginView1" runat="server">
                                 <AnonymousTemplate>
