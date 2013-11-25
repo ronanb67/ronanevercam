@@ -13,7 +13,7 @@
             <h3></h3>
             <h3>END USER’S LICENSE AGREEMENT</h3>
             <p>
-                THIS IS AN IMPORTANT LEGAL AGREEMENT.  BY SIGNING UP TO THE SERVICE, YOU ARE ACCEPTING THE TERMS AND CONDITIONS OF THIS LICENCE AGREEMENT IN THEIR ENTIRETY AND YOU ARE AGREEING TO BE 
+                THIS IS AN IMPORTANT LEGAL AGREEMENT. BY SIGNING UP TO THE SERVICE, YOU ARE ACCEPTING THE TERMS AND CONDITIONS OF THIS LICENCE AGREEMENT IN THEIR ENTIRETY AND YOU ARE AGREEING TO BE 
         LEGALLY BOUND BY THIS LICENCE AGREEMENT.
             </p>
             <p>IF YOU DO NOT AGREE TO ALL OF THE TERMS AND CONDITIONS OF THIS LICENCE AGREEMENT YOU MAY NOT USE THE SERVICE AND MUST IMMEDIATELY CEASE ANY SUCH USE.</p>
@@ -63,7 +63,7 @@
             </p>
             <p>
                 <b>“Service”</b> means access to the specific edition of Evercam’s online goal setting and performance management system, developed, operated, and maintained by Evercam, accessible via 
-                cloud.camba.tv or another designated web site or IP address, and ancillary online or offline products and services provided to You by Evercam, to which You are being granted access under this 
+                cloud, evercam.io.tv or another designated web site or IP address, and ancillary online or offline products and services provided to You by Evercam, to which You are being granted access under this 
                 Agreement, including the Evercam Technology and the Content;
             </p>
             <p>
@@ -95,8 +95,8 @@
                 former User who has terminated employment or otherwise changed job status or function and no longer uses the Service on behalf of the User company.
             </p><br />
             <p>
-                3.5. You may not access the Service if You are a competitor of Evercam, except with Evercam’s prior written consent, and failure to notify Evercam that You are a competitor and obtain Camba 
-                TV’s prior written consent to access the Service constitutes a breach of this Agreement by You.
+                3.5. You may not access the Service if You are a competitor of Evercam, except with Evercam’s prior written consent, and failure to notify Evercam that You are a competitor and obtain Evercam's
+                prior written consent to access the Service constitutes a breach of this Agreement by You.
             </p><br />
             <p>
                 3.6. You may not access the Service for purposes of monitoring its availability, performance or functionality, or for any other benchmarking or competitive purposes.
@@ -167,7 +167,8 @@
                 access to, or unauthorised alteration, disclosure or destruction of, the Personal Data.
             </p><br />
             <p>
-                9.3. You agree that You are and shall remain solely responsible for determining the contents and use of the Personal Data. You acknowledge that you are a Data Controller in relation to the Personal Data and Evercam is a Data Processor in relation to the Personal Data.
+                9.3. You agree that You are and shall remain solely responsible for determining the contents and use of the Personal Data. You acknowledge that you are a Data Controller in relation to the Personal Data and 
+                 is a Data Processor in relation to the Personal Data.
             </p><br />
             <p>
                 9.4. You shall indemnify and keep indemnified Evercam against all losses, damages, costs, expenses and liabilities arising as a result of any breach by You of Your obligations under this Clause 9 and the Acts including without limitation arising as a result of any complaint or 
@@ -244,12 +245,12 @@
                 reasonable assistance; and (d) have not compromised or settled such claim.
             </p><br />
             <h4>15.Disclaimer of Warranties</h4>
-            <p>15.1.Evercam AND ITS LICENSORS MAKE NO REPRESENTATION, WARRANTY, OR GUARANTY AS TO THE RELIABILITY, TIMELINESS, QUALITY, SUIEvercamILITY, TRUTH, AVAILABILITY, ACCURACY OR COMPLETENESS OF THE 
+            <p>15.1.Evercam AND ITS LICENSORS MAKE NO REPRESENTATION, WARRANTY, OR GUARANTY AS TO THE RELIABILITY, TIMELINESS, QUALITY, SUITABILITY, TRUTH, AVAILABILITY, ACCURACY OR COMPLETENESS OF THE 
                 SERVICE OR ANY CONTENT. Evercam AND ITS LICENSORS DO NOT REPRESENT OR WARRANT THAT (A) THE USE OF THE SERVICE WILL BE SECURE, TIMELY, UNINTERRUPTED OR ERROR-FREE OR OPERATE IN COMBINATION WITH 
                 ANY OTHER HARDWARE, SOFTWARE, SYSTEM OR DATA, (B) THE SERVICE WILL MEET YOUR REQUIREMENTS OR EXPECTATIONS, (C) ANY STORED DATA WILL BE KEPT, (D) THE QUALITY OF ANY PRODUCTS, SERVICES, INFORMATION,
                  OR OTHER MATERIAL RECORDED BY YOU THROUGH THE SERVICE WILL MEET YOUR REQUIREMENTS OR EXPECTATIONS, (E) ERRORS OR DEFECTS WILL BE CORRECTED, OR (F) THE SERVICE OR THE SERVER(S) THAT MAKE THE 
                 SERVICE AVAILABLE ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS. THE SERVICE AND ALL CONTENT IS PROVIDED TO YOU STRICTLY ON AN “AS IS” BASIS. ALL CONDITIONS, REPRESENTATIONS AND WARRANTIES, 
-                WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTY OF MERCHANEvercamILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT OF THIRD 
+                WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT OF THIRD 
                 PARTY RIGHTS, ARE HEREBY DISCLAIMED TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW BY Evercam AND ITS LICENSORS.</p><br />
             <h4>16.Internet Delays</h4>
             <p>

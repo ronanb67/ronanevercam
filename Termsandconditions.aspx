@@ -28,7 +28,7 @@
        
         <h3><a name="yourrights"></a>Your rights</h3>
         <p>
-            Evercam.com is an Irish based company and complies with Irish consumer law.  By visiting our website you accept and agree to the content of these Terms and Conditions. 
+            Evercam is an Irish based company and complies with Irish consumer law.  By visiting our website you accept and agree to the content of these Terms and Conditions. 
             Our Terms and Conditions do not affect your statutory rights.
         </p>
         <h3><a name="cookies"></a>Cookies</h3>
@@ -56,23 +56,23 @@
             with the products listed in your order confirmation. Delivery of digital products will take place within a maximum of 1 hour after purchase is completed. Orders will usually be fulfilled instantly, under normal circumstances.
         </p>
         <h3><a name="licence"></a>Licence</h3>
-        <p>Evercam.com will not be responsible for the maintenance and support of services for which no licence is held by the customer.</p>
+        <p>Evercam will not be responsible for the maintenance and support of services for which no licence is held by the customer.</p>
         <h3><a name="siteusage"></a>Site usage</h3>
-        <p>Evercam.com disclaims damages of any kind, compensatory, direct, indirect or consequential damages, loss of data, income or profit, loss of or damage to property and claims of third parties implied or otherwise relating to use of this site.</p>
+        <p>Evercam disclaims damages of any kind, compensatory, direct, indirect or consequential damages, loss of data, income or profit, loss of or damage to property and claims of third parties implied or otherwise relating to use of this site.</p>
         <h3><a name="ownership"></a>Ownership of information</h3>
         <p>
-            Evercam.com creates the majority of pictures and descriptions for the website. This information is copyright of Evercam.com and may not be used by any other party without express permission of Evercam.com. 
-            The Evercam.com website is provided for use only for viewing by an end user. Taking of any content or prices by automated processes, such as spidering, will be deemed as a breach of copyright and is 
-            expressly forbidden except where specifically agreed with Evercam.com or where Evercam.com has expressly requested the process. Please note that we do not store credit card details nor do we share 
+            Evercam creates the majority of pictures and descriptions for the website. This information is copyright of Evercam and may not be used by any other party without express permission of Evercam. 
+            The Evercam website is provided for use only for viewing by an end user. Taking of any content or prices by automated processes, such as spidering, will be deemed as a breach of copyright and is 
+            expressly forbidden except where specifically agreed with Evercam or where Evercam has expressly requested the process. Please note that we do not store credit card details nor do we share 
             customer details with any 3rd parties
         </p>
         <h3><a name="accuracyofinfo"></a>Accuracy of information</h3>
         <p>We put a lot of time and effort into accurately representing our software offerings. If you’ve purchased something based on a picture or description on the website which turns out to be incorrect we’ll happily replace or refund the product.</p>
         <h3><a name="pricing"></a>Pricing liability</h3>
-        <p>All prices listed on Evercam.com are correct at the time of entering. Your credit card will be charged at the point of purchase.</p>
+        <p>All prices listed on Evercam are correct at the time of entering. Your credit card will be charged at the point of purchase.</p>
         <p>
             If a genuine error is discovered in the price of the services that you have ordered, we will inform you as soon as possible. We shall be under no obligation to fulfil an order for a product that 
-            was advertised at an incorrect price. In the event that you order an item and the price published on Evercam.com is incorrect for any reason, we will email you to inform you that we have not 
+            was advertised at an incorrect price. In the event that you order an item and the price published on Evercam is incorrect for any reason, we will email you to inform you that we have not 
             accepted your order, and shall refund any amount already paid to us. Refunds will be issued within 30 days of receipt of the returned product. You may terminate the the Services provided 
             hereunder upon 30 days prior written notice at any time following the end of the Minimum Contract Period of one month.
         </p>
