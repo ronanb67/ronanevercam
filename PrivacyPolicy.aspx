@@ -85,7 +85,7 @@
                 3.2. All rights not expressly granted to You are reserved by Evercam and its licensors.
             </p><br />
             <p>
-                3.3.You shall not (i) license, sublicense, sell, resell, transfer, assign, distribute or otherwise commercially exploit or make available to any third party the Service or the Content in any way;
+                3.3. You shall not (i) license, sublicense, sell, resell, transfer, assign, distribute or otherwise commercially exploit or make available to any third party the Service or the Content in any way;
                  (ii) modify or make derivative works based upon the Service or the Content; (iii) create Internet “links” to the Service or “frame” or “mirror” any Content on any other server or wireless or 
                 Internet-based device; or (iv) reverse engineer or access the Service in order to (a) build a service, (b) build a product using the same or similar ideas, features, functions or graphics of the 
                 Service, or (c) copy any ideas, features, functions or graphics of the Service.
@@ -145,19 +145,19 @@
                 Service. Evercam does not endorse any sites on the Internet, products or tools that are linked through the Service.
             </p><br />
             <p>
-                7.2.Evercam provides these links to You only as a matter of convenience, and in no event shall Evercam or its licensors be responsible for any content, products, or other materials on or available from such sites or for any loss or damage 
+                7.2. Evercam provides these links to You only as a matter of convenience, and in no event shall Evercam or its licensors be responsible for any content, products, or other materials on or available from such sites or for any loss or damage 
                 that may arise from Your use of them. Evercam provides the Service to You pursuant to the terms and conditions of this Agreement. You agree that certain third-party providers of ancillary software, hardware or services may 
                 require Your agreement to additional or different license or other terms prior to Your use of or access to such software, hardware or services.
             </p><br />
-            <h4>8.Charges and Payment of Fees</h4>
+            <h4>8. Charges and Payment of Fees</h4>
             <p>
-                8.1.You shall pay all fees or charges plus any and all applicable taxes to Your account in accordance with the fees, charges, and billing terms detailed at time of purchase in effect with 
+                8.1. You shall pay all fees or charges plus any and all applicable taxes to Your account in accordance with the fees, charges, and billing terms detailed at time of purchase in effect with 
                 Evercam or Your Reseller at the time a fee or charge is due and payable. You agree to Evercam storing Your payment card information for such purposes. Your obligation to pay fees or charges continues until this Agreement is either terminated or expires.
             </p><br/>
             <p>
                 8.2.All fees and charges are non-refundable and there are no refunds or credits for partially used periods. All features acquired as part of Your account, expire immediately upon termination or expiration of Your account.
             </p><br />
-            <h4>9.Data Protection</h4>
+            <h4>9. Data Protection</h4>
             <p>
                 9.1. For the purposes of the Data Protection Acts 1988 and 2003 (the “Acts”), You, as Data Controller, shall obtain any and all data protection consents required to permit Evercam to hold, use, disclose or otherwise process any Personal Data contained within the Customer Data 
                 (where “Data Controller” and “Personal Data” has the same meaning as in the Acts) for the purposes of providing the Services.
@@ -178,58 +178,58 @@
                 9.5. Evercam acknowledges that it is the Data Controller in respect of any personal account information provided by You when subscribing to the Service. Evercam shall comply with its Data Protection obligations 
                 in relation to processing of that data and shall only retain this data for as long as is necessary to perform the Services and meet its obligation under this Agreement.
             </p><br />
-            <h4>10.Data Storage</h4>
+            <h4>10. Data Storage</h4>
             <p>
-                10.1.All information You provide to us is stored on our secure servers. Details relating to any transactions will be encrypted using SSL technology. The maximum disk storage space provided to 
+                10.1. All information You provide to us is stored on our secure servers. Details relating to any transactions will be encrypted using SSL technology. The maximum disk storage space provided to 
                 You at no additional charge is as specified in at the time of purchase from Evercam or Your Reseller. Additional Data will be recorded over the Data already stored in a FIFO (First In First Out) 
                 fashion. Evercam and its Resellers reserve the right to establish or modify its general practices and limits relating to storage of files and Customer Data.[1]
             </p><br />
-            <h4>11.Non-Payment and Suspension</h4>
+            <h4>11. Non-Payment and Suspension</h4>
             <p>
-                11.1.In addition to any other rights granted to Evercam hereinor Your Reseller, we reserve the right to suspend or terminate this Agreement and Your access to the Service if You fail to
+                11.1. In addition to any other rights granted to Evercam hereinor Your Reseller, we reserve the right to suspend or terminate this Agreement and Your access to the Service if You fail to
                  make a payment due under this Agreement.
             </p><br />
             <p>
-                11.2.Evercam and Your Reseller reserve the right to impose a reconnection fee in the event Your access to the Service is suspended and thereafter You remedy the breach and are granted access to the Service. You agree and acknowledge that Evercam has no 
+                11.2. Evercam and Your Reseller reserve the right to impose a reconnection fee in the event Your access to the Service is suspended and thereafter You remedy the breach and are granted access to the Service. You agree and acknowledge that Evercam has no 
                 obligation to retain Customer Data and that such Customer Data may be irretrievably deleted if Your account is suspended for 30 days or more.
             </p><br />
-            <h4>12.Term and Termination</h4>
+            <h4>12. Term and Termination</h4>
             <p>
                 12.1.You may terminate this Agreement and the Services provided hereunder upon 30 days prior written notice at any time following the end of the Minimum Contract Period.
             </p><br />
             <p>
-                12.2.Evercam may terminate this Agreement immediately if you commit a material or persistent breach of this Agreement which You fail to remedy (if remediable) within 30 days after the service on You of written notice requiring You to do so.
+                12.2. Evercam may terminate this Agreement immediately if you commit a material or persistent breach of this Agreement which You fail to remedy (if remediable) within 30 days after the service on You of written notice requiring You to do so.
             </p><br />
             <p>
-                12.3.Any breach of Your payment obligations or unauthorised use of the Evercam Technology, Content or Service will be deemed a material breach of this Agreement.
+                12.3. Any breach of Your payment obligations or unauthorised use of the Evercam Technology, Content or Service will be deemed a material breach of this Agreement.
             </p><br />
             <p>
-                12.4.Evercam and Your Reseller, in their sole discretion, may [terminate]/ [immediately suspend] Your password, account or use of the Service if You breach or otherwise fail to comply with this Agreement.
+                12.4. Evercam and Your Reseller, in their sole discretion, may [terminate]/ [immediately suspend] Your password, account or use of the Service if You breach or otherwise fail to comply with this Agreement.
             </p><br />
             <p>
-                12.5.Evercam may terminate any account at any time in its sole discretion.
+                12.5. Evercam may terminate any account at any time in its sole discretion.
             </p><br />
             <p>
-                12.6.You agree and acknowledge that Evercam has no obligation to retain the Customer Data, and may delete such Customer Data, if You have materially or persistently breached this Agreement.
+                12.6. You agree and acknowledge that Evercam has no obligation to retain the Customer Data, and may delete such Customer Data, if You have materially or persistently breached this Agreement.
             </p><br />
             <p>
-                12.7.Upon termination for any reason:
+                12.7. Upon termination for any reason:
                 </p>
 
 <p>(a)all rights granted to You under this Agreement shall immediately cease;</p>
 <p>(b)You must immediately cease all activities authorised by this Agreement; and</p>
 <p>(c)You must immediately pay any sums due to Evercam under this Agreement.</p> 
             <br />
-            <h4>13.Representations & Warranties</h4>
+            <h4>13. Representations & Warranties</h4>
             <p>
-                13.1.Each party represents and warrants that it has the legal power and authority to enter into this Agreement.
+                13.1. Each party represents and warrants that it has the legal power and authority to enter into this Agreement.
             </p><br />
             <p>
-                13.2.You represent and warrant that You have not falsely identified Yourself nor provided any false information to gain access to the Service and that Your billing information is correct.
+                13.2. You represent and warrant that You have not falsely identified Yourself nor provided any false information to gain access to the Service and that Your billing information is correct.
             </p><br />
-            <h4>14.Mutual Indemnification</h4>
+            <h4>14. Mutual Indemnification</h4>
             <p>
-                14.1.You shall indemnify and hold Evercam, its licensors and each such party’s parent organisations, subsidiaries, affiliates, associates and assignees, officers, directors, employees, and 
+                14.1. You shall indemnify and hold Evercam, its licensors and each such party’s parent organisations, subsidiaries, affiliates, associates and assignees, officers, directors, employees, and 
                 agents harmless from and against any and all claims, costs, damages, losses, liabilities and expenses (including legal fees and costs) arising out of or in connection with: (i) any actual or 
                 threatened claim that use of the Customer Data infringes the rights of, or has caused harm to, a third party (ii) any actual or threatened claim caused by any infringement caused by the 
                 combination of the Service with any of Your products, service, and hardware or business process; (iii) any breach by You of Your representations and warranties; or (iv) any actual or 
@@ -238,78 +238,78 @@
                 affect ‘s business or Service); (c) provides to You all reasonable assistance; and (d) has not compromised or settled such claim.
             </p><br />
             <p>
-                14.2.Evercam shall indemnify and hold You and Your parent organisations, subsidiaries, affiliates, officers, associates and permitted assignees, directors, employees, and agents harmless from and 
+                14.2. Evercam shall indemnify and hold You and Your parent organisations, subsidiaries, affiliates, officers, associates and permitted assignees, directors, employees, and agents harmless from and 
                 against any and all claims, costs, damages, losses, liabilities and expenses (including attorneys’ fees and costs) arising out of or in connection with a claim alleging that the Service infringes 
                 a copyright, a patent granted as of the Effective Date, or a trademark of a third party; provided that You (a) promptly give written notice of the claim to Evercam; (b) give Evercam sole control
                  of the defense and settlement of the claim (provided that You may not settle or defend any claim unless You unconditionally release Evercam of all liability); (c) provide to Evercam all 
                 reasonable assistance; and (d) have not compromised or settled such claim.
             </p><br />
-            <h4>15.Disclaimer of Warranties</h4>
-            <p>15.1.Evercam AND ITS LICENSORS MAKE NO REPRESENTATION, WARRANTY, OR GUARANTY AS TO THE RELIABILITY, TIMELINESS, QUALITY, SUITABILITY, TRUTH, AVAILABILITY, ACCURACY OR COMPLETENESS OF THE 
-                SERVICE OR ANY CONTENT. Evercam AND ITS LICENSORS DO NOT REPRESENT OR WARRANT THAT (A) THE USE OF THE SERVICE WILL BE SECURE, TIMELY, UNINTERRUPTED OR ERROR-FREE OR OPERATE IN COMBINATION WITH 
-                ANY OTHER HARDWARE, SOFTWARE, SYSTEM OR DATA, (B) THE SERVICE WILL MEET YOUR REQUIREMENTS OR EXPECTATIONS, (C) ANY STORED DATA WILL BE KEPT, (D) THE QUALITY OF ANY PRODUCTS, SERVICES, INFORMATION,
-                 OR OTHER MATERIAL RECORDED BY YOU THROUGH THE SERVICE WILL MEET YOUR REQUIREMENTS OR EXPECTATIONS, (E) ERRORS OR DEFECTS WILL BE CORRECTED, OR (F) THE SERVICE OR THE SERVER(S) THAT MAKE THE 
-                SERVICE AVAILABLE ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS. THE SERVICE AND ALL CONTENT IS PROVIDED TO YOU STRICTLY ON AN “AS IS” BASIS. ALL CONDITIONS, REPRESENTATIONS AND WARRANTIES, 
-                WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT OF THIRD 
-                PARTY RIGHTS, ARE HEREBY DISCLAIMED TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW BY Evercam AND ITS LICENSORS.</p><br />
-            <h4>16.Internet Delays</h4>
+            <h4>15. Disclaimer of Warranties</h4>
+            <p>15.1. Evercam and its licensors make no representation, warranty, or guaranty as to the reliability, timeliness, quality, suitability, truth, availability, accuracy or completeness of the 
+                service or any content. Evercam and its licensors do not represent or warrant that (a) the use of the service will be secure, timely, uninterrupted or error-free or operate in combination with 
+                any other hardware, software, system or data, (B) the service will meet your requirements or expectations, (C) any stored data will be kept, (D) the quality of any products, services, information,
+                 or other material recorded by you through the service will meet your requirements or expectations, (E) errors or defects will be corrected, or (F) the service or the server(s) that make the 
+                service available are free of viruses or other harmful components. The service and all content is provided to you strictly on an “as is” basis. All conditions, representations and warranties, 
+                whether express, implied, statutory or otherwise, including, without limitation, any implied warranty of merchantability, fitness for a particular purpose, or non-infringement of third 
+                party rights, are hereby disclaimed to the maximum extent permitted by applicable law by Evercam and its licensors.</p><br />
+            <h4>16. Internet Delays</h4>
             <p>
-                16.1.The Service may be subject to limitations, delays, and other problems inherent in the use of the internet and electronic communications. Evercam is not responsible for any delays, delivery failures, 
+                16.1. The Service may be subject to limitations, delays, and other problems inherent in the use of the internet and electronic communications. Evercam is not responsible for any delays, delivery failures, 
                 or other damage resulting from such problems.
             </p>
-            <h4>17.Limitation of Liability</h4>
+            <h4>17. Limitation of Liability</h4>
             <p>
-                17.1.In no event shall Evercam’s aggregate liability exceed the amounts actually paid by You in the one (1) month period immediately preceding the event giving rise to such claim.
+                17.1. In no event shall Evercam’s aggregate liability exceed the amounts actually paid by You in the one (1) month period immediately preceding the event giving rise to such claim.
             </p><br />
             <p>
-                17.2.In no event shall either party and/or its licensors be liable to any other party for any indirect, punitive, special, exemplary, incidental or consequential damages (including loss of data, 
+                17.2. In no event shall either party and/or its licensors be liable to any other party for any indirect, punitive, special, exemplary, incidental or consequential damages (including loss of data, 
                 revenue, profits, use or other economic advantage) arising out of or under this Agreement.
             </p><br />
-            <h4>18.Notice</h4>
+            <h4>18. Notice</h4>
             <p>
-                18.1.You may give notice to Evercam (such notice shall be deemed given when received by) at any time by any of the following: email sent to info@evercam.io; letter delivered by 
+                18.1. You may give notice to Evercam (such notice shall be deemed given when received by) at any time by any of the following: email sent to info@evercam.io; letter delivered by 
                 prepaid post to the head office location at 12, Parnell Square, Dublin, Co. Dublin.
             </p><br />
             <p>
-                18.2.Such notice shall be deemed to have been received and properly served upon the expiration of 48 hours after mailing or posting.
+                18.2. Such notice shall be deemed to have been received and properly served upon the expiration of 48 hours after mailing or posting.
             </p><br />
-            <h4>19.Modification to Terms</h4>
+            <h4>19. Modification to Terms</h4>
             <p>
-                19.1.Evercam shall have the right to modify the terms and conditions of this Agreement or its policies relating to the Service at any time and upon fifteen (15) days’ prior notice. 
+                19.1. Evercam shall have the right to modify the terms and conditions of this Agreement or its policies relating to the Service at any time and upon fifteen (15) days’ prior notice. 
                 Continued use of the Service by You after any notice of such changes shall constitute Your consent to such changes and You shall be bound by the terms of this Agreement or Evercam’s policies as amended.
             </p><br />
-            <h4>20.Assignment; Change in Control</h4>
+            <h4>20. Assignment; Change in Control</h4>
             <p>
-                20.1.This Agreement is binding on You and us and on our respective successors and assigns.
+                20.1. This Agreement is binding on You and us and on our respective successors and assigns.
             </p><br />
             <p>
-                20.2.This Agreement may not be transferred, assigned, or otherwise disposed of by You without the prior written approval of Evercam.
+                20.2. This Agreement may not be transferred, assigned, or otherwise disposed of by You without the prior written approval of Evercam.
             </p><br />
             <p>
-                20.3.Evercam may transfer, assign, or otherwise dispose of this Agreement without Your consent to (i) a parent or subsidiary, (ii) an acquirer of assets, or (iii) a successor by merger.
+                20.3. Evercam may transfer, assign, or otherwise dispose of this Agreement without Your consent to (i) a parent or subsidiary, (ii) an acquirer of assets, or (iii) a successor by merger.
             </p><br />
             <p>
-                20.4.Any purported assignment in violation of this section shall be void.
+                20.4. Any purported assignment in violation of this section shall be void.
             </p><br />
             <p>
-                20.5.Any actual or proposed change in control of Your company that results or would result in a competitor of Evercam directly or indirectly owning or controlling 50% or 
+                20.5. Any actual or proposed change in control of Your company that results or would result in a competitor of Evercam directly or indirectly owning or controlling 50% or 
                 more of Your company shall entitle Evercam to terminate this Agreement immediately upon written notice.
             </p><br />
-            <h4>General</h4>
+            <h4>21. General</h4>
             <p>
-                21.1.This Agreement shall be governed by the laws of the Republic of Ireland, without regard to the choice or conflicts of law provisions of any jurisdiction, and any disputes, actions, 
+                21.1. This Agreement shall be governed by the laws of the Republic of Ireland, without regard to the choice or conflicts of law provisions of any jurisdiction, and any disputes, actions, 
                 claims or causes of action arising out of or in connection with this Agreement or the Service shall be subject to the exclusive jurisdiction of the courts of Ireland.
             </p><br />
             <p>
-                21.2.If any provision of this Agreement is held by a court of competent jurisdiction to be invalid or unenforceable, then such provision(s) shall be construed, as nearly as possible, to reflect 
+                21.2. If any provision of this Agreement is held by a court of competent jurisdiction to be invalid or unenforceable, then such provision(s) shall be construed, as nearly as possible, to reflect 
                 the intentions of the invalid or unenforceable provision(s), with all other provisions remaining in full force and effect. No joint venture, partnership, employment, or agency relationship exists 
                 between You and Evercam as a result of this agreement or use of the Service.
             </p><br />
             <p>
-                21.3.A failure by Evercam to enforce any of its rights or any provision in this Agreement shall not constitute a waiver of such right or provision unless acknowledged and agreed to by Evercam in writing.
+                21.3. A failure by Evercam to enforce any of its rights or any provision in this Agreement shall not constitute a waiver of such right or provision unless acknowledged and agreed to by Evercam in writing.
             </p><br />
             <p>
-                21.4.This Agreement and any document expressly referred to in it comprises the entire agreement between You and Evercam and supersedes all prior or contemporaneous negotiations, discussions or 
+                21.4. This Agreement and any document expressly referred to in it comprises the entire agreement between You and Evercam and supersedes all prior or contemporaneous negotiations, discussions or 
                 agreements, whether written or oral, between the parties regarding the subject matter contained herein.
             </p>
         </div>
