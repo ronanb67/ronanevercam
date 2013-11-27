@@ -29,45 +29,45 @@
             <h4>1. Definitions</h4>
             <p>As used in this Agreement now or hereafter associated herewith:</p>
             <p>
-                <b>“Agreement”</b> means these online terms of use and any materials available on the Evercam website specifically incorporated by reference herein, as such materials, including the terms of this 
+                <strong>“Agreement”</strong> means these online terms of use and any materials available on the Evercam website specifically incorporated by reference herein, as such materials, including the terms of this 
         Agreement, may be updated by Evercam from time to time in its sole discretion;
             </p>
             <p>
-                <b>“Content”</b> means the audio and visual information, documents, software, products and services contained within, or made available to You in the course of using, the Service;
+                <strong>“Content”</strong> means the audio and visual information, documents, software, products and services contained within, or made available to You in the course of using, the Service;
             </p>
             <p>
-                <b>“Customer Data”</b> means any audio or visual or other data, information or material provided or submitted by You to the Service in the course of using the Service;
+                <strong>“Customer Data”</strong> means any audio or visual or other data, information or material provided or submitted by You to the Service in the course of using the Service;
             </p>
             <p>
-                <b>“Effective Date”</b> means the earlier of either the date this Agreement is accepted or the date You begin using the Service;
+                <strong>“Effective Date”</strong> means the earlier of either the date this Agreement is accepted or the date You begin using the Service;
             </p>
             <p>
-                <b>“Term”</b> means the contract term, beginning on the Effective Date and ending on termination of this Agreement in accordance with clause 12;
+                <strong>“Term”</strong> means the contract term, beginning on the Effective Date and ending on termination of this Agreement in accordance with clause 12;
             </p>
             <p>
-                <b>“Intellectual Property Rights”</b> means unpatented inventions, patent applications, patents, design rights, copyrights, trademarks, service marks, trade names, domain name rights, mask work 
+                <strong>“Intellectual Property Rights”</strong> means unpatented inventions, patent applications, patents, design rights, copyrights, trademarks, service marks, trade names, domain name rights, mask work 
                 rights, know-how and other trade secret rights, and all other intellectual property rights, derivatives thereof, and forms of protection of a similar nature anywhere in the world;
             </p>
             <p>
-                <b>“Minimum Contract Period”</b> means the minimum contract period of 18 Months that You are required to enter into to use the Service.
+                <strong>“Minimum Contract Period”</strong> means the minimum contract period of 18 Months that You are required to enter into to use the Service.
             </p>
             <p>
-                <b>“Evercam”</b> means Evercam Limited an Irish private limited company (company number 490988 and whose registered office is at 12, Parnell Square, Dublin, Co. Dublin)
+                <strong>“Evercam”</strong> means Evercam Limited an Irish private limited company (company number 490988 and whose registered office is at 12, Parnell Square, Dublin, Co. Dublin)
             </p>
             <p>
-                <b>“Evercam’s Technology”</b> means all of Evercam’s proprietary technology (including software, hardware, products, processes, algorithms, user interfaces, know-how, techniques, designs and 
+                <strong>“Evercam’s Technology”</strong> means all of Evercam’s proprietary technology (including software, hardware, products, processes, algorithms, user interfaces, know-how, techniques, designs and 
                 other tangible or intangible technical material or information) made available to You by Evercam in providing the Service;
             </p>
             <p>
-                <b>“Reseller”</b> means an independent contractor or business entity who has signed a reseller agreement with Evercam to sell licenses of Services to end users;
+                <strong>“Reseller”</strong> means an independent contractor or business entity who has signed a reseller agreement with Evercam to sell licenses of Services to end users;
             </p>
             <p>
-                <b>“Service”</b> means access to the specific edition of Evercam’s online goal setting and performance management system, developed, operated, and maintained by Evercam, accessible via 
+                <strong>“Service”</strong> means access to the specific edition of Evercam’s online goal setting and performance management system, developed, operated, and maintained by Evercam, accessible via 
                 cloud, evercam.io.tv or another designated web site or IP address, and ancillary online or offline products and services provided to You by Evercam, to which You are being granted access under this 
                 Agreement, including the Evercam Technology and the Content;
             </p>
             <p>
-                <b>“User(s)”</b> means Your family members, employees, representatives, consultants, contractors or agents who are authorised to use the Service and have been supplied user identifications and 
+                <strong>“User(s)”</strong> means Your family members, employees, representatives, consultants, contractors or agents who are authorised to use the Service and have been supplied user identifications and 
                 passwords by You (or by Evercam at Your request).
             </p><br />
             <h4>2. Notifications</h4>
