@@ -5,6 +5,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title></title>
+    <link rel='shortcut icon' href='images/favicon.ico' type='image/x-icon'/>
     <link href="highlight/highlight.js/styles/googlecode.css" rel="stylesheet" />
     <link href="fonts/font-awesome.css" rel="stylesheet" />
     <link href="fonts/Evercam-Extra-Icons/evercam-fonts.css" rel="stylesheet" />

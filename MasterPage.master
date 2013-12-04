@@ -7,7 +7,7 @@
 <head runat="server">
     <%--<link  runat="server"rel="shortcut icon" href="assets/ico/favicon.ico" type="image/ico"/>--%>
     <title></title>
-  
+    <link rel='shortcut icon' href='images/favicon.ico' type='image/x-icon'/>
     <link href="highlight/highlight.js/styles/googlecode.css" rel="stylesheet" />
     <link href="fonts/font-awesome.css" rel="stylesheet" />
     <link href="fonts/Evercam-Extra-Icons/evercam-fonts.css" rel="stylesheet" />
