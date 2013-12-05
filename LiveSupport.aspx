@@ -8,7 +8,6 @@
             <h1>Making Cameras Easy</h1>
             <p>LiveSupport.</p>            
         </div>
-    </div> 
-    <hr class="featurette-divider" />    
+    </div>       
 </asp:Content>
 

@@ -611,8 +611,7 @@
                 </tr>
             </table>
         </section>
-    </div>
-        
-    <hr class="featurette-divider" />
+    </div>  
+    
 </asp:Content>
 

@@ -25,7 +25,6 @@
                      <abbr title="Email">E:</abbr>
                         <a href="mailto:info@evercam.com">info@evercam.com</a>
                 </address>
-            </div>
-    <hr class="featurette-divider" style="margin-left:-10px"/>
+            </div>    
 </asp:Content>
 

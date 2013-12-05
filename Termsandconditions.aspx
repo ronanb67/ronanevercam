@@ -75,8 +75,7 @@
             was advertised at an incorrect price. In the event that you order an item and the price published on Evercam is incorrect for any reason, we will email you to inform you that we have not 
             accepted your order, and shall refund any amount already paid to us. Refunds will be issued within 30 days of receipt of the returned product. You may terminate the the Services provided 
             hereunder upon 30 days prior written notice at any time following the end of the Minimum Contract Period of one month.
-        </p>
-        <hr class="featurette-divider" style="margin-left:-10px" />
+        </p>       
     </div>    
 </asp:Content>
 

@@ -117,12 +117,8 @@
     data-clientid="1015513223151-l4stovuktjsfscb6tb303dlakgof4b27.apps.googleusercontent.com"
     data-cookiepolicy="single_host_origin"
     data-requestvisibleactions="http://schemas.google.com/AddActivity"
-    data-scope="https://www.googleapis.com/auth/plus.login">
-      
+    data-scope="https://www.googleapis.com/auth/plus.login">      
   </span>
-</span> 
-
- <hr class="featurette-divider" style="margin-left:-10px"/>
-   
+</span>   
 </asp:Content>
 

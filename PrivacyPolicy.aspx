@@ -312,7 +312,6 @@
                 21.4. This Agreement and any document expressly referred to in it comprises the entire agreement between You and Evercam and supersedes all prior or contemporaneous negotiations, discussions or 
                 agreements, whether written or oral, between the parties regarding the subject matter contained herein.
             </p>
-        </div>
-    <hr class="featurette-divider" style="margin-left:-10px"/>
+        </div>    
 </asp:Content>
 

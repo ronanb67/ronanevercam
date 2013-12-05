@@ -72,7 +72,7 @@
             <p>4.&nbsp;&nbsp;<a href="../Knowledgebase/HowOftenWillIBeCharged.aspx">How often will I be charged?</a></p>
         </section>
 
-    </div>      
-    <hr class="featurette-divider" style="margin-left:-10px"/>
+    </div>
+   
 </asp:Content>
 

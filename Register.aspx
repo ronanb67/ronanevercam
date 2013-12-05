@@ -37,8 +37,5 @@
             <div>
                 <asp:Button runat="server" OnClick="CreateUser_Click" Text="Register" />
             </div>
-        </div>
-    
-    
-    <hr class="featurette-divider" />
+        </div>   
 </asp:Content>
