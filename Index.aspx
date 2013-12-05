@@ -190,7 +190,6 @@
                 </div>
             </section>
             <hr class="featurette-divider" />
-
             <section id="Marketplace">
                 <div class="row featurette">
                     <div class="col-md-4">
