@@ -35,7 +35,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" style="color:white;" href="/Index.aspx">Evercam</a>
+                    <a class="navbar-brand" style="color:white;" href="/Index.aspx"><img id='logo' src='images/logo2.png'/></a>
                 </div>
                 <div class="collapse navbar-collapse">
                     <ul class="nav navbar-nav" style="font-size: medium; color: white;">
@@ -77,32 +77,34 @@
                             anchor.setAttribute('class', 'active');
                         }
                     }
-
-                </script>
-                
+                </script>             
                 
             </asp:ContentPlaceHolder>
-
-            <br />
-            
-            <footer style="margin-left:-20px">
-                <p style="float: right;"><a href="Contact.aspx">Contact us</a>&nbsp|&nbsp<a href="PrivacyPolicy.aspx">Privacy Policy</a> &nbsp|&nbsp<a href="Termsandconditions.aspx">Terms and Conditions</a>
-                    </p>
-                    <p style="float: right"><a href="../Knowledgebase.aspx">Knowledge Base</a>&nbsp|&nbsp<a href="Jobs.aspx">Jobs</a>&nbsp|&nbsp</p>
-                <p>Telephone +353 (1) 538 3333 | Email <a href="mailto:info@evercam.com">info@evercam.com</a></p>
-                <p>&copy; 2013 Evercam, 12 Parnell Square East, Dublin 1, Ireland.</p>
-
-                <div class="social">
-
-                    <a href="https://twitter.com/evercamdotcom" style="text-decoration: none"><i class="icon-twitter icon-2x"></i>&nbsp;&nbsp;&nbsp;</a>
-                    <a href="https://www.facebook.com/evercam.tv?fref=ts" style="text-decoration: none"><i class="icon-facebook icon-2x"></i>&nbsp;&nbsp;&nbsp;</a>
-                    <a href="http://www.linkedin.com/company/3496340?trk=tyah&trkInfo=tas%3Aeverca%2Cidx%3A1-1-1" style="text-decoration: none"><i class="icon-linkedin icon-2x"></i></a>
-                </div>
-            </footer>
-
-        </div>
-
+            </div>
+            <footer>                
+                    <div class='row'>
+                        <div class='col-sm-12'>
+                            <ul class='social-icons'>
+                                <li>
+                                    <a href='https://twitter.com/evrcm' style="text-decoration: none"><i class="icon-twitter icon-2x"></i></a>
+                                </li>
+                                <li>
+                                    <a href='https://www.facebook.com/evrcm' style="text-decoration: none"><i class="icon-facebook icon-2x"></i></a>
+                                </li>
+                                <li>
+                                    <a href='http://www.linkedin.com/company/evercam' style="text-decoration: none"><i class="icon-linkedin icon-2x"></i></a>
+                                </li>
+                            </ul>
+                            <span>
+                                <a href="Contact.aspx">Contact us</a>
+                                <a href="Termsandconditions.aspx">Terms</a>
+                                <a href="PrivacyPolicy.aspx">Privacy</a>
+                                <a href="Jobs.aspx">Jobs</a>
+                            </span>
+                        </div>
+                    </div>                
+            </footer>            
+        
     </form>
 </body>
-
 </html>

@@ -14,7 +14,6 @@
     <link href="css/offcanvas.css" rel="stylesheet" />
     <link href="css/site.css" rel="stylesheet" />
     <link href="css/Evercam-Terminal.css" rel="stylesheet" />
-
     <link href="assets/plugins/bootstrap/css/bootstrap-responsive.css" rel="stylesheet" />    
     <link href="assets/plugins/bootstrap/css/bootstrap.css" rel="stylesheet" />
     <link href="assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
@@ -24,12 +23,8 @@
     <link href="assets/css/style.css" rel="stylesheet" type="text/css" />
     <link href="assets/css/style-responsive.css" rel="stylesheet" type="text/css" />    
     <link href="assets/plugins/uniform/css/uniform.default.css" rel="stylesheet" type="text/css" />
-   
-    
-
     <link href="assets/css/DataTables.css" rel="stylesheet" type="text/css" />
     <link href="assets/plugins/gritter/css/jquery.gritter.css" rel="stylesheet" type="text/css" />
-
     <link rel="stylesheet" type="text/css" href="assets/plugins/jquery-ui/jquery-ui-1.10.1.custom.min.css" />
     <link href="assets/plugins/bootstrap-modal/css/bootstrap-modal.css" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" type="text/css" href="assets/plugins/select2/select2_metro.css" />
@@ -87,26 +82,33 @@
             </div>
             <asp:ContentPlaceHolder ID="MainBodyContent" runat="server">
             </asp:ContentPlaceHolder>
-
-            <br />
-
-
-            <footer class="footer" style="margin-left:-15px" >
-               <p style="float: right;"><a href="../Contact.aspx">Contact us</a>&nbsp|&nbsp<a href="../PrivacyPolicy.aspx">Privacy Policy</a> &nbsp|&nbsp<a href="../Termsandconditions.aspx">Terms and Conditions</a>
-                    </p>
-                    <p style="float: right"><a href="../Knowledgebase.aspx">Knowledge Base</a>&nbsp|&nbsp<a href="../Jobs.aspx">Jobs</a>&nbsp|&nbsp</p>
-                <p>Telephone +353 (1) 538 3333 | Email <a href="mailto:info@evercam.com">info@evercam.com</a></p>
-                <p>&copy; 2013 Evercam, 12 Parnell Square East, Dublin 1, Ireland.</p>
-
-                <div class="social">
-
-                    <a href="https://twitter.com/evercamdotcom" style="text-decoration: none"><i class="icon-twitter icon-2x"></i>&nbsp;&nbsp;&nbsp;</a>
-                    <a href="https://www.facebook.com/evercam.tv?fref=ts" style="text-decoration: none"><i class="icon-facebook icon-2x"></i>&nbsp;&nbsp;&nbsp;</a>
-                    <a href="http://www.linkedin.com/company/3496340?trk=tyah&trkInfo=tas%3Aeverca%2Cidx%3A1-1-1" style="text-decoration: none"><i class="icon-linkedin icon-2x"></i></a>
-                </div>
-            </footer>
-
-        </div>
+            </div>
+            <footer>
+                
+                    <div class='row'>
+                        <div class='col-sm-12'>
+                            <ul class='social-icons'>
+                                <li>
+                                    <a href='https://twitter.com/evrcm' style="text-decoration: none"><i class="icon-twitter icon-2x"></i></a>
+                                </li>
+                                <li>
+                                    <a href='https://www.facebook.com/evrcm' style="text-decoration: none"><i class="icon-facebook icon-2x"></i></a>
+                                </li>
+                                <li>
+                                    <a href='http://www.linkedin.com/company/evercam' style="text-decoration: none"><i class="icon-linkedin icon-2x"></i></a>
+                                </li>
+                            </ul>
+                            <span>
+                                <a href="../Contact.aspx">Contact us</a>
+                                <a href="../Termsandconditions.aspx">Terms</a>
+                                <a href="../PrivacyPolicy.aspx">Privacy</a>
+                                <a href="../Jobs.aspx">Jobs</a>
+                            </span>
+                        </div>
+                    </div>
+                
+            </footer> 
+        
 
     </form>
     <!-- BEGIN JAVASCRIPTS(Load javascripts at bottom, this will reduce page load time) -->
