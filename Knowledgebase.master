@@ -78,31 +78,37 @@
             <asp:ContentPlaceHolder ID="MainBodyContent" runat="server">
             </asp:ContentPlaceHolder>
             </div>
-            <footer>
-                
-                    <div class='row'>
-                        <div class='col-sm-12'>
-                            <ul class='social-icons'>
-                                <li>
-                                    <a href='https://twitter.com/evrcm' style="text-decoration: none"><i class="icon-twitter icon-2x"></i></a>
-                                </li>
-                                <li>
-                                    <a href='https://www.facebook.com/evrcm' style="text-decoration: none"><i class="icon-facebook icon-2x"></i></a>
-                                </li>
-                                <li>
-                                    <a href='http://www.linkedin.com/company/evercam' style="text-decoration: none"><i class="icon-linkedin icon-2x"></i></a>
-                                </li>
-                            </ul>
-                            <span>
-                                <a href="../Contact.aspx">Contact us</a>
-                                <a href="../Termsandconditions.aspx">Terms</a>
-                                <a href="../PrivacyPolicy.aspx">Privacy</a>
-                                <a href="../Jobs.aspx">Jobs</a>
-                            </span>
-                        </div>
-                    </div>
-                
-            </footer> 
+        <footer>
+
+            <div class='row'>
+                <div class='col-sm-12'>
+                    <ul class='social-icons'>
+                        <li>
+                            <a href='https://twitter.com/evrcm' style="text-decoration: none"><i class="icon-twitter"></i></a>
+                        </li>
+                        <li>
+                            <a href='https://www.facebook.com/evrcm' style="text-decoration: none"><i class="icon-facebook"></i></a>
+                        </li>
+                        <li>
+                            <a href='http://www.linkedin.com/company/evercam' style="text-decoration: none"><i class="icon-linkedin"></i></a>
+                        </li>
+                        <li>
+                            <a href='http://plus.google.com/+evercam' style="text-decoration: none"><i class="icon-google-plus"></i></a>
+                        </li>
+                        <li>
+                            <a href='http://github.com/evercam' style="text-decoration: none"><i class="icon-github"></i></a>
+                        </li>
+                    </ul>
+                    <span>
+                        <a href="../Contact.aspx">Contact us</a>
+                        <a href="../Termsandconditions.aspx">Terms</a>
+                        <a href="../PrivacyPolicy.aspx">Privacy</a>
+                        <a href="../Jobs.aspx">Jobs</a>
+                    </span>
+                </div>
+            </div>
+
+        </footer> 
         
 
     </form>
