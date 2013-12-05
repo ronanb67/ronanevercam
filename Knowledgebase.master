@@ -79,7 +79,6 @@
             </asp:ContentPlaceHolder>
             </div>
         <footer>
-
             <div class='row'>
                 <div class='col-sm-12'>
                     <ul class='social-icons'>
@@ -107,10 +106,7 @@
                     </span>
                 </div>
             </div>
-
-        </footer> 
-        
-
+        </footer>
     </form>
     <!-- BEGIN JAVASCRIPTS(Load javascripts at bottom, this will reduce page load time) -->
     <!-- BEGIN CORE PLUGINS -->
