@@ -33,10 +33,129 @@
 }
 .featurette-heading.smalltopmargin{
     margin-top:15px !important;
-
+}
+/*new brand nav*/
+header h1 a.navbar-brand {
+  font-size: 50px;
+  line-height: 1em;
+  color: #4d4d4d;
+  padding: 0;
 }
 
-/*Main Navbar*/
+header #logo {
+  padding-bottom: 15px;
+}
+/*new navbar*/
+.navbar-default{
+  background-color: #FFF;
+  border: 1px solid #FFF;
+}
+
+.tm-navbar {
+  padding: 0px;
+  margin: 56px 0 0 0;
+  position: relative;
+  z-index: 5;
+  float: right;
+}
+
+.tm-navbar > li {
+  padding: 0;
+  margin-left: 32px;
+  position: relative;
+}
+
+.tm-navbar > li:first-child {
+  margin-left: 0
+}
+
+.tm-navbar > li.sub-menu > a:before {
+  content: " ";
+  position: absolute;
+  background: url(../img/menu-marker.gif) 0 0 no-repeat;
+  width: 5px;
+  height: 6px;
+  left: 50%;
+  bottom: 3px;
+  margin-left: -2px;
+}
+
+.tm-navbar > li > a {
+  color: #4d4d4d;
+  font-size: 16px;
+  line-height: 20px;
+  padding: 0 0 13px 0;
+  border-bottom: 3px  solid transparent;
+}
+
+.tm-navbar > li.sfHover > a,
+.tm-navbar > li.sfHover > a:hover,
+.tm-navbar > li > a:hover,
+.tm-navbar > li.active > a,
+.tm-navbar > li.active > a:hover {
+  border-bottom: 3px  solid #eb5f53;
+  background: none;
+}
+
+.tm-navbar ul {
+  position: absolute;
+  list-style: none;
+  display: none;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 28px 10px 28px 10px;
+  margin: 0;
+  width: 155px;
+  text-align: center;
+  left: -10px;
+  top: 45px;
+  background: #4d4d4d;
+  border-radius: 4px;
+}
+
+.tm-navbar ul li {
+  font-size: 16px;
+  line-height: 22px;
+  display: block;
+}
+
+.tm-navbar ul li a {
+  color: #ffffff;
+  display: block;
+  padding: 4px 10px 5px 20px;
+  border-radius: 4px;
+  text-align: left;
+}
+
+.tm-navbar ul li a:hover {
+  color: #ffffff;
+  background: #646464;
+  text-decoration: none;
+}
+
+.left-nav h1 {
+  font-size: 1em;
+  text-transform: uppercase;
+  margin: 10px 0px;
+  padding: 0px;
+}
+
+.left-nav ol,
+.left-nav ul {
+  padding: 0px;
+}
+
+.left-nav ol li,
+.left-nav ul li {
+  color: #c0c0c0;
+  margin: 5px 0px;
+}
+
+.left-nav ol ol,
+.left-nav ul ul {
+  padding-left: 22px;
+}
 
 /*2nd Nav- sidebar*/
 .sidebar{float: right;             
