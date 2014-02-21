@@ -9,22 +9,7 @@
             <p>Welcome to the marketplace. Sign up your camera and then come and try out the app store.</p>
         </div>
     </div>
-    <div class="container">
-        <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
-            <div class="sidebar">
-                <div class="list-group">
-                    <a href="MarketPlace.aspx" class="list-group-item">Analytics</a>
-                    <a href="MarketPlace.aspx" class="list-group-item">Transcoding</a>
-                    <a href="MarketPlace.aspx" class="list-group-item">Storage</a>
-                    <a href="MarketPlace.aspx" class="list-group-item">Restreaming</a>
-                    <a href="MarketPlace.aspx#Cantfindyourapp" class="list-group-item">Cant find your app?</a>
-                </div>
-            </div>
-            <!--/span-->
-        </div>
-        <!--/.well -->
-    </div>
-    <!--/span-->
+    
 
     <div class="container marketing" style="align-content: center; margin-left: -80px">
 

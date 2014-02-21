@@ -12,23 +12,7 @@
             <h1>Developing with Evercam</h1>
             <p>Start using our API today and integrate cameras with your applications within minutes.</p>
         </div>
-    </div>
-    <div class="container">
-        <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
-            <div class="sidebar">
-                <div class="list-group">
-                    <a href="Develop.aspx#FreeAPI" class="list-group-item">Free API</a>
-                    <a href="Develop.aspx#ProAPI" class="list-group-item">Pro API</a>
-                    <a href="Develop.aspx#Platform" class="list-group-item">Platform</a>
-                </div>
-            </div>
-            <!--/span-->
-
-
-        </div>
-        <!--/.well -->
-    </div>
-    <!--/span-->
+    </div>    
 
     <div class="container" style="margin-left: -45px;">
         <div id="FreeAPI"></div>

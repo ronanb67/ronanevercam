@@ -9,24 +9,7 @@
             <p>Get your IP Camera connected immediately. All you need to start is an IP Address. </p>
         </div>
     </div>
-    <div class="container">
-        <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
-            <div class="sidebar">
-                <div class="list-group">
-                    <a href="Connect.aspx#Connect" class="list-group-item">Connect</a>
-                    <a href="Knowledgebase.aspx" class="list-group-item">Knowledge Base</a>
-                    <a href="Develop.aspx" class="list-group-item">Forum</a>
-                    <a href="MarketPlace.aspx" class="list-group-item">Tools</a>
-                    <a href="MarketPlace.aspx" class="list-group-item">Apps</a>
-                    <a href="MarketPlace.aspx" class="list-group-item">Devices</a>
-                    <a href="LiveSupport.aspx" class="list-group-item">Live Support</a>
-                </div>
-            </div>
-            <!--/.well -->
-        </div>
-        <!--/span-->
-    </div>
-    <div class="container marketing" style="margin-left: -30px">
+       <div class="container marketing" style="margin-left: -30px">
 
         <section id="Connect">
             <div class="row featurette">
