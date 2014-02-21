@@ -110,7 +110,7 @@
 
     
     <!-- Add a sign-in button to your page -->
-    <span id="signinButton" >
+    <%--<span id="signinButton" >
   <span
     class="g-signin"
     data-callback="signinCallback"
@@ -119,6 +119,6 @@
     data-requestvisibleactions="http://schemas.google.com/AddActivity"
     data-scope="https://www.googleapis.com/auth/plus.login">      
   </span>
-</span>   
+</span>   --%>
 </asp:Content>
 
