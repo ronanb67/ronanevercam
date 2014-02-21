@@ -2,7 +2,7 @@
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
     
-    <!-- Include the Google+ script on your page -->
+    <%--<!-- Include the Google+ script on your page -->
     <script type="text/javascript">
         (function () {
             var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
@@ -54,7 +54,7 @@
         }
         // Could trigger the disconnect on a button click
         $('#revokeButton').click(disconnectUser);
-</script>
+</script>--%>
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
